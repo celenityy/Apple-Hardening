@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledForCerts</key>
+			<array/>
+			<key>DisabledForDomains</key>
+			<array/>
+			<key>PayloadDisplayName</key>
+			<string>Certificate Transparency</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.certificatetransparency.687209DC-44AA-4309-8F33-D79BCB4225D0</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.certificatetransparency</string>
+			<key>PayloadUUID</key>
+			<string>687209DC-44AA-4309-8F33-D79BCB4225D0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AccessType</key>
+			<string>WIFI_ONLY</string>
+			<key>PayloadDisplayName</key>
+			<string>AirPlay Security</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.airplay.security.DB7F4610-30C5-4DD3-A164-03983E79CE6A</string>
+			<key>PayloadType</key>
+			<string>com.apple.airplay.security</string>
+			<key>PayloadUUID</key>
+			<string>DB7F4610-30C5-4DD3-A164-03983E79CE6A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SecurityType</key>
+			<string>PASSCODE_ALWAYS</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Hardening (Shared)</string>
+	<key>PayloadIdentifier</key>
+	<string>dev.celenity.shared</string>
+	<key>PayloadOrganization</key>
+	<string>celenity 💘</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>6B4FA14D-D52D-4C56-8F20-3961D7A234CE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
