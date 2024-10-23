@@ -45,8 +45,6 @@
 			<true/>
 			<key>allowCellularPlanModification</key>
 			<true/>
-			<key>allowCloudFreeform</key>
-			<false/>
 			<key>allowCloudPrivateRelay</key>
 			<true/>
 			<key>allowContentCaching</key>
@@ -75,8 +73,6 @@
 			<true/>
 			<key>allowFingerprintModification</key>
 			<true/>
-			<key>allowHostPairing</key>
-			<false/>
 			<key>allowInternetSharingModification</key>
 			<false/>
 			<key>allowLocalUserCreation</key>
@@ -87,8 +83,6 @@
 			<true/>
 			<key>allowMarketplaceAppInstallation</key>
 			<true/>
-			<key>allowMusicService</key>
-			<false/>
 			<key>allowNotificationsModification</key>
 			<true/>
 			<key>allowOTAPKIUpdates</key>
@@ -104,8 +98,6 @@
 			<key>allowPersonalHotspotModification</key>
 			<true/>
 			<key>allowPersonalizedHandwritingResults</key>
-			<false/>
-			<key>allowPodcasts</key>
 			<false/>
 			<key>allowPredictiveKeyboard</key>
 			<false/>
@@ -124,7 +116,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSharedDeviceTemporarySession</key>
-			<false/>
+			<true/>
 			<key>allowSiriServerLogging</key>
 			<false/>
 			<key>allowSpotlightInternetResults</key>
@@ -141,8 +133,6 @@
 			<true/>
 			<key>allowUSBRestrictedMode</key>
 			<true/>
-			<key>allowUniversalControl</key>
-			<false/>
 			<key>allowUnpairedExternalBootToRecovery</key>
 			<true/>
 			<key>allowUntrustedTLSPrompt</key>
@@ -276,6 +266,8 @@
 			<string>6E3F808E-E189-44EF-BD05-7EE84CD8DB86</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>Search Queries Data Sharing Status</key>
+			<integer>2</integer>
 			<key>Siri Data Sharing Opt-In Status</key>
 			<integer>2</integer>
 		</dict>
@@ -360,8 +352,6 @@
 			<string>A53152B4-4876-4CED-9A38-D691FFB39CD1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>disableAppleMusic</key>
-			<true/>
 			<key>disableCheckForUpdates</key>
 			<false/>
 			<key>disableMusicSocial</key>

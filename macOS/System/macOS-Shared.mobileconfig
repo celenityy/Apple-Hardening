@@ -307,16 +307,6 @@
 			<integer>1</integer>
 			<key>cachedaccounts.WarnOnCreate.allowNever</key>
 			<true/>
-			<key>com.apple.EnergySaver.desktop.ACPower</key>
-			<dict>
-				<key>Reduce Processor Speed</key>
-				<integer>0</integer>
-			</dict>
-			<key>com.apple.EnergySaver.portable.BatteryPower</key>
-			<dict>
-				<key>Reduce Processor Speed</key>
-				<integer>0</integer>
-			</dict>
 			<key>com.apple.cachedaccounts.WarnOnCreate</key>
 			<true/>
 			<key>dontAllowFDEDisable</key>

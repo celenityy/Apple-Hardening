@@ -37,8 +37,6 @@
 			<false/>
 			<key>allowBookstoreErotica</key>
 			<true/>
-			<key>allowCloudFreeform</key>
-			<false/>
 			<key>allowCloudPrivateRelay</key>
 			<true/>
 			<key>allowContentCaching</key>
@@ -61,8 +59,6 @@
 			<true/>
 			<key>allowFingerprintModification</key>
 			<true/>
-			<key>allowHostPairing</key>
-			<false/>
 			<key>allowInternetSharingModification</key>
 			<false/>
 			<key>allowLocalUserCreation</key>
@@ -73,8 +69,6 @@
 			<true/>
 			<key>allowMarketplaceAppInstallation</key>
 			<true/>
-			<key>allowMusicService</key>
-			<false/>
 			<key>allowOTAPKIUpdates</key>
 			<true/>
 			<key>allowOpenFromManagedToUnmanaged</key>
@@ -86,8 +80,6 @@
 			<key>allowPasscodeModification</key>
 			<true/>
 			<key>allowPersonalizedHandwritingResults</key>
-			<false/>
-			<key>allowPodcasts</key>
 			<false/>
 			<key>allowPredictiveKeyboard</key>
 			<false/>
@@ -104,7 +96,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSharedDeviceTemporarySession</key>
-			<false/>
+			<true/>
 			<key>allowSiriServerLogging</key>
 			<false/>
 			<key>allowSpotlightInternetResults</key>
@@ -121,8 +113,6 @@
 			<true/>
 			<key>allowUSBRestrictedMode</key>
 			<true/>
-			<key>allowUniversalControl</key>
-			<false/>
 			<key>allowUnpairedExternalBootToRecovery</key>
 			<true/>
 			<key>allowUntrustedTLSPrompt</key>

@@ -121,8 +121,6 @@
 			<false/>
 			<key>allowFingerprintModification</key>
 			<true/>
-			<key>allowHostPairing</key>
-			<false/>
 			<key>allowInternetSharingModification</key>
 			<false/>
 			<key>allowLocalUserCreation</key>
@@ -184,7 +182,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSharedDeviceTemporarySession</key>
-			<false/>
+			<true/>
 			<key>allowSharedStream</key>
 			<false/>
 			<key>allowSiriServerLogging</key>
@@ -539,6 +537,8 @@
 			<string>77F393FB-1937-4C8A-9729-06E092A0657C</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>Search Queries Data Sharing Status</key>
+			<integer>2</integer>
 			<key>Siri Data Sharing Opt-In Status</key>
 			<integer>2</integer>
 		</dict>

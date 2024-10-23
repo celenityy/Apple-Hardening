@@ -117,8 +117,6 @@
 			<false/>
 			<key>allowFingerprintModification</key>
 			<true/>
-			<key>allowHostPairing</key>
-			<false/>
 			<key>allowInternetSharingModification</key>
 			<false/>
 			<key>allowLocalUserCreation</key>
@@ -178,7 +176,7 @@
 			<key>allowRemoteScreenObservation</key>
 			<false/>
 			<key>allowSharedDeviceTemporarySession</key>
-			<false/>
+			<true/>
 			<key>allowSharedStream</key>
 			<false/>
 			<key>allowSiriServerLogging</key>

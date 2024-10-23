@@ -17152,7 +17152,7 @@
 	<key>PayloadDescription</key>
 	<string>This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature, tailored to providers that provide a safe browsing experience the whole family can enjoy. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility.</string>
 	<key>PayloadDisplayName</key>
-	<string>Family DNS</string>
+	<string>DNS (Family)</string>
 	<key>PayloadIdentifier</key>
 	<string>dev.celenity.dns.family</string>
 	<key>PayloadOrganization</key>
