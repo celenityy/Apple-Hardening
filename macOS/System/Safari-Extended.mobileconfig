@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AskBeforeSubmittingInsecureForms</key>
+			<true/>
+			<key>AutoFillCreditCardData</key>
+			<false/>
+			<key>AutoFillFromAddressBook</key>
+			<false/>
+			<key>AutoFillMiscellaneousForms</key>
+			<false/>
+			<key>AutoFillPasswords</key>
+			<false/>
+			<key>AutoOpenSafeDownloads</key>
+			<false/>
+			<key>BlockStoragePolicy</key>
+			<integer>3</integer>
+			<key>BookmarksCollectionsIncludeAddressBook</key>
+			<false/>
+			<key>BookmarksCollectionsIncludeRendezvous</key>
+			<false/>
+			<key>BookmarksMenuIncludesAddressBook</key>
+			<false/>
+			<key>BookmarksMenuIncludesRendezvous</key>
+			<false/>
+			<key>CanPromptForPushNotifications</key>
+			<false/>
+			<key>DefaultBrowserPromptingState2</key>
+			<integer>1</integer>
+			<key>DefaultBrowserPromptingState3</key>
+			<integer>2</integer>
+			<key>DownloadsClearingPolicy</key>
+			<integer>1</integer>
+			<key>HistoryAgeInDaysLimit</key>
+			<integer>1</integer>
+			<key>HomePage</key>
+			<string>topsites://</string>
+			<key>IncludeDevelopMenu</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Safari.11C3053A-D924-482B-BB77-ADAF19E3F75B</string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>11C3053A-D924-482B-BB77-ADAF19E3F75B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendDoNotTrackHTTPHeader</key>
+			<true/>
+			<key>TabCreationPolicy</key>
+			<integer>2</integer>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
+			<false/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically</key>
+			<false/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PluginsEnabled</key>
+			<false/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Hardened Safari configuration for macOS.</string>
+	<key>PayloadDisplayName</key>
+	<string>macOS Hardening - Safari (Extended)</string>
+	<key>PayloadIdentifier</key>
+	<string>dev.celenity.osx.safari.extended</string>
+	<key>PayloadOrganization</key>
+	<string>celenity 💘</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A56E2E76-ECA5-4061-93AA-40C1F89C6F5D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>

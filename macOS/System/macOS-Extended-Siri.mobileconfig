@@ -5,16 +5,14 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadDescription</key>
-			<string>Configures restrictions</string>
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.38E16AEA-6EF6-42C7-8E2B-AC8BDB61C097</string>
+			<string>com.apple.applicationaccess.2B658C47-D2A2-402A-83C3-CD151A868EE1</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>9A7156DB-A422-44EA-B8D4-8E7DBCC5CCE7</string>
+			<string>2B658C47-D2A2-402A-83C3-CD151A868EE1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowARDRemoteManagementModification</key>
@@ -41,7 +39,9 @@
 			<true/>
 			<key>allowAppsToBeLocked</key>
 			<true/>
-			<key>allowAssistant</key>
+			<key>allowAssistantUserGeneratedContent</key>
+			<false/>
+			<key>allowAssistantWhileLocked</key>
 			<false/>
 			<key>allowAutoUnlock</key>
 			<false/>
@@ -141,8 +141,8 @@
 			<false/>
 			<key>allowMarketplaceAppInstallation</key>
 			<true/>
-			<key>allowMediaSharing</key>
-			<false/>
+            <key>allowMediaSharing</key>
+            <false/>
 			<key>allowMediaSharingModification</key>
 			<false/>
 			<key>allowMusicService</key>
@@ -244,11 +244,9 @@
 				<string>com.apple.findmy</string>
 				<string>com.apple.iBooks</string>
 				<string>com.apple.tv</string>
-				<string>com.apple.siri.launcher</string>
 				<string>com.apple.findmy.findmybeaconingd</string>
 				<string>com.apple.icloud.findmydeviced</string>
 				<string>com.apple.icloud.fmfd</string>
-				<string>com.apple.Siri</string>
 				<string>com.apple.tips</string>
 				<string>com.apple.freeform</string>
 				<string>com.apple.Home</string>
@@ -321,7 +319,6 @@
 				<string>com.apple.NewsURLBucket</string>
 				<string>com.apple.NewsURLResolution</string>
 				<string>com.apple.NotesAnalytics</string>
-				<string>com.apple.NotesSiriUI</string>
 				<string>com.apple.osanalytics.OSAnalytics</string>
 				<string>com.apple.osanalytics.IPSExtension</string>
 				<string>com.apple.osa.OSAnalyticsPrivate</string>
@@ -335,7 +332,6 @@
 				<string>com.apple.private.podcasts.PodcastContentService</string>
 				<string>com.apple.PodcastsFoundation</string>
 				<string>com.apple.PodcastsKit</string>
-				<string>com.apple.siri.PostSiriEngagement</string>
 				<string>com.apple.ap.PromotedContentPrediction</string>
 				<string>com.apple.ap.PromotedContentSupport</string>
 				<string>com.apple.ProximityAppleIDSetup</string>
@@ -350,20 +346,11 @@
 				<string>com.apple.ShazamInsights</string>
 				<string>com.apple.siri.SiriAnalytics</string>
 				<string>com.apple.Lighthouse.DeepThought.SiriCoreMetrics</string>
-				<string>com.apple.siri.SiriGeo</string>
-				<string>com.apple.siri.SiriGeo.SiriGeoIntentExtension</string>
-				<string>com.apple.siri.SiriSettingsIntents.SettingsIntentExtension</string>
-				<string>com.apple.siri.SiriSignals.MusicAppSelectionPFLPlugin</string>
 				<string>com.apple.SiriSuggestions</string>
 				<string>com.apple.SiriSuggestionsAPI</string>
 				<string>com.apple.SiriSuggestionsBaseModel</string>
 				<string>com.apple.SiriSuggestionsIntelligence</string>
 				<string>com.apple.SiriSuggestionsKit</string>
-				<string>com.apple.SiriUI</string>
-				<string>com.apple.SiriUI.SiriUISetupXPC</string>
-				<string>com.apple.siri.SiriUIBridge</string>
-				<string>com.apple.SiriUICore</string>
-				<string>com.apple.siri.SiriUIFoundation</string>
 				<string>com.apple.SuggestionsSpotlightMetrics</string>
 				<string>com.apple.TipKitCore</string>
 				<string>com.apple.TipKitServices</string>
@@ -375,25 +362,16 @@
 				<string>com.apple.WiFiVelocity.DiagnosticExtension</string>
 				<string>com.apple.WiFiVelocity</string>
 				<string>com.apple.siri.findmy.SiriFindMyBundle</string>
-				<string>com.apple.geo.assistant.plugin</string>
-				<string>com.apple.siri.activity</string>
-				<string>com.apple.siri.appsync</string>
 				<string>com.apple.calendar.assistant</string>
 				<string>com.apple.assistant.Contacts</string>
-				<string>com.apple.siri.CorrectionsProfilesSync</string>
 				<string>com.apple.homekit.assistant</string>
-				<string>com.apple.siri.LocaleSettings</string>
 				<string>com.apple.Mail.AssistantPlugin</string>
 				<string>com.apple.maps.assistant.plugin</string>
-				<string>com.apple.siri.mediasupport</string>
 				<string>com.apple.Notes.AssistantBundle</string>
 				<string>com.apple.siri.Podcasts</string>
 				<string>com.apple.routine.assistant</string>
 				<string>com.apple.SafariShared.Assistant</string>
-				<string>com.apple.assistant.Settings</string>
-				<string>com.apple.SocialAssistantBundle</string>
 				<string>com.apple.Stocks.AssistantPlugin</string>
-				<string>com.apple.siri.SynapseSyncPlugin</string>
 				<string>com.apple.assistant.SystemAutomation</string>
 				<string>com.apple.assistant.WebSearch</string>
 				<string>com.apple.assistant.AcousticId</string>
@@ -402,22 +380,15 @@
 				<string>com.apple.assistant.CalendarUI</string>
 				<string>com.apple.assistant.ClockUI</string>
 				<string>com.apple.contacts.assistant.uiplugin</string>
-				<string>com.apple.assistant.FileSearchUI</string>
-				<string>com.apple.assistant.GeneralKnowledgeUI</string>
 				<string>com.apple.assistant.MailUI</string>
 				<string>com.apple.maps.assistant.uiplugin</string>
 				<string>com.apple.assistant.MessagesUI</string>
 				<string>com.apple.assistant.MicroblogUI</string>
 				<string>com.apple.Notes.AssistantBundleUI</string>
 				<string>com.apple.assistant.RemindersUI</string>
-				<string>com.apple.assistant.SettingsUI</string>
 				<string>com.apple.siri.findmy.SiriFindMyUIPlugin</string>
-				<string>com.apple.assistant.SystemInformationUI</string>
-				<string>com.apple.assistant.UniversalSearchUI</string>
-				<string>com.apple.assistant.WAAnswerUI</string>
 				<string>com.apple.SiriSuggestions.SiriSuggestionsInferenceBridge</string>
 				<string>com.apple.sirisuggestions.SiriSuggestionsSKEBridge</string>
-				<string>com.apple.siri.AssistantSettingsControls</string>
 				<string>com.apple.ClassKit.ClassKitAppIntents</string>
 				<string>com.apple.ClassKit-Settings.extension</string>
 				<string>com.apple.ClassroomDeviceExpert</string>
@@ -431,7 +402,6 @@
 				<string>com.apple.siri.metrics.MetricsExtension</string>
 				<string>com.apple.NewDeviceOutreach.NewDeviceOutreachIntents</string>
 				<string>com.apple.lighthouse.SiriCoreMetricsWorker</string>
-				<string>com.apple.Siri-Settings.extension</string>
 				<string>com.apple.siri.SiriSuggestionsLightHousePlugin</string>
 				<string>com.apple.lighthouse.SiriTurnRestatementExtension</string>
 				<string>com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegmentation</string>
@@ -442,7 +412,6 @@
 				<string>com.apple.freeform.private.usd-rendering.appexpt</string>
 				<string>com.apple.SafetyMonitorApp.SafetyMonitorMessages</string>
 				<string>com.apple.message-payload-provider</string>
-				<string>com.apple.siri.messages.SiriMessagesSettings</string>
 				<string>com.apple.siri.AppLaunchSuggestionsPlugin</string>
 				<string>com.apple.siri.AudioSuggestionsPlugin</string>
 				<string>com.apple.siri.HomeAutomationSiriSuggestions</string>
@@ -464,7 +433,6 @@
 				<string>com.apple.HomePlatformSettingsUI.ViewService</string>
 				<string>com.apple.askpermission-extension</string>
 				<string>com.apple.amsengagementd-extension</string>
-				<string>com.apple.siri.flow-extension</string>
 				<string>com.apple.diagnostics-reporter-service</string>
 				<string>com.apple.watchkit</string>
 				<string>com.apple.private.voiceshortcuts-ui</string>
@@ -475,7 +443,6 @@
 				<string>com.apple.mlhost.TelemetryWorker</string>
 				<string>com.apple.CloudDocsDaemon.StorageManagement</string>
 				<string>com.apple.ibooks.BookLibraryCore.BooksAskPermissionExtension</string>
-				<string>com.apple.siri.SiriAppLaunchIntents.AppLaunchIntentExtension</string>
 				<string>com.apple.NewDeviceOutreach.NewDeviceOutreachIntents</string>
 				<string>com.apple.siri.SiriSuggestionsLightHousePlugin</string>
 				<string>com.apple.ClassKit.ClassKitAppIntents</string>
@@ -488,6 +455,8 @@
 			<true/>
 			<key>forceAirPrintTrustedTLSRequirement</key>
 			<true/>
+			<key>forceAssistantProfanityFilter</key>
+			<false/>
 			<key>forceAuthenticationBeforeAutoFill</key>
 			<true/>
 			<key>forceAutomaticDateAndTime</key>
@@ -536,16 +505,14 @@
 			<true/>
 		</dict>
 		<dict>
-			<key>Assistant Enabled</key>
-			<false/>
 			<key>PayloadDisplayName</key>
 			<string>Assistant</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.assistant.support.77F393FB-1937-4C8A-9729-06E092A0657C</string>
+			<string>com.apple.assistant.support.4F232F7C-DBB0-4811-B6E2-1F4FA0FB1FF8</string>
 			<key>PayloadType</key>
 			<string>com.apple.assistant.support</string>
 			<key>PayloadUUID</key>
-			<string>77F393FB-1937-4C8A-9729-06E092A0657C</string>
+			<string>4F232F7C-DBB0-4811-B6E2-1F4FA0FB1FF8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Search Queries Data Sharing Status</key>
@@ -557,35 +524,31 @@
 			<key>PayloadDisplayName</key>
 			<string>Siri</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.Siri.AA3A3B41-FB88-4586-A221-F4D539CAA382</string>
+			<string>com.apple.Siri.94435E93-E2BD-4AF6-A8CB-124D72D3A1A8</string>
 			<key>PayloadType</key>
 			<string>com.apple.Siri</string>
 			<key>PayloadUUID</key>
-			<string>AA3A3B41-FB88-4586-A221-F4D539CAA382</string>
+			<string>94435E93-E2BD-4AF6-A8CB-124D72D3A1A8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>StatusMenuVisible</key>
-			<false/>
-			<key>UserHasDeclinedEnable</key>
-			<true/>
 			<key>VoiceTriggerUserEnabled</key>
 			<false/>
 		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Parental Controls: Application Restrictions #1</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.new.383C8855-9C65-484D-8B16-15471F3A1E10</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess.new</string>
-			<key>PayloadUUID</key>
-			<string>383C8855-9C65-484D-8B16-15471F3A1E10</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>familyControlsEnabled</key>
-			<true/>
-			<key>pathBlackList</key>
-			<array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>Parental Controls: Application Restrictions #1</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.applicationaccess.new.DD90A7BF-5CA7-4EDC-974A-E9E5FB66ADD0</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess.new</string>
+            <key>PayloadUUID</key>
+            <string>DD90A7BF-5CA7-4EDC-974A-E9E5FB66ADD0</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>familyControlsEnabled</key>
+            <true/>
+            <key>pathBlackList</key>
+            <array>
                 <string>/System/Applications/Tips.app</string>
                 <string>/System/Library/PrivateFrameworks/CoreADI.framework/Versions/A/adid</string>
                 <string>/usr/libexec/adprivacyd</string>
@@ -694,23 +657,15 @@
                 <string>/System/Applications/FindMy.app</string>
                 <string>/System/Library/CoreServices/RemotePairTool</string>
                 <string>/System/Library/CoreServices/SetupAssistantPlugins/iCloudDelegate.icdplugin</string>
-				<string>/System/Applications/Siri.app</string>
-				<string>/System/Library/ExtensionKit/Extensions/SiriPreferenceExtension.appex</string>
-				<string>/System/Library/ExtensionKit/Extensions/SiriSuggestionsLightHousePlugin.appex</string>
-				<string>/System/Library/ExtensionKit/Extensions/SiriTurnRestatementExtension.appex</string>
-				<string>/System/Library/ExtensionKit/Extensions/SiriUserSegmentation.appex</string>
-				<string>/System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service</string>
-				<string>/System/Library/CoreServices/Siri.app</string>
-				<string>/System/Library/CoreServices/Siri.bundle</string>
-			</array>
-		</dict>
+            </array>
+        </dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, FaceTime, &amp; News are completely disabled where possible.</string>
+	<string>Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Books, Apple TV, iMessage, FaceTime, &amp; News are completely disabled where possible.</string>
 	<key>PayloadDisplayName</key>
-	<string>macOS Hardening (Extended) - No Siri</string>
+	<string>macOS Hardening (Extended) - Siri</string>
 	<key>PayloadIdentifier</key>
-	<string>dev.celenity.osx.extended</string>
+	<string>dev.celenity.osx.extended.siri</string>
 	<key>PayloadOrganization</key>
 	<string>celenity 💘</string>
 	<key>PayloadScope</key>
@@ -718,7 +673,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>CAB997A1-839E-4037-A2B7-1457140A7CBC</string>
+	<string>D3D96EBA-18E5-46F0-9F68-D4678449F0F7</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>TargetDeviceType</key>

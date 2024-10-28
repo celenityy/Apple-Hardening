@@ -35,6 +35,10 @@
 			<true/>
 			<key>allowApplePersonalizedAdvertising</key>
 			<false/>
+			<key>allowAppsToBeHidden</key>
+			<true/>
+			<key>allowAppsToBeLocked</key>
+			<true/>
 			<key>allowAssistant</key>
 			<false/>
 			<key>allowAutoUnlock</key>
@@ -46,6 +50,8 @@
 			<key>allowBookstore</key>
 			<false/>
 			<key>allowBookstoreErotica</key>
+			<true/>
+			<key>allowCallRecording</key>
 			<true/>
 			<key>allowCellularPlanModification</key>
 			<true/>
@@ -68,8 +74,6 @@
 			<key>allowCloudFreeform</key>
 			<false/>
 			<key>allowCloudKeychainSync</key>
-			<false/>
-			<key>allowCloudMail</key>
 			<false/>
 			<key>allowCloudNotes</key>
 			<false/>
@@ -125,10 +129,14 @@
 			<false/>
 			<key>allowMailPrivacyProtection</key>
 			<true/>
+			<key>allowMailSummary</key>
+			<true/>
 			<key>allowManagedAppsCloudSync</key>
 			<false/>
 			<key>allowMarketplaceAppInstallation</key>
 			<true/>
+			<key>allowMediaSharingModification</key>
+			<false/>
 			<key>allowMusicService</key>
 			<false/>
 			<key>allowNews</key>
@@ -165,6 +173,8 @@
 			<false/>
 			<key>allowProximitySetupToNewDevice</key>
 			<false/>
+			<key>allowRCSMessaging</key>
+			<true/>
 			<key>allowRapidSecurityResponseInstallation</key>
 			<true/>
 			<key>allowRapidSecurityResponseRemoval</key>
@@ -294,6 +304,8 @@
 			<true/>
 			<key>forceAutomaticDateAndTime</key>
 			<true/>
+			<key>forceBypassScreenCaptureAlert</key>
+			<false/>
 			<key>forceClassroomAutomaticallyJoinClasses</key>
 			<false/>
 			<key>forceClassroomRequestPermissionToLeaveClasses</key>
@@ -335,26 +347,6 @@
 			<key>safariAllowAutoFill</key>
 			<false/>
 			<key>safariForceFraudWarning</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Passcode</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.mobiledevice.passwordpolicy.DE99413E-A06A-4C7D-95CD-082A35D7C204</string>
-			<key>PayloadType</key>
-			<string>com.apple.mobiledevice.passwordpolicy</string>
-			<key>PayloadUUID</key>
-			<string>DE99413E-A06A-4C7D-95CD-082A35D7C204</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowSimple</key>
-			<false/>
-			<key>forcePIN</key>
-			<true/>
-			<key>maxGracePeriod</key>
-			<integer>0</integer>
-			<key>requireAlphanumeric</key>
 			<true/>
 		</dict>
 	</array>

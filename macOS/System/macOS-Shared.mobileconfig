@@ -295,6 +295,8 @@
 		<dict>
 			<key>DestroyFVKeyOnStandby</key>
 			<true/>
+			<key>DisableGuestAccount</key>
+			<true/>
 			<key>PayloadDisplayName</key>
 			<string>Energy Saver, FileVault, Time Server, Mobile Accounts and Guest Account #1</string>
 			<key>PayloadIdentifier</key>
@@ -313,6 +315,8 @@
 			<true/>
 			<key>dontAllowFDEEnable</key>
 			<false/>
+			<key>forceInternetSharingOff</key>
+			<true/>
 			<key>timeServer</key>
 			<string>time.grapheneos.org</string>
 		</dict>
@@ -435,38 +439,6 @@
 			<integer>5</integer>
 		</dict>
 		<dict>
-			<key>AllowPreReleaseInstallation</key>
-			<false/>
-			<key>AutomaticCheckEnabled</key>
-			<true/>
-			<key>AutomaticDownload</key>
-			<true/>
-			<key>AutomaticallyInstallAppUpdates</key>
-			<true/>
-			<key>AutomaticallyInstallMacOSUpdates</key>
-			<true/>
-			<key>ConfigDataInstall</key>
-			<true/>
-			<key>CriticalUpdateInstall</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>Software Update</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate.8F5C2DBA-D7A1-4C79-8583-8D5C3C0B81EC</string>
-			<key>PayloadType</key>
-			<string>com.apple.SoftwareUpdate</string>
-			<key>PayloadUUID</key>
-			<string>8F5C2DBA-D7A1-4C79-8583-8D5C3C0B81EC</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>SUDisableEVCheck</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>restrict-software-update-require-admin-to-install</key>
-			<true/>
-		</dict>
-		<dict>
 			<key>AllowCacheDelete</key>
 			<true/>
 			<key>AllowPersonalCaching</key>
@@ -536,8 +508,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>AllowIdentifiedDevelopers</key>
-			<true/>
 			<key>EnableAssessment</key>
 			<true/>
 			<key>EnableXProtectMalwareUpload</key>
@@ -620,6 +590,44 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
+			<key>EnableExternalAccounts</key>
+			<false/>
+			<key>HideMobileAccounts</key>
+			<true/>
+			<key>IncludeNetworkUser</key>
+			<false/>
+			<key>LocalUserLoginEnabled</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Login Window #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.loginwindow.1EFA6921-F977-4416-B549-854405CB7B7D</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>1EFA6921-F977-4416-B549-854405CB7B7D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RetriesUntilHint</key>
+			<integer>0</integer>
+			<key>com.apple.login.mcx.DisableAutoLoginClient</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>AXSAudioDonationSiriImprovementEnabled</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Accessibility</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.Accessibility.99718385-C19B-429D-AC26-91957285B1B0</string>
+			<key>PayloadType</key>
+			<string>com.apple.Accessibility</string>
+			<key>PayloadUUID</key>
+			<string>99718385-C19B-429D-AC26-91957285B1B0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
 			<key>DSDontWriteNetworkStores</key>
 			<true/>
 			<key>PayloadDisplayName</key>
@@ -637,7 +645,7 @@
 	<key>PayloadDescription</key>
 	<string>Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 	<key>PayloadDisplayName</key>
-	<string>macOS Hardening (Shared)</string>
+	<string>macOS Hardening - Shared</string>
 	<key>PayloadIdentifier</key>
 	<string>dev.celenity.osx.shared</string>
 	<key>PayloadOrganization</key>

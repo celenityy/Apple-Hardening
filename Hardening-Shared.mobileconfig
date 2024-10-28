@@ -40,7 +40,7 @@
 	<key>PayloadDescription</key>
 	<string>Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
 	<key>PayloadDisplayName</key>
-	<string>Apple Hardening (Shared)</string>
+	<string>Apple Hardening - Shared</string>
 	<key>PayloadIdentifier</key>
 	<string>dev.celenity.shared</string>
 	<key>PayloadOrganization</key>
