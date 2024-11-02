@@ -150,8 +150,6 @@ If you would like to participate in Beta software updates from Apple, install [`
 
 * Requires authentication via Face or Touch ID for Autofill
 
-* Disables notification history on lock screen
-
 * Disables Predictive Keyboard
 
 * Enforces Mail Privacy Protection
@@ -193,6 +191,8 @@ If you would like to participate in Beta software updates from Apple, install [`
 **In addition to everything above in Base:**
 
 * Disables Handoff (Activity Continuation)
+
+* Disables notification history on lock screen
 
 * Disables iCloud Backup
 
