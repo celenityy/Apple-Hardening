@@ -120,8 +120,6 @@ If you would like to participate in Beta software updates from Apple, install [`
 
 * Disables Wallet while device is locked
 
-* Disables notification history on lock screen
-
 * Disables Apple's "Personalized Advertising" (https://support.apple.com/105131)
 
 * Requires a device pairing password for outgoing AirPlay requests
@@ -151,6 +149,8 @@ If you would like to participate in Beta software updates from Apple, install [`
 * Enforces automatic date & time
 
 * Requires authentication via Face or Touch ID for Autofill
+
+* Disables notification history on lock screen
 
 * Disables Predictive Keyboard
 
