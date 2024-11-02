@@ -69,8 +69,6 @@
 			<false/>
 			<key>allowLocalUserCreation</key>
 			<true/>
-			<key>allowLockScreenNotificationsView</key>
-			<false/>
 			<key>allowMailPrivacyProtection</key>
 			<true/>
 			<key>allowMailSummary</key>
@@ -133,6 +131,8 @@
 			<true/>
 			<key>allowVoiceDialing</key>
 			<false/>
+			<key>allowWallpaperModification</key>
+			<true/>
 			<key>allowWebDistributionAppInstallation</key>
 			<true/>
 			<key>allowiTunesFileSharing</key>
