@@ -342,8 +342,6 @@
 				<string>com.apple.WiFiVelocity</string>
 				<string>com.apple.siri.findmy.SiriFindMyBundle</string>
 				<string>com.apple.siri.Podcasts</string>
-				<string>com.apple.routine.assistant</string>
-				<string>com.apple.Stocks.AssistantPlugin</string>
 				<string>com.apple.assistant.WebSearch</string>
 				<string>com.apple.siri.findmy.SiriFindMyUIPlugin</string>
 				<string>com.apple.ClassKit.ClassKitAppIntents</string>
@@ -365,10 +363,6 @@
 				<string>com.apple.lighthouse.SAOrchestratedExtension</string>
 				<string>com.apple.facetime.notification</string>
 				<string>com.apple.freeform.private.usd-rendering.appexpt</string>
-				<string>com.apple.SafetyMonitorApp.SafetyMonitorMessages</string>
-				<string>com.apple.message-payload-provider</string>
-				<string>com.apple.message-payload-provider.highmemory</string>
-				<string>com.apple.diagnostics-service</string>
 				<string>com.apple.classkit.context-provider</string>
 				<string>com.apple.diagnostics-ui-service</string>
 				<string>com.apple.feedback.drafting-extension</string>
@@ -376,7 +370,6 @@
 				<string>com.apple.amsengagementd-extension</string>
 				<string>com.apple.diagnostics-reporter-service</string>
 				<string>com.apple.watchkit</string>
-				<string>com.apple.private.voiceshortcuts-ui</string>
 				<string>com.apple.diagnosticextensions-service</string>
 				<string>com.apple.diagnostics-restricted-ui-service</string>
 				<string>com.apple.DiagnosticsKit.diagnosticmanager</string>
@@ -416,6 +409,8 @@
 			<key>forceDelayedSoftwareUpdates</key>
 			<false/>
 			<key>forceEncryptedBackup</key>
+			<true/>
+			<key>forceITunesStorePasswordEntry</key>
 			<true/>
 			<key>forceLimitAdTracking</key>
 			<true/>
@@ -495,7 +490,6 @@
 				<string>/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc</string>
 				<string>/System/Library/CoreServices/CrashReporterSupportHelper</string>
 				<string>/System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd</string>
-				<string>/System/Library/PrivateFrameworks/CoreParsec.framework</string>
 				<string>/usr/libexec/promotedcontentd</string>
 				<string>/usr/libexec/rapportd</string>
 				<string>/System/Library/CoreServices/ReportCrash</string>
@@ -551,7 +545,6 @@
 				<string>/Applications/iAdOptOut.app</string>
 				<string>/System/Library/PrivateFrameworks/RemoteManagement.framework</string>
 				<string>/Applications/DiagnosticsService.app</string>
-				<string>/Applications/HashtagImages.app</string>
 				<string>/System/Library/PrivateFrameworks/NewDeviceOutreach.framework</string>
 				<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
 				<string>/System/Applications/TV.app</string>
@@ -567,9 +560,6 @@
 				<string>/usr/libexec/fmfd</string>
 				<string>/System/Library/ExtensionKit/Extensions/FamilyIntents.appex</string>
 				<string>/System/Library/ExtensionKit/Extensions/FamilySettings.appex</string>
-				<string>/System/Library/ExtensionKit/Extensions/WalletSettingsExtension.appex</string>
-				<string>/System/Library/PrivateFrameworks/UniversalAccess.framework</string>
-				<string>/System/Library/PrivateFrameworks/CoreFP.framework</string>
 				<string>/usr/libexec/findmybeaconingd</string>
 				<string>/usr/libexec/findmydevice-user-agent</string>
 				<string>/usr/libexec/findmydeviced</string>
@@ -590,7 +580,6 @@
 				<string>/System/Library/CoreServices/Coverage Details.app</string>
 				<string>/System/Applications/FindMy.app</string>
 				<string>/System/Library/CoreServices/RemotePairTool</string>
-				<string>/System/Library/CoreServices/SetupAssistantPlugins/iCloudDelegate.icdplugin</string>
 			</array>
 		</dict>
 	</array>

@@ -313,6 +313,8 @@
 			<false/>
 			<key>forceEncryptedBackup</key>
 			<true/>
+			<key>forceITunesStorePasswordEntry</key>
+			<true/>
 			<key>forceLimitAdTracking</key>
 			<true/>
 			<key>forceOnDeviceOnlyDictation</key>
