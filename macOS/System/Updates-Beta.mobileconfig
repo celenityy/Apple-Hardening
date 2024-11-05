@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+	<string>(05November2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening - Software Updates (Support for Betas)</string>
 	<key>PayloadIdentifier</key>

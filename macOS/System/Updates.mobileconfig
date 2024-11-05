@@ -56,7 +56,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Hardened Software Update settings for macOS.</string>
+	<string>(05November2024v1) Hardened Software Update settings for macOS.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening - Software Updates</string>
 	<key>PayloadIdentifier</key>

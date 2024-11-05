@@ -667,7 +667,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Firewall configuration for macOS.</string>
+	<string>(05November2024v1) Firewall configuration for macOS.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening - Firewall</string>
 	<key>PayloadIdentifier</key>

@@ -755,7 +755,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Hardened Firewall configuration for macOS - may cause issues with iOS Device Backup (AMPDevicesAgent), iCloud, Home (homed), &amp; Find My Device/Location Sharing.</string>
+	<string>(05November2024v1) Hardened Firewall configuration for macOS - may cause issues with iOS Device Backup (AMPDevicesAgent), iCloud, Home (homed), &amp; Find My Device/Location Sharing.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening - Firewall (Extended)</string>
 	<key>PayloadIdentifier</key>

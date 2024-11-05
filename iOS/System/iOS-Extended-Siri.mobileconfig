@@ -141,8 +141,6 @@
 			<false/>
 			<key>allowMusicService</key>
 			<false/>
-			<key>allowNews</key>
-			<false/>
 			<key>allowNotificationsModification</key>
 			<true/>
 			<key>allowOTAPKIUpdates</key>
@@ -229,8 +227,6 @@
 			<false/>
 			<key>blockedAppBundleIDs</key>
 			<array>
-				<string>com.apple.tips</string>
-				<string>com.apple.tipsd</string>
 				<string>com.apple.amsengagementd</string>
 				<string>com.apple.CloudTelemetryService.xpc</string>
 				<string>com.apple.studentd</string>
@@ -244,12 +240,7 @@
 				<string>com.apple.helpviewer</string>
 				<string>com.apple.adid</string>
 				<string>com.apple.findmy</string>
-				<string>com.apple.iBooks</string>
-				<string>com.apple.tv</string>
-				<string>com.apple.freeform</string>
 				<string>org.mozilla.crashreporter</string>
-				<string>com.apple.Home</string>
-				<string>com.apple.siri.launcher</string>
 				<string>com.apple.findmy.findmybeaconingd</string>
 				<string>com.apple.icloud.findmydeviced</string>
 				<string>chrome_crashpad_handler</string>
@@ -257,8 +248,6 @@
 				<string>com.apple.icloud.fmfd</string>
 				<string>com.apple.rapportd</string>
 				<string>com.apple.CrashReporter</string>
-				<string>com.apple.podcasts</string>
-				<string>com.apple.Siri</string>
 				<string>com.apple.AdLib</string>
 				<string>pingsender</string>
 				<string>com.apple.Classroom-Settings</string>
@@ -355,7 +344,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Books, Apple TV, &amp; News are completely disabled where possible.</string>
+	<string>(05November2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
 	<key>PayloadDisplayName</key>
 	<string>iOS Hardening (Extended) - Siri</string>
 	<key>PayloadIdentifier</key>

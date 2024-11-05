@@ -139,8 +139,6 @@
 			<false/>
 			<key>blockedAppBundleIDs</key>
 			<array>
-				<string>com.apple.tips</string>
-				<string>com.apple.tipsd</string>
 				<string>com.apple.amsengagementd</string>
 				<string>com.apple.CloudTelemetryService.xpc</string>
 				<string>com.apple.studentd</string>
@@ -151,14 +149,11 @@
 				<string>com.apple.parsec-fbf </string>
 				<string>com.apple.SubmitDiagInfo</string>
 				<string>com.apple.adid</string>
-				<string>com.apple.freeform</string>
 				<string>org.mozilla.crashreporter</string>
-				<string>com.apple.Home</string>
 				<string>chrome_crashpad_handler</string>
 				<string>com.apple.CrashReporterSupportHelper</string>
 				<string>com.apple.rapportd</string>
 				<string>com.apple.CrashReporter</string>
-				<string>com.apple.podcasts</string>
 				<string>com.apple.AdLib</string>
 				<string>pingsender</string>
 				<string>com.apple.Classroom-Settings.extension</string>
@@ -174,7 +169,6 @@
 				<string>com.apple.iCloudStats</string>
 				<string>com.apple.appleseed.fbahelperd</string>
 				<string>com.apple.metrickitd</string>
-				<string>com.apple.homed</string>
 				<string>com.apple.wifivelocity</string>
 				<string>com.apple.securityuploadd</string>
 				<string>com.apple.private.securityuploadd</string>
@@ -263,7 +257,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+	<string>(05November2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 	<key>PayloadDisplayName</key>
 	<string>iOS Hardening (Base)</string>
 	<key>PayloadIdentifier</key>

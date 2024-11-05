@@ -26,7 +26,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Supplements your iOS Extended Hardening config.</string>
+	<string>(05November2024v1) Supplements your iOS Extended Hardening config.</string>
 	<key>PayloadDisplayName</key>
 	<string>iOS (Extended) - Shared</string>
 	<key>PayloadIdentifier</key>

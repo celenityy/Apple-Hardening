@@ -1310,7 +1310,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>macOS Hardening &amp; tweaks for 3rd party apps and services.</string>
+	<string>(05November2024v1) macOS Hardening &amp; tweaks for 3rd party apps and services.</string>
 	<key>PayloadDisplayName</key>
 	<string>3P Hardening</string>
 	<key>PayloadIdentifier</key>

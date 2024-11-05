@@ -149,8 +149,6 @@
 			<false/>
 			<key>allowNFC</key>
 			<false/>
-			<key>allowNews</key>
-			<false/>
 			<key>allowNotificationsModification</key>
 			<true/>
 			<key>allowOTAPKIUpdates</key>
@@ -251,7 +249,6 @@
 				<string>com.apple.Siri</string>
 				<string>com.apple.tips</string>
 				<string>com.apple.freeform</string>
-				<string>com.apple.Home</string>
 				<string>com.apple.podcasts</string>
 				<string>com.apple.tipsd</string>
 				<string>com.apple.amsengagementd</string>
@@ -285,7 +282,6 @@
 				<string>com.apple.iCloudStats</string>
 				<string>com.apple.appleseed.fbahelperd</string>
 				<string>com.apple.metrickitd</string>
-				<string>com.apple.homed</string>
 				<string>com.apple.icloud.searchpartyd</string>
 				<string>com.apple.iCloudDriveApp</string>
 				<string>com.apple.classroom</string>
@@ -308,18 +304,10 @@
 				<string>com.apple.AssistantServices</string>
 				<string>com.apple.iBooksX.help</string>
 				<string>com.apple.iBooks</string>
-				<string>com.apple.news</string>
 				<string>com.apple.bookassetd</string>
 				<string>com.apple.ibooks.BookLibraryCore</string>
 				<string>com.apple.bookdatastored</string>
 				<string>com.apple.iBooks.BookDataStoreService</string>
-				<string>com.apple.newsd</string>
-				<string>com.apple.newsdaemon</string>
-				<string>com.apple.newsfoundation</string>
-				<string>com.apple.newstoday</string>
-				<string>com.apple.newstransport</string>
-				<string>com.apple.NewsURLBucket</string>
-				<string>com.apple.NewsURLResolution</string>
 				<string>com.apple.NotesAnalytics</string>
 				<string>com.apple.NotesSiriUI</string>
 				<string>com.apple.osanalytics.OSAnalytics</string>
@@ -457,11 +445,9 @@
 				<string>com.apple.siri.VideoSuggestionsPlugin</string>
 				<string>com.apple.message-payload-provider.highmemory</string>
 				<string>com.apple.diagnostics-service</string>
-				<string>com.apple.Home.ui-extension.userList</string>
 				<string>com.apple.classkit.context-provider</string>
 				<string>com.apple.diagnostics-ui-service</string>
 				<string>com.apple.feedback.drafting-extension</string>
-				<string>com.apple.HomePlatformSettingsUI.ViewService</string>
 				<string>com.apple.askpermission-extension</string>
 				<string>com.apple.amsengagementd-extension</string>
 				<string>com.apple.siri.flow-extension</string>
@@ -586,114 +572,109 @@
 			<true/>
 			<key>pathBlackList</key>
 			<array>
-                <string>/System/Applications/Tips.app</string>
-                <string>/System/Library/PrivateFrameworks/CoreADI.framework/Versions/A/adid</string>
-                <string>/usr/libexec/adprivacyd</string>
-                <string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
-                <string>/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc</string>
-                <string>/System/Library/CoreServices/CrashReporterSupportHelper</string>
-                <string>/System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd</string>
-                <string>/System/Library/PrivateFrameworks/CoreParsec.framework</string>
-                <string>/usr/libexec/promotedcontentd</string>
-                <string>/usr/libexec/rapportd</string>
-                <string>/System/Library/CoreServices/ReportCrash</string>
-                <string>/usr/libexec/rtcreportingd</string>
-                <string>/usr/libexec/studentd</string>
-                <string>/System/Library/CoreServices/SubmitDiagInfo</string>
-                <string>/usr/libexec/tipsd</string>
-                <string>/Applications/Firefox.app/Contents/MacOS/crashreporter.app</string>
-                <string>/Applications/Firefox.app/Contents/MacOS/pingsender</string>
-                <string>/System/Library/ExtensionKit/Extensions/ClassroomSettings.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/ClassKitAppIntents.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/ClassKitSettings.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/ClassroomDeviceExpert.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/com.apple.mlhost.TelemetryWorker.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/ExperimentationExtension.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/IEMetricsWorker.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/MetricsExtension.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/NewDeviceOutreachIntents_macOS.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/Sharing.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/SiriCoreMetricsWorker.appex</string>
-                <string>/usr/libexec/feedbackd</string>
-                <string>/usr/libexec/feedback</string>
-                <string>/usr/libexec/betaenrollmentd</string>
-                <string>/usr/libexec/dprivacyd</string>
-                <string>/usr/libexec/init_featureflags</string>
-                <string>/usr/libexec/logd_reporter</string>
-                <string>/usr/libexec/metrickitd</string>
-                <string>/usr/libexec/wifivelocityd</string>
-                <string>/usr/libexec/securityuploadd</string>
-                <string>/System/Library/PrivateFrameworks/EcosystemAnalytics.framework</string>
-                <string>/System/Library/PrivateFrameworks/AdCore.framework</string>
-                <string>/System/Library/PrivateFrameworks/AdID.framework</string>
-                <string>/System/Library/PrivateFrameworks/AdPlatforms.framework</string>
-                <string>/System/Library/PrivateFrameworks/AdPlatformsCommon.framework</string>
-                <string>/System/Library/PrivateFrameworks/AdPlatformsInternal.framework</string>
-                <string>/System/Library/PrivateFrameworks/AppAnalytics.framework</string>
-                <string>/System/Library/PrivateFrameworks/CloudTelemetry.framework</string>
-                <string>/System/Library/PrivateFrameworks/CloudTelemetryTools.framework</string>
-                <string>/System/Library/PrivateFrameworks/CoreAnalytics.framework</string>
-                <string>/System/Library/PrivateFrameworks/CoreDiagnostics.framework</string>
-                <string>/System/Library/PrivateFrameworks/CoreADI.framework</string>
-                <string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
-                <string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
-                <string>/System/Library/CoreServices/Problem Reporter.app</string>
-                <string>/System/Library/CoreServices/osanalyticshelper</string>
-                <string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
-                <string>/System/Library/CoreServices/CrashReporterSupportHelper</string>
-                <string>/System/Library/CoreServices/diagnostics_agent</string>
-                <string>/System/Library/CoreServices/RemoteManagement</string>
-                <string>/Applications/Utilities/Adobe Sync</string>
-                <string>/System/Library/CoreServices/SubmitDiagInfo</string>
-                <string>/System/Library/CoreServices/InternetSharing.bundle</string>
-                <string>/Applications/iAdOptOut.app</string>
-                <string>/System/Library/PrivateFrameworks/RemoteManagement.framework</string>
-                <string>/Applications/DiagnosticsService.app</string>
-                <string>/Applications/HashtagImages.app</string>
-                <string>/System/Library/PrivateFrameworks/NewDeviceOutreach.framework</string>
-                <string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
-                <string>/System/Applications/TV.app</string>
-                <string>/System/Applications/Freeform.app</string>
-                <string>/System/Applications/Home.app</string>
-                <string>/System/Applications/iPhone Mirroring.app</string>
-                <string>/System/Applications/FindMy.app</string>
-                <string>/System/Applications/FaceTime.app</string>
-                <string>/System/Applications/Messages.app</string>
-                <string>/System/Library/PrivateFrameworks/FamilyCircle.framework</string>
-                <string>/System/Applications/FindMy.app</string>
-                <string>/usr/libexec/findmybeaconingd</string>
-                <string>/usr/libexec/findmydeviced</string>
-                <string>/usr/libexec/fmfd</string>
-                <string>/System/Library/ExtensionKit/Extensions/FamilyIntents.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/FamilySettings.appex</string>
-                <string>/System/Library/ExtensionKit/Extensions/WalletSettingsExtension.appex</string>
-                <string>/System/Library/PrivateFrameworks/UniversalAccess.framework</string>
-                <string>/System/Library/PrivateFrameworks/CoreFP.framework</string>
-                <string>/usr/libexec/findmybeaconingd</string>
-                <string>/usr/libexec/findmydevice-user-agent</string>
-                <string>/usr/libexec/findmydeviced</string>
-                <string>/usr/libexec/findmylocateagent</string>
-                <string>/usr/libexec/fmfd</string>
-                <string>/usr/libexec/searchpartyuseragent</string>
-                <string>/System/Applications/Podcasts.app</string>
-                <string>/System/Applications/News.app</string>
-                <string>/System/Applications/Books.app</string>
-                <string>/System/Library/PrivateFrameworks/BookLibraryCore.framework</string>
-                <string>/System/Library/PrivateFrameworks/BookDataStore.framework/Support/bookdatastored</string>
-                <string>/System/Library/PrivateFrameworks/BookLibraryCore.framework/BookLibraryCore</string>
-                <string>/System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed</string>
-                <string>/System/Library/PrivateFrameworks/NewsDaemon.framework/newsd</string>
-                <string>/System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService</string>
-                <string>/System/Applications/Passwords.app</string>
-                <string>/System/Library/CoreServices/Family.app</string>
-                <string>/System/Library/CoreServices/iCloud.app</string>
-                <string>/System/Library/CoreServices/iCloud+.app</string>
-                <string>/System/Library/CoreServices/CloudSettingsSyncAgent</string>
-                <string>/System/Library/CoreServices/Coverage Details.app</string>
-                <string>/System/Applications/FindMy.app</string>
-                <string>/System/Library/CoreServices/RemotePairTool</string>
-                <string>/System/Library/CoreServices/SetupAssistantPlugins/iCloudDelegate.icdplugin</string>
+				<string>/System/Applications/Tips.app</string>
+				<string>/usr/libexec/adprivacyd</string>
+				<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
+				<string>/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc</string>
+				<string>/System/Library/CoreServices/CrashReporterSupportHelper</string>
+				<string>/System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd</string>
+				<string>/System/Library/PrivateFrameworks/CoreParsec.framework</string>
+				<string>/usr/libexec/promotedcontentd</string>
+				<string>/usr/libexec/rapportd</string>
+				<string>/System/Library/CoreServices/ReportCrash</string>
+				<string>/usr/libexec/rtcreportingd</string>
+				<string>/usr/libexec/studentd</string>
+				<string>/System/Library/CoreServices/SubmitDiagInfo</string>
+				<string>/usr/libexec/tipsd</string>
+				<string>/Applications/Firefox.app/Contents/MacOS/crashreporter.app</string>
+				<string>/Applications/Firefox.app/Contents/MacOS/pingsender</string>
+				<string>/System/Library/ExtensionKit/Extensions/ClassroomSettings.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/ClassKitAppIntents.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/ClassKitSettings.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/ClassroomDeviceExpert.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/com.apple.mlhost.TelemetryWorker.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/ExperimentationExtension.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/IEMetricsWorker.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/MetricsExtension.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/NewDeviceOutreachIntents_macOS.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/Sharing.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/SiriCoreMetricsWorker.appex</string>
+				<string>/usr/libexec/feedbackd</string>
+				<string>/usr/libexec/feedback</string>
+				<string>/usr/libexec/betaenrollmentd</string>
+				<string>/usr/libexec/dprivacyd</string>
+				<string>/usr/libexec/init_featureflags</string>
+				<string>/usr/libexec/logd_reporter</string>
+				<string>/usr/libexec/metrickitd</string>
+				<string>/usr/libexec/wifivelocityd</string>
+				<string>/usr/libexec/securityuploadd</string>
+				<string>/System/Library/PrivateFrameworks/EcosystemAnalytics.framework</string>
+				<string>/System/Library/PrivateFrameworks/AdCore.framework</string>
+				<string>/System/Library/PrivateFrameworks/AdID.framework</string>
+				<string>/System/Library/PrivateFrameworks/AdPlatforms.framework</string>
+				<string>/System/Library/PrivateFrameworks/AdPlatformsCommon.framework</string>
+				<string>/System/Library/PrivateFrameworks/AdPlatformsInternal.framework</string>
+				<string>/System/Library/PrivateFrameworks/AppAnalytics.framework</string>
+				<string>/System/Library/PrivateFrameworks/CloudTelemetry.framework</string>
+				<string>/System/Library/PrivateFrameworks/CloudTelemetryTools.framework</string>
+				<string>/System/Library/PrivateFrameworks/CoreAnalytics.framework</string>
+				<string>/System/Library/PrivateFrameworks/CoreDiagnostics.framework</string>
+				<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
+				<string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
+				<string>/System/Library/CoreServices/Problem Reporter.app</string>
+				<string>/System/Library/CoreServices/osanalyticshelper</string>
+				<string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
+				<string>/System/Library/CoreServices/CrashReporterSupportHelper</string>
+				<string>/System/Library/CoreServices/diagnostics_agent</string>
+				<string>/System/Library/CoreServices/RemoteManagement</string>
+				<string>/Applications/Utilities/Adobe Sync</string>
+				<string>/System/Library/CoreServices/SubmitDiagInfo</string>
+				<string>/System/Library/CoreServices/InternetSharing.bundle</string>
+				<string>/Applications/iAdOptOut.app</string>
+				<string>/System/Library/PrivateFrameworks/RemoteManagement.framework</string>
+				<string>/Applications/DiagnosticsService.app</string>
+				<string>/Applications/HashtagImages.app</string>
+				<string>/System/Library/PrivateFrameworks/NewDeviceOutreach.framework</string>
+				<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
+				<string>/System/Applications/TV.app</string>
+				<string>/System/Applications/Freeform.app</string>
+				<string>/System/Applications/iPhone Mirroring.app</string>
+				<string>/System/Applications/FindMy.app</string>
+				<string>/System/Applications/FaceTime.app</string>
+				<string>/System/Applications/Messages.app</string>
+				<string>/System/Library/PrivateFrameworks/FamilyCircle.framework</string>
+				<string>/System/Applications/FindMy.app</string>
+				<string>/usr/libexec/findmybeaconingd</string>
+				<string>/usr/libexec/findmydeviced</string>
+				<string>/usr/libexec/fmfd</string>
+				<string>/System/Library/ExtensionKit/Extensions/FamilyIntents.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/FamilySettings.appex</string>
+				<string>/System/Library/ExtensionKit/Extensions/WalletSettingsExtension.appex</string>
+				<string>/System/Library/PrivateFrameworks/UniversalAccess.framework</string>
+				<string>/System/Library/PrivateFrameworks/CoreFP.framework</string>
+				<string>/usr/libexec/findmybeaconingd</string>
+				<string>/usr/libexec/findmydevice-user-agent</string>
+				<string>/usr/libexec/findmydeviced</string>
+				<string>/usr/libexec/findmylocateagent</string>
+				<string>/usr/libexec/fmfd</string>
+				<string>/usr/libexec/searchpartyuseragent</string>
+				<string>/System/Applications/Podcasts.app</string>
+				<string>/System/Applications/Books.app</string>
+				<string>/System/Library/PrivateFrameworks/BookLibraryCore.framework</string>
+				<string>/System/Library/PrivateFrameworks/BookDataStore.framework/Support/bookdatastored</string>
+				<string>/System/Library/PrivateFrameworks/BookLibraryCore.framework/BookLibraryCore</string>
+				<string>/System/Library/PrivateFrameworks/NewsDaemon.framework/newsd</string>
+				<string>/System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService</string>
+				<string>/System/Applications/Passwords.app</string>
+				<string>/System/Library/CoreServices/Family.app</string>
+				<string>/System/Library/CoreServices/iCloud.app</string>
+				<string>/System/Library/CoreServices/iCloud+.app</string>
+				<string>/System/Library/CoreServices/CloudSettingsSyncAgent</string>
+				<string>/System/Library/CoreServices/Coverage Details.app</string>
+				<string>/System/Applications/FindMy.app</string>
+				<string>/System/Library/CoreServices/RemotePairTool</string>
+				<string>/System/Library/CoreServices/SetupAssistantPlugins/iCloudDelegate.icdplugin</string>
 				<string>/System/Applications/Siri.app</string>
 				<string>/System/Library/ExtensionKit/Extensions/SiriPreferenceExtension.appex</string>
 				<string>/System/Library/ExtensionKit/Extensions/SiriSuggestionsLightHousePlugin.appex</string>
@@ -706,7 +687,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, FaceTime, &amp; News are completely disabled where possible.</string>
+	<string>(05November2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening (Extended) - No Siri</string>
 	<key>PayloadIdentifier</key>

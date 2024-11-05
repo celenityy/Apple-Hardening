@@ -177,7 +177,6 @@
 				<string>com.apple.adid</string>
 				<string>com.apple.freeform</string>
 				<string>org.mozilla.crashreporter</string>
-				<string>com.apple.Home</string>
 				<string>chrome_crashpad_handler</string>
 				<string>com.apple.CrashReporterSupportHelper</string>
 				<string>com.apple.rapportd</string>
@@ -388,7 +387,6 @@
 			<key>pathBlackList</key>
 			<array>
 				<string>/System/Applications/Tips.app</string>
-				<string>/System/Library/PrivateFrameworks/CoreADI.framework/Versions/A/adid</string>
 				<string>/usr/libexec/adprivacyd</string>
 				<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
 				<string>/System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc</string>
@@ -436,7 +434,6 @@
 				<string>/System/Library/PrivateFrameworks/CloudTelemetryTools.framework</string>
 				<string>/System/Library/PrivateFrameworks/CoreAnalytics.framework</string>
 				<string>/System/Library/PrivateFrameworks/CoreDiagnostics.framework</string>
-				<string>/System/Library/PrivateFrameworks/CoreADI.framework</string>
 				<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd</string>
 				<string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
 				<string>/System/Library/CoreServices/Problem Reporter.app</string>
@@ -451,14 +448,13 @@
 				<string>/Applications/iAdOptOut.app</string>
 				<string>/System/Library/PrivateFrameworks/RemoteManagement.framework</string>
 				<string>/Applications/DiagnosticsService.app</string>
-				<string>/Applications/HashtagImages.app</string>
-                <string>/System/Library/PrivateFrameworks/NewDeviceOutreach.framework</string>
-                <string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
+				<string>/System/Library/PrivateFrameworks/NewDeviceOutreach.framework</string>
+				<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
 			</array>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+	<string>(05November2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS Hardening (Base)</string>
 	<key>PayloadIdentifier</key>
