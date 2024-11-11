@@ -59,8 +59,6 @@
 			<true/>
 			<key>allowExplicitContent</key>
 			<true/>
-			<key>allowExternalIntelligenceIntegrations</key>
-			<false/>
 			<key>allowExternalIntelligenceIntegrationsSignIn</key>
 			<false/>
 			<key>allowFileSharingModification</key>
