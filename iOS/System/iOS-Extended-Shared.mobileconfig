@@ -19,8 +19,14 @@
 			<false/>
 			<key>forcePIN</key>
 			<true/>
+			<key>maxFailedAttempts</key>
+			<integer>5</integer>
 			<key>maxGracePeriod</key>
 			<integer>0</integer>
+			<key>minLength</key>
+			<integer>15</integer>
+			<key>minutesUntilFailedLoginReset</key>
+			<integer>15</integer>
 			<key>requireAlphanumeric</key>
 			<true/>
 		</dict>
