@@ -97,8 +97,6 @@
 				<true/>
 				<key>allowDiagnosticSubmission</key>
 				<false/>
-				<key>allowDictation</key>
-				<false/>
 				<key>allowESIMModification</key>
 				<true/>
 				<key>allowEnablingRestrictions</key>
