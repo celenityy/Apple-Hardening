@@ -5,6 +5,8 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
+				<key>AlwaysRestoreSessionAtLaunch</key>
+				<false/>
 				<key>AskBeforeSubmittingInsecureForms</key>
 				<true/>
 				<key>AutoOpenSafeDownloads</key>
@@ -28,6 +30,10 @@
 				<key>HomePage</key>
 				<string>topsites://</string>
 				<key>IncludeDevelopMenu</key>
+				<true/>
+				<key>IncludeDevelopMenuPreferenceKey</key>
+				<true/>
+				<key>IncludeInternalDebugMenu</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Safari</string>
@@ -53,6 +59,8 @@
 				<integer>1</integer>
 				<key>WebKitStorageBlockingPolicy</key>
 				<integer>1</integer>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically</key>
@@ -62,11 +70,55 @@
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Safari Safe Browsing</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.Safari.SafeBrowsing.2F2A73B0-2B2F-47A1-9FD2-8A433452A80C</string>
+				<key>PayloadType</key>
+				<string>com.apple.Safari.SafeBrowsing</string>
+				<key>PayloadUUID</key>
+				<string>2F2A73B0-2B2F-47A1-9FD2-8A433452A80C</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SafeBrowsingEnabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>AlwaysPromptForDownloadFolder</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Safari Developer</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.Safari.SandboxBroker.D67A0E32-0A9C-4D88-8D9B-D64590E1C3B7</string>
+				<key>PayloadType</key>
+				<string>com.apple.Safari.SandboxBroker</string>
+				<key>PayloadUUID</key>
+				<string>D67A0E32-0A9C-4D88-8D9B-D64590E1C3B7</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ShowDevelopMenu</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>NSHTTPAcceptCookies</key>
+				<string>current page</string>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.WebFoundation</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.WebFoundation.1F668682-5A92-4512-AD17-74F20BB8E050</string>
+				<key>PayloadType</key>
+				<string>com.apple.WebFoundation</string>
+				<key>PayloadUUID</key>
+				<string>1F668682-5A92-4512-AD17-74F20BB8E050</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11November2024v1) Safari configuration for macOS.</string>
+		<string>(12November2024v1) Safari configuration for macOS.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening - Safari</string>
+		<string>macOS Hardening (Base) - Safari</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.safari</string>
 		<key>PayloadOrganization</key>

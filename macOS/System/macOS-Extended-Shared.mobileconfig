@@ -15,8 +15,6 @@
 				<string>429455AE-57C6-4359-8541-D95AACA35658</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>allowSimple</key>
-				<false/>
 				<key>forcePIN</key>
 				<true/>
 				<key>maxFailedAttempts</key>
@@ -35,6 +33,14 @@
 				<false/>
 				<key>Bluetooth</key>
 				<integer>18</integer>
+				<key>NSStatusItem Visible Battery</key>
+				<true/>
+				<key>NSStatusItem Visible Bluetooth</key>
+				<true/>
+				<key>NSStatusItem Visible Clock</key>
+				<true/>
+				<key>NSStatusItem Visible WiFi</key>
+				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Control Center</string>
 				<key>PayloadIdentifier</key>
@@ -49,6 +55,134 @@
 				<integer>18</integer>
 			</dict>
 			<dict>
+				<key>CloudKitHasAvailableRecordsToDownload</key>
+				<false/>
+				<key>CloudKitIsRemovedFromBackup</key>
+				<true/>
+				<key>CloudKitSyncingEnabled</key>
+				<false/>
+				<key>IMCloudKitSyncCancelled</key>
+				<true/>
+				<key>IMCloudKitSyncPaused</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>CloudKit</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.madrid.B63E2C42-8B30-4DD0-9814-BA0CC0F130C4</string>
+				<key>PayloadType</key>
+				<string>com.apple.madrid</string>
+				<key>PayloadUUID</key>
+				<string>B63E2C42-8B30-4DD0-9814-BA0CC0F130C4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AppleShowAllFiles</key>
+				<true/>
+				<key>FXICloudDriveDesktop</key>
+				<false/>
+				<key>FXICloudDriveDocuments</key>
+				<false/>
+				<key>FXICloudDriveEnabled</key>
+				<false/>
+				<key>FXICloudLoggedIn</key>
+				<false/>
+				<key>FXPreferredViewStyle</key>
+				<string>icnv</string>
+				<key>FXRemoveOldTrashItems</key>
+				<true/>
+				<key>NewWindowTarget</key>
+				<string>PfHm</string>
+				<key>PayloadDisplayName</key>
+				<string>Finder</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.finder.2F79E733-2A6B-42B9-801E-21D4D8F3839F</string>
+				<key>PayloadType</key>
+				<string>com.apple.finder</string>
+				<key>PayloadUUID</key>
+				<string>2F79E733-2A6B-42B9-801E-21D4D8F3839F</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProhibitBurn</key>
+				<false/>
+				<key>ProhibitConnectTo</key>
+				<false/>
+				<key>ProhibitEject</key>
+				<false/>
+				<key>ProhibitGoToFolder</key>
+				<false/>
+				<key>ShowExternalHardDrivesOnDesktop</key>
+				<true/>
+				<key>ShowHardDrivesOnDesktop</key>
+				<true/>
+				<key>ShowMountedServersOnDesktop</key>
+				<true/>
+				<key>ShowRecentTags</key>
+				<false/>
+				<key>ShowRemovableMediaOnDesktop</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Cloud Sync Enabled</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>Assistant Settings</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.assistant.backedup.AF052FC9-3B50-4062-BC01-340C00266566</string>
+				<key>PayloadType</key>
+				<string>com.apple.assistant.backedup</string>
+				<key>PayloadUUID</key>
+				<string>AF052FC9-3B50-4062-BC01-340C00266566</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>disableCloudSync</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Do Not Disturb</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.donotdisturbd.E189C2AC-F571-48DF-9954-2B8953453855</string>
+				<key>PayloadType</key>
+				<string>com.apple.donotdisturbd</string>
+				<key>PayloadUUID</key>
+				<string>E189C2AC-F571-48DF-9954-2B8953453855</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>DidSeeAccessibility</key>
+				<true/>
+				<key>DidSeeActivationLock</key>
+				<true/>
+				<key>DidSeeAppStore</key>
+				<true/>
+				<key>DidSeeAppearanceSetup</key>
+				<true/>
+				<key>DidSeeApplePaySetup</key>
+				<true/>
+				<key>DidSeeCloudSetup</key>
+				<true/>
+				<key>DidSeeIntelligence</key>
+				<true/>
+				<key>DidSeeLockdownMode</key>
+				<true/>
+				<key>DidSeePrivacy</key>
+				<true/>
+				<key>DidSeeScreenTime</key>
+				<true/>
+				<key>DidSeeSiriSetup</key>
+				<true/>
+				<key>DidSeeSyncSetup</key>
+				<true/>
+				<key>DidSeeSyncSetup2</key>
+				<true/>
+				<key>DidSeeTermsOfAddress</key>
+				<true/>
+				<key>DidSeeTouchIDSetup</key>
+				<true/>
+				<key>DidSeeiCloudLoginForStorageServices</key>
+				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Setup Assistant</string>
 				<key>PayloadIdentifier</key>
@@ -124,10 +258,84 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>FMFGarbageCollectorIdentityKey</key>
+				<string></string>
+				<key>"FMFLimitedPrecisionPrefKey.limitedPrecision"</key>
+				<true/>
+				<key>frontMostWindow</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>FMF Core</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.findmy.fmfcore.notbackedup.ED0FE477-BC66-4E34-BD40-B406D7B0705D</string>
+				<key>PayloadType</key>
+				<string>com.apple.findmy.fmfcore.notbackedup</string>
+				<key>PayloadUUID</key>
+				<string>ED0FE477-BC66-4E34-BD40-B406D7B0705D</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>publicAPSToken</key>
+				<string></string>
+				<key>windowVisible</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>FMIPGarbageCollectorIdentityKey</key>
+				<string></string>
+				<key>"FMIPLimitedPrecisionPrefKey.limitedPrecision"</key>
+				<true/>
+				<key>frontMostWindow</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>FMIP Core</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.findmy.fmipcore.notbackedup.01DFD62E-99AB-4D97-987D-33A33A8A1CEA</string>
+				<key>PayloadType</key>
+				<string>com.apple.findmy.fmipcore.notbackedup</string>
+				<key>PayloadUUID</key>
+				<string>01DFD62E-99AB-4D97-987D-33A33A8A1CEA</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>publicAPSToken</key>
+				<string></string>
+				<key>windowVisible</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Music</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.Music.247696A6-1251-4F1E-B826-2BF960FB3DF3</string>
+				<key>PayloadType</key>
+				<string>com.apple.Music</string>
+				<key>PayloadUUID</key>
+				<string>247696A6-1251-4F1E-B826-2BF960FB3DF3</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>showAppleMusic</key>
+				<false/>
+				<key>userMaxConcurrentDownloads</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>InitialOutreachActivityScheduled</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>NewDeviceOutreach</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.NewDeviceOutreach.0ED62CCC-9303-4A80-8253-3CF0A5CC84DC</string>
+				<key>PayloadType</key>
+				<string>com.apple.NewDeviceOutreach</string>
+				<key>PayloadUUID</key>
+				<string>0ED62CCC-9303-4A80-8253-3CF0A5CC84DC</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>DisableDeviceBackups</key>
 				<true/>
 				<key>PayloadDisplayName</key>
-				<string>iTunes #1</string>
+				<string>iTunes</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.iTunes.5760058E-3ED5-41FF-958B-6358F0213818</string>
 				<key>PayloadType</key>
@@ -160,9 +368,85 @@
 				<key>restrictExplicitBooks</key>
 				<false/>
 			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.knowledge-agent</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.knowledge-agent.D988A821-3610-48E7-8334-AFEE4A2437F4</string>
+				<key>PayloadType</key>
+				<string>com.apple.knowledge-agent</string>
+				<key>PayloadUUID</key>
+				<string>D988A821-3610-48E7-8334-AFEE4A2437F4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ScreenTimeSyncDisabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>AllowOnlyContacts</key>
+				<true/>
+				<key>BlockAllInviters</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>ScreenSharing</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.ScreenSharingSharedDefaults.9B045658-3610-4405-BBB0-C6055FFB70C6</string>
+				<key>PayloadType</key>
+				<string>com.apple.ScreenSharingSharedDefaults</string>
+				<key>PayloadUUID</key>
+				<string>9B045658-3610-4405-BBB0-C6055FFB70C6</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Sync Services</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.syncserver.64CB303A-49BC-4488-B0CF-820051595762</string>
+				<key>PayloadType</key>
+				<string>com.apple.syncserver</string>
+				<key>PayloadUUID</key>
+				<string>64CB303A-49BC-4488-B0CF-820051595762</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>RunCompletelyDisabled</key>
+				<string>YES</string>
+			</dict>
+			<dict>
+				<key>FeaturedContentAllowed</key>
+				<false/>
+				<key>IPXDefaultViewFullHDR</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Photos</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.photos.shareddefaults.15C1A254-45A3-4878-8B0B-09EFDE4EE181</string>
+				<key>PayloadType</key>
+				<string>com.apple.photos.shareddefaults</string>
+				<key>PayloadUUID</key>
+				<string>15C1A254-45A3-4878-8B0B-09EFDE4EE181</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Voice Trigger</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.voicetrigger.58ABA81D-FDE5-465F-BD78-1A47C2C1686B</string>
+				<key>PayloadType</key>
+				<string>com.apple.voicetrigger</string>
+				<key>PayloadUUID</key>
+				<string>58ABA81D-FDE5-465F-BD78-1A47C2C1686B</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>Remote Darwin VoiceTrigger Enabled</key>
+				<false/>
+				<key>VoiceTrigger Enabled</key>
+				<false/>
+			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11November2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(12November2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Shared</string>
 		<key>PayloadIdentifier</key>

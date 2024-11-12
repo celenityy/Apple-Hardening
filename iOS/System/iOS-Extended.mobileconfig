@@ -39,6 +39,10 @@
 				<true/>
 				<key>allowAppsToBeLocked</key>
 				<true/>
+				<key>allowAssistantUserGeneratedContent</key>
+				<false/>
+				<key>allowAssistantWhileLocked</key>
+				<false/>
 				<key>allowAssistant</key>
 				<false/>
 				<key>allowAutoUnlock</key>
@@ -93,6 +97,8 @@
 				<true/>
 				<key>allowDiagnosticSubmission</key>
 				<false/>
+				<key>allowDiagnosticSubmissionModification</key>
+				<false/>
 				<key>allowDictation</key>
 				<false/>
 				<key>allowESIMModification</key>
@@ -131,7 +137,11 @@
 				<false/>
 				<key>allowLocalUserCreation</key>
 				<true/>
+				<key>allowLockScreenControlCenter</key>
+				<false/>
 				<key>allowLockScreenNotificationsView</key>
+				<false/>
+				<key>allowLockScreenTodayView</key>
 				<false/>
 				<key>allowMailPrivacyProtection</key>
 				<true/>
@@ -141,6 +151,8 @@
 				<false/>
 				<key>allowMarketplaceAppInstallation</key>
 				<true/>
+				<key>allowMediaSharing</key>
+				<false/>
 				<key>allowMediaSharingModification</key>
 				<false/>
 				<key>allowMusicService</key>
@@ -229,67 +241,6 @@
 				<false/>
 				<key>allowiTunesFileSharing</key>
 				<false/>
-				<key>blockedAppBundleIDs</key>
-				<array>
-					<string>com.apple.amsengagementd</string>
-					<string>com.apple.CloudTelemetryService.xpc</string>
-					<string>com.apple.studentd</string>
-					<string>com.apple.parsecd</string>
-					<string>com.apple.ap.adprivacyd</string>
-					<string>com.apple.ap.promotedcontentd</string>
-					<string>com.apple.familycircled</string>
-					<string>com.apple.rtcreportingd</string>
-					<string>com.apple.parsec-fbf </string>
-					<string>com.apple.SubmitDiagInfo</string>
-					<string>com.apple.helpviewer</string>
-					<string>com.apple.adid</string>
-					<string>com.apple.findmy</string>
-					<string>org.mozilla.crashreporter</string>
-					<string>com.apple.siri.launcher</string>
-					<string>com.apple.findmy.findmybeaconingd</string>
-					<string>com.apple.icloud.findmydeviced</string>
-					<string>chrome_crashpad_handler</string>
-					<string>com.apple.CrashReporterSupportHelper</string>
-					<string>com.apple.icloud.fmfd</string>
-					<string>com.apple.rapportd</string>
-					<string>com.apple.CrashReporter</string>
-					<string>com.apple.Siri</string>
-					<string>com.apple.AdLib</string>
-					<string>pingsender</string>
-					<string>com.apple.Classroom-Settings</string>
-					<string>com.apple.DiagnosticsReporter</string>
-					<string>com.apple.AccessibilityOnboarding</string>
-					<string>com.apple.AXVisualSupportAgent</string>
-					<string>systemgroup.com.apple.osanalytics</string>
-					<string>com.apple.osanalytics</string>
-					<string>com.apple.photoanalysisd</string>
-					<string>com.apple.featureflags</string>
-					<string>com.apple.logd_reporter</string>
-					<string>com.apple.appleseed.seedusaged</string>
-					<string>com.apple.iCloudStats</string>
-					<string>com.apple.appleseed.fbahelperd</string>
-					<string>com.apple.metrickitd</string>
-					<string>com.apple.wifivelocity</string>
-					<string>com.apple.securityuploadd</string>
-					<string>com.apple.private.securityuploadd</string>
-					<string>com.apple.mobileme.fmf3</string>
-					<string>com.apple.findmymac</string>
-					<string>com.apple.icloud.searchpartyd</string>
-					<string>com.apple.iCloudDriveApp</string>
-					<string>com.apple.classroom</string>
-					<string>com.apple.macos.classroom</string>
-					<string>com.apple.ecosystemanalyticsd</string>
-					<string>com.apple.AdPlatforms.AdCore</string>
-					<string>com.apple.AdPlatforms</string>
-					<string>com.apple.AdPlatforms.AdPlatforms</string>
-					<string>com.apple.ap.AdPlatformsCommon</string>
-					<string>com.apple.AdPlatforms.AdPlatformsInternal</string>
-					<string>com.apple.AppAnalytics</string>
-					<string>com.apple.CloudTelemetry</string>
-					<string>com.apple.CloudTelemetryTools</string>
-					<string>com.apple.analyticsd</string>
-					<string>com.apple.CoreDiagnostics</string>
-				</array>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
@@ -308,6 +259,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedAppAndDeviceLock</key>
 				<false/>
+				<key>forceClassroomUnpromptedScreenObservation</key>
+				<false/>
 				<key>forceDelayedAppSoftwareUpdates</key>
 				<false/>
 				<key>forceDelayedMajorSoftwareUpdates</key>
@@ -323,6 +276,10 @@
 				<key>forceOnDeviceOnlyDictation</key>
 				<true/>
 				<key>forceOnDeviceOnlyTranslation</key>
+				<true/>
+				<key>forceUnpromptedManagedClassroomScreenObservation</key>
+				<false/>
+				<key>forceWatchWristDetection</key>
 				<true/>
 				<key>forceWiFiPowerOn</key>
 				<false/>
@@ -349,7 +306,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11November2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, &amp; Siri are completely disabled where possible.</string>
+		<string>(12November2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, &amp; Siri are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening (Extended)</string>
 		<key>PayloadIdentifier</key>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Application Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.new.032817A3-5352-4291-A7B0-83056C878404</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess.new</string>
+				<key>PayloadUUID</key>
+				<string>032817A3-5352-4291-A7B0-83056C878404</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>familyControlsEnabled</key>
+				<true/>
+				<key>pathBlackList</key>
+				<array>
+					<string>/System/Applications/Books.app</string>
+					<string>/System/Applications/FaceTime.app</string>
+					<string>/System/Applications/FindMy.app</string>
+					<string>/System/Applications/Freeform.app</string>
+					<string>/System/Applications/iPhone Mirroring.app</string>
+					<string>/System/Applications/Messages.app</string>
+					<string>/System/Applications/Passwords.app</string>
+					<string>/System/Applications/Podcasts.app</string>
+					<string>/System/Applications/TV.app</string>
+					<string>/System/Library/CoreServices/Coverage Details.app</string>
+					<string>/System/Library/CoreServices/Family.app</string>
+					<string>/System/Library/CoreServices/iCloud.app</string>
+					<string>/System/Library/CoreServices/iCloud+.app</string>
+					<string>/System/Library/CoreServices/Pass Viewer.app</string>
+					<string>/System/Library/CoreServices/PeopleMessageService.app</string>
+					<string>/Applications/Adobe Media Encoder 2024/Adobe Media Encoder 2024.app/Contents/AdobeCrashReport.app</string>
+					<string>/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/AdobeCrashReport.app</string>
+					<string>/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app/Contents/AdobeCrashReport.app</string>
+					<string>/Applications/balenaEtcher.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Cake Wallet.app/Contents/Frameworks/in_app_review.framework</string>
+					<string>/Applications/Firefox.app/Contents/MacOS/crashreporter.app</string>
+					<string>/Applications/Firefox.app/Contents/MacOS/minidump-analyzer</string>
+					<string>/Applications/Firefox.app/Contents/MacOS/pingsender</string>
+					<string>/Applications/Firefox Developer Edition.app/Contents/MacOS/crashreporter.app</string>
+					<string>/Applications/Firefox Developer Edition.app/Contents/MacOS/minidump-analyzer</string>
+					<string>/Applications/Firefox Developer Edition.app/Contents/MacOS/pingsender</string>
+					<string>/Applications/Firefox Nightly.app/Contents/MacOS/crashreporter.app</string>
+					<string>/Applications/Firefox Nightly.app/Contents/MacOS/minidump-analyzer</string>
+					<string>/Applications/Firefox Nightly.app/Contents/MacOS/pingsender</string>
+					<string>/Applications/FreeTube.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Keynote.app/Contents/Frameworks/AppAnalytics.framework</string>
+					<string>/Applications/NetSpot.app/Contents/Frameworks/FeedbackReporter.framework</string>
+					<string>/Applications/Numbers.app/Contents/Frameworks/AppAnalytics.framework</string>
+					<string>/Applications/Obsidian.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Pages.app/Contents/Frameworks/AppAnalytics.framework</string>
+					<string>/Applications/ProtonVPN.app/Contents/Frameworks/Sentry.framework</string>
+					<string>/Applications/Roblox.app/Contents/MacOS/RobloxCrashHandler</string>
+					<string>/Applications/Signal.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Stacher.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Steam.app/Contents/Frameworks/Breakpad.framework</string>
+					<string>/Applications/TaskExplorer.app/Contents/Frameworks/Sentry.framework</string>
+					<string>/Applications/The Unarchiver.app/Contents/Frameworks/Analytics.framework</string>
+					<string>/Applications/The Unarchiver.app/Contents/Frameworks/Sentry.framework</string>
+					<string>/Applications/Thunderbird.app/Contents/MacOS/crashreporter.app</string>
+					<string>/Applications/Thunderbird.app/Contents/MacOS/minidump-analyzer</string>
+					<string>/Applications/Thunderbird.app/Contents/MacOS/pingsender</string>
+					<string>/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/Frameworks/AdobeCrashReporter.framework</string>
+					<string>/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud Helper.app/Contents/Frameworks/AdobeCrashReporter.framework</string>
+					<string>/Applications/Utilities/Adobe Sync</string>
+					<string>/Applications/VLC.app/Contents/Frameworks/Breakpad.framework</string>
+					<string>/Applications/VSCodium.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Helpers/chrome_crashpad_handler</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/DVTFeedbackReportingDiagnosticExtension.appex</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalytics.framework</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalyticsKit.framework</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalyticsMetricsKit.framework</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalyticsMetricsNotifications.framework</string>
+					<string>/Applications/Xcode.app/Contents/PlugIns/XCCFeedbackReportingDiagnosticExtension.appex</string>
+					<string>/Applications/Xcode.app/Contents/SharedFrameworks/DVTFeedbackReporting.framework</string>
+					<string>/System/Applications/Books.app/Contents/Frameworks/BookAnalytics.framework</string>
+					<string>/System/Applications/Books.app/Contents/Frameworks/EngagementCollector.framework</string>
+					<string>/System/Applications/News.app/Contents/PlugIns/NewsDiagnosticExtension.appex</string>
+					<string>/System/Applications/News.app/Contents/PlugIns/NewsEngagementExtension.appex</string>
+					<string>/System/Applications/Podcasts.app/Contents/Frameworks/IMDebug.framework</string>
+					<string>/System/Applications/Tips.app</string>
+					<string>/System/Applications/Weather.app/Contents/PlugIns/WeatherDiagnosticExtension.appex</string>
+					<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
+					<string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
+					<string>/System/Library/CoreServices/Problem Reporter.app</string>
+					<string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
+					<string>/System/Library/CoreServices/RapportUIAgent.app</string>
+					<string>/System/Library/CoreServices/RemoteManagement</string>
+					<string>/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/PlugIns/DiagnosticExtension.appex</string>
+				</array>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>(12November2024v1) Disables various apps from running on macOS, such as Tips, Feedback Assistant, Crash Reporter, etc. After installation, you will see  a pop-up on first boot after logging in with the message: "You don't have permission to use the application "seedusaged." Simply select 'OK' &amp; ignore this. seedusaged is part of Apple's Feedback Assistant (https://macosbin.com/bin/seedusaged) used for collecting &amp; reporting data.</string>
+		<key>PayloadDisplayName</key>
+		<string>macOS Hardening (Extended) - Debloat</string>
+		<key>PayloadIdentifier</key>
+		<string>dev.celenity.osx.debloat.extended</string>
+		<key>PayloadOrganization</key>
+		<string>celenity 💘</string>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>6959F7EB-3FF6-498B-A17F-076FC0391EB9</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>5</integer>
+	</dict>
+</plist>

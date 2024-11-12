@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>AllowPreReleaseInstallation</key>
-			<false/>
-			<key>AutomaticCheckEnabled</key>
-			<true/>
-			<key>AutomaticDownload</key>
-			<true/>
-			<key>AutomaticallyInstallAppUpdates</key>
-			<true/>
-			<key>AutomaticallyInstallMacOSUpdates</key>
-			<true/>
-			<key>ConfigDataInstall</key>
-			<true/>
-			<key>CriticalUpdateInstall</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>Software Update</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate.DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
-			<key>PayloadType</key>
-			<string>com.apple.SoftwareUpdate</string>
-			<key>PayloadUUID</key>
-			<string>DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>SUDisableEVCheck</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>restrict-software-update-require-admin-to-install</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Parental Controls: Application Restrictions #1</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.new.558604A8-737D-48C7-94F9-0B1DFC602A91</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess.new</string>
-			<key>PayloadUUID</key>
-			<string>558604A8-737D-48C7-94F9-0B1DFC602A91</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>familyControlsEnabled</key>
-			<true/>
-			<key>pathBlackList</key>
-			<array>
-				<string>/usr/libexec/betaenrollmentd</string>
-			</array>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>(05November2024v1) Hardened Software Update settings for macOS.</string>
-	<key>PayloadDisplayName</key>
-	<string>macOS Hardening - Software Updates</string>
-	<key>PayloadIdentifier</key>
-	<string>dev.celenity.osx.updates</string>
-	<key>PayloadOrganization</key>
-	<string>celenity 💘</string>
-	<key>PayloadScope</key>
-	<string>System</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>F2B53A42-E269-41AA-8194-6E87F737A84E</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-	<key>TargetDeviceType</key>
-	<integer>5</integer>
-</dict>
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AllowPreReleaseInstallation</key>
+				<false/>
+				<key>AutomaticCheckEnabled</key>
+				<true/>
+				<key>AutomaticDownload</key>
+				<true/>
+				<key>AutomaticallyInstallAppUpdates</key>
+				<true/>
+				<key>AutomaticallyInstallMacOSUpdates</key>
+				<true/>
+				<key>ConfigDataInstall</key>
+				<true/>
+				<key>CriticalUpdateInstall</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Software Update</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SoftwareUpdate.DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
+				<key>PayloadType</key>
+				<string>com.apple.SoftwareUpdate</string>
+				<key>PayloadUUID</key>
+				<string>DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SUDisableEVCheck</key>
+				<false/>
+				<key>forceDelayedSoftwareUpdates</key>
+				<false/>
+				<key>restrict-software-update-require-admin-to-install</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Parental Controls: Application Restrictions #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess.new.558604A8-737D-48C7-94F9-0B1DFC602A91</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess.new</string>
+				<key>PayloadUUID</key>
+				<string>558604A8-737D-48C7-94F9-0B1DFC602A91</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>familyControlsEnabled</key>
+				<true/>
+				<key>pathBlackList</key>
+				<array>
+					<string>/usr/libexec/betaenrollmentd</string>
+				</array>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>(12November2024v1) Hardened Software Update settings for macOS.</string>
+		<key>PayloadDisplayName</key>
+		<string>macOS Hardening - Updates</string>
+		<key>PayloadIdentifier</key>
+		<string>dev.celenity.osx.updates</string>
+		<key>PayloadOrganization</key>
+		<string>celenity 💘</string>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>F2B53A42-E269-41AA-8194-6E87F737A84E</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>5</integer>
+	</dict>
 </plist>
