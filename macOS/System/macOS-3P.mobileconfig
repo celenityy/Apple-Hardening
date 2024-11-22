@@ -63,6 +63,8 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>NSAppSleepDisabled</key>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Adobe Desktop Service</string>
 				<key>PayloadIdentifier</key>
@@ -1512,7 +1514,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) macOS Hardening &amp; tweaks for 3rd party apps and services.</string>
+		<string>(21November2024v1) macOS Hardening & tweaks for 3rd party apps and services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - 3P</string>
 		<key>PayloadIdentifier</key>

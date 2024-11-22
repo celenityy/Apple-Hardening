@@ -99,6 +99,20 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.airport.opproam</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.airport.opproam.0D10521B-07B1-40B9-9F48-E4B8A9F24C56</string>
+				<key>PayloadType</key>
+				<string>com.apple.airport.opproam</string>
+				<key>PayloadUUID</key>
+				<string>0D10521B-07B1-40B9-9F48-E4B8A9F24C56</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>useBonjour</key>
+				<false/>
+			</dict>
+			<dict>
 				<key>NoMulticastAdvertisements</key>
 				<true/>
 				<key>PayloadDisplayName</key>
