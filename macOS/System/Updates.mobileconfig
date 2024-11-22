@@ -37,6 +37,20 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>AutoUpdate</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.commerce.A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
+				<key>PayloadType</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadUUID</key>
+				<string>A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>PayloadDisplayName</key>
 				<string>Parental Controls: Application Restrictions #1</string>
 				<key>PayloadIdentifier</key>
@@ -56,7 +70,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Hardened Software Update settings for macOS.</string>
+		<string>(21November2024v1) Hardened Software Update settings for macOS.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates</string>
 		<key>PayloadIdentifier</key>

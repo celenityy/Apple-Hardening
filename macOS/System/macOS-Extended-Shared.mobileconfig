@@ -258,6 +258,20 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>FMMEnabled</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>Find My</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.FindMyMac.346ABCBC-89CB-4CD0-9532-BAF92846B892</string>
+				<key>PayloadType</key>
+				<string>com.apple.FindMyMac</string>
+				<key>PayloadUUID</key>
+				<string>346ABCBC-89CB-4CD0-9532-BAF92846B892</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>FMFGarbageCollectorIdentityKey</key>
 				<string></string>
 				<key>"FMFLimitedPrecisionPrefKey.limitedPrecision"</key>
@@ -413,6 +427,20 @@
 				<string>YES</string>
 			</dict>
 			<dict>
+				<key>Active</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.timezone.auto</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.timezone.auto.2C3BAAAF-CDA9-40AA-B6E0-B51C203A39BD</string>
+				<key>PayloadType</key>
+				<string>com.apple.timezone.auto</string>
+				<key>PayloadUUID</key>
+				<string>2C3BAAAF-CDA9-40AA-B6E0-B51C203A39BD</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>FeaturedContentAllowed</key>
 				<false/>
 				<key>IPXDefaultViewFullHDR</key>
@@ -446,7 +474,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(21November2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Shared</string>
 		<key>PayloadIdentifier</key>

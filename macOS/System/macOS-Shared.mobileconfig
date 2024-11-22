@@ -83,6 +83,22 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>AutoHotspotMode</key>
+				<string>Never</string>
+				<key>PayloadDisplayName</key>
+				<string>Airport Preferences</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.airport.preferences.1876FD78-52DE-4D57-B2DF-2E9774CA4E9F</string>
+				<key>PayloadType</key>
+				<string>com.apple.airport.preferences</string>
+				<key>PayloadUUID</key>
+				<string>1876FD78-52DE-4D57-B2DF-2E9774CA4E9F</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PrivateMACAddressModeSystemSetting</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
 				<key>NoMulticastAdvertisements</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -139,6 +155,34 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>guestAccess</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>File Server</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.AppleFileServer.96CA061C-53A4-4ADA-8E7D-12C2265E0F6A</string>
+				<key>PayloadType</key>
+				<string>com.apple.AppleFileServer</string>
+				<key>PayloadUUID</key>
+				<string>96CA061C-53A4-4ADA-8E7D-12C2265E0F6A</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AllowGuestAccess</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>SMB Server</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.smb.server.52A19F17-621E-4C1B-B297-A9E0F281A534</string>
+				<key>PayloadType</key>
+				<string>com.apple.smb.server</string>
+				<key>PayloadUUID</key>
+				<string>52A19F17-621E-4C1B-B297-A9E0F281A534</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>ICDefaultsKeySocialProfileSupported</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -181,6 +225,48 @@
 				<true/>
 				<key>User Has Acknowledged Passwords Settings Dialog</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Location Services</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.locationmenu.6309F283-AB7D-4ECB-96F3-9EF1F5786534</string>
+				<key>PayloadType</key>
+				<string>com.apple.locationmenu</string>
+				<key>PayloadUUID</key>
+				<string>6309F283-AB7D-4ECB-96F3-9EF1F5786534</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ShowSystemServices</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>ech_probe_enabled</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.networkd</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.networkd.5C2CC80D-9202-4C19-95C2-D234E72FD305</string>
+				<key>PayloadType</key>
+				<string>com.apple.networkd</string>
+				<key>PayloadUUID</key>
+				<string>5C2CC80D-9202-4C19-95C2-D234E72FD305</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>CriticalDomains</key>
+				<array/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.networkextension.control</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.networkextension.control.2B6CED08-E4F8-40F2-8B34-E69BDFB16AAB</string>
+				<key>PayloadType</key>
+				<string>com.apple.networkextension.control</string>
+				<key>PayloadUUID</key>
+				<string>2B6CED08-E4F8-40F2-8B34-E69BDFB16AAB</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>"audio_feature_flag_enabled"</key>
@@ -511,6 +597,8 @@
 				<true/>
 				<key>NSDocumentSaveNewDocumentsToCloud</key>
 				<false/>
+				<key>NSShowFeedbackMenu</key>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Global Preferences</string>
 				<key>PayloadIdentifier</key>
@@ -649,6 +737,8 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>Activated</key>
+				<false/>
 				<key>AllowCacheDelete</key>
 				<true/>
 				<key>AllowPersonalCaching</key>
@@ -818,6 +908,8 @@
 			<dict>
 				<key>EnableExternalAccounts</key>
 				<false/>
+				<key>GuestEnabled</key>
+				<false/>
 				<key>HideMobileAccounts</key>
 				<true/>
 				<key>IncludeNetworkUser</key>
@@ -925,7 +1017,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
+		<string>(21November2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Shared</string>
 		<key>PayloadIdentifier</key>

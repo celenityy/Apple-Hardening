@@ -34,9 +34,23 @@
 				<key>restrict-software-update-require-admin-to-install</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>AutoUpdate</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.commerce.7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
+				<key>PayloadType</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadUUID</key>
+				<string>7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+		<string>(21November2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates (Beta)</string>
 		<key>PayloadIdentifier</key>
