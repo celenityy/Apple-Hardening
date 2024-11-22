@@ -5,6 +5,8 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
+				<key>AllowJavaScriptFromAppleEvents</key>
+				<false/>
 				<key>AlwaysRestoreSessionAtLaunch</key>
 				<false/>
 				<key>AskBeforeSubmittingInsecureForms</key>
@@ -17,14 +19,26 @@
 				<false/>
 				<key>BookmarksMenuIncludesRendezvous</key>
 				<false/>
+				<key>BrowsingAssistantConsentState</key>
+				<integer>2</integer>
 				<key>CanPromptForPushNotifications</key>
 				<false/>
+				<key>DebugJSJITDisabledKey</key>
+				<true/>
 				<key>DefaultBrowserPromptingState2</key>
 				<integer>1</integer>
 				<key>DefaultBrowserPromptingState3</key>
 				<integer>2</integer>
 				<key>DownloadsClearingPolicy</key>
 				<integer>1</integer>
+				<key>EnableEnhancedPrivacyInPrivateBrowsing</key>
+				<true/>
+				<key>EnableEnhancedPrivacyInRegularBrowsing</key>
+				<true/>
+				<key>HideHighlightsEmptyItemViewPreferenceKey</key>
+				<true/>
+				<key>HideStartPageSiriSuggestionsEmptyItemView</key>
+				<true/>
 				<key>HistoryAgeInDaysLimit</key>
 				<integer>1</integer>
 				<key>HomePage</key>
@@ -34,6 +48,16 @@
 				<key>IncludeDevelopMenuPreferenceKey</key>
 				<true/>
 				<key>IncludeInternalDebugMenu</key>
+				<true/>
+				<key>InternalDebugIsSameSiteStrictEnforcementEnabled</key>
+				<true/>
+				<key>InternalDebugSiteIsolationEnabled</key>
+				<true/>
+				<key>InstallExtensionUpdatesAutomatically</key>
+				<true/>
+				<key>LocalFileRestrictionsEnabled</key>
+				<true/>
+				<key>PasswordBreachDetectionOn</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Safari</string>
@@ -45,20 +69,80 @@
 				<string>8155D7F2-DC9A-4CE0-A576-094DBABCEB66</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>PreloadTopHit</key>
+				<false/>
 				<key>SendDoNotTrackHTTPHeader</key>
 				<true/>
 				<key>ShowFullURLInSmartSearchField</key>
 				<true/>
+				<key>ShowHighlightsInFavorites</key>
+				<false/>
+				<key>SkipLoadingEnabledAppExtensionsAtLaunch</key>
+				<false/>
+				<key>SkipLoadingEnabledContentBlockersAtLaunch</key>
+				<false/>
+				<key>SkipLoadingEnabledWebExtensionsAtLaunch</key>
+				<false/>
+				<key>SuppressSearchSuggestions</key>
+				<true/>
 				<key>TabCreationPolicy</key>
 				<integer>2</integer>
+				<key>UnifiedFieldSupportsJavascriptURLs</key>
+				<false/>
+				<key>UniversalSearchEnabled</key>
+				<false/>
+				<key>UseHTTPSOnly</key>
+				<true/>
 				<key>WarnAboutFraudulentWebsites</key>
 				<true/>
+				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
+				<false/>
+				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
+				<true/>
+				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
+				<true/>
+				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
+				<true/>
+				<key>WebKitExperimentalLockdownFontParserEnabled</key>
+				<true/>
+				<key>WebKitExperimentalPrivateClickMeasurementFraudPreventionEnabled</key>
+				<false/>
+				<key>WebKitExperimentalPrivateTokenUsageByThirdPartyEnabled</key>
+				<false/>
+				<key>WebKitExperimentalWebGPUEnabled</key>
+				<false/>
+				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
+				<false/>
+				<key>WebKitPluginsEnabled</key>
+				<false/>
+				<key>WebKitPreferences.applePayCapabilityDisclosureAllowed</key>
+				<false/>
+				<key>WebKitPreferences.applePayEnabled</key>
+				<false/>
+				<key>WebKitPreferences.developerExtrasEnabled</key>
+				<true/>
+				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
+				<true/>
+				<key>WebKitPreferences.javaScriptCanOpenWindowsAutomatically</key>
+				<false/>
+				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
+				<false/>
+				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
 				<integer>1</integer>
+				<key>WebKitPreferences.usesPageCache</key>
+				<false/>
+				<key>WebKitPreferences.webSecurityEnabled</key>
+				<true/>
 				<key>WebKitStorageBlockingPolicy</key>
 				<integer>1</integer>
+				<key>WebKitUsesPageCachePreferenceKey</key>
+				<false/>
+				<key>WebKitWebSecurityEnabled</key>
+				<true/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>

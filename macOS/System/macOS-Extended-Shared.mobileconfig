@@ -77,7 +77,23 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Dock</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dock.1F618BE4-AE07-44B6-9DA8-405C8B69877C</string>
+				<key>PayloadType</key>
+				<string>com.apple.dock</string>
+				<key>PayloadUUID</key>
+				<string>1F618BE4-AE07-44B6-9DA8-405C8B69877C</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>show-recents</key>
+				<false/>
+			</dict>
+			<dict>
 				<key>AppleShowAllFiles</key>
+				<true/>
+				<key>EmptyTrashSecurely</key>
 				<true/>
 				<key>FXICloudDriveDesktop</key>
 				<false/>
@@ -117,14 +133,22 @@
 				<true/>
 				<key>ShowMountedServersOnDesktop</key>
 				<true/>
+				<key>ShowPathbar</key>
+				<true/>
 				<key>ShowRecentTags</key>
 				<false/>
 				<key>ShowRemovableMediaOnDesktop</key>
 				<true/>
+				<key>SidebarShowingiCloudDesktop</key>
+				<false/>
+				<key>SidebarShowingSignedIntoiCloud</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>Cloud Sync Enabled</key>
 				<false/>
+				<key>Cloud Sync User ID</key>
+				<string></string>
 				<key>PayloadDisplayName</key>
 				<string>Assistant Settings</string>
 				<key>PayloadIdentifier</key>
@@ -147,6 +171,20 @@
 				<string>com.apple.donotdisturbd</string>
 				<key>PayloadUUID</key>
 				<string>E189C2AC-F571-48DF-9954-2B8953453855</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>LocationServicesEnabled</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.locationd</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.locationd.7EF95A6E-3205-4E55-8C6D-EE965C8F91CE</string>
+				<key>PayloadType</key>
+				<string>com.apple.locationd</string>
+				<key>PayloadUUID</key>
+				<string>7EF95A6E-3205-4E55-8C6D-EE965C8F91CE</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -226,20 +264,62 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.SocialLayer</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SocialLayer.18ED033E-4D4D-44DE-AF0D-239EFD198660</string>
+				<key>PayloadType</key>
+				<string>com.apple.SocialLayer</string>
+				<key>PayloadUUID</key>
+				<string>18ED033E-4D4D-44DE-AF0D-239EFD198660</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SharedWithYouEnabled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>AllowAutoDownloadsForPurchasesFromOtherDevices</key>
+				<false/>
+				<key>BCSyncCloudKit</key>
+				<false/>
+				<key>BCSyncICloudDrive</key>
+				<false/>
+				<key>BCSyncSettingsDisabled</key>
+				<true/>
 				<key>BKAlreadyDisplayedGDPRWelcomeExperience</key>
 				<true/>
 				<key>BKAlreadyDisplayedUbiquity</key>
 				<true/>
 				<key>BKDisableBookStorePreferenceKey</key>
 				<true/>
+				<key>BKIncludeBookStoreResultsInSearch</key>
+				<false/>
+				<key>BCSyncPreferencesItunesSignedOut</key>
+				<true/>
 				<key>PayloadDisplayName</key>
-				<string>iBooks #1</string>
+				<string>iBooks</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.iBooksX.701DB39F-0C2A-4713-B296-A4189E7D6FA3</string>
 				<key>PayloadType</key>
 				<string>com.apple.iBooksX</string>
 				<key>PayloadUUID</key>
 				<string>701DB39F-0C2A-4713-B296-A4189E7D6FA3</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>TWSPAutomaticallyDetectLinks</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>BKAgentServiceUseriCloudSetting</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.BKAgentService</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.BKAgentService.B7E8A8D1-3694-4EF0-817B-EC432D4206A2</string>
+				<key>PayloadType</key>
+				<string>com.apple.BKAgentService</string>
+				<key>PayloadUUID</key>
+				<string>B7E8A8D1-3694-4EF0-817B-EC432D4206A2</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -274,10 +354,8 @@
 			<dict>
 				<key>FMFGarbageCollectorIdentityKey</key>
 				<string></string>
-				<key>"FMFLimitedPrecisionPrefKey.limitedPrecision"</key>
+				<key>FMFLimitedPrecisionPrefKey.limitedPrecision</key>
 				<true/>
-				<key>frontMostWindow</key>
-				<false/>
 				<key>PayloadDisplayName</key>
 				<string>FMF Core</string>
 				<key>PayloadIdentifier</key>
@@ -288,6 +366,8 @@
 				<string>ED0FE477-BC66-4E34-BD40-B406D7B0705D</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>frontMostWindow</key>
+				<false/>
 				<key>publicAPSToken</key>
 				<string></string>
 				<key>windowVisible</key>
@@ -296,10 +376,8 @@
 			<dict>
 				<key>FMIPGarbageCollectorIdentityKey</key>
 				<string></string>
-				<key>"FMIPLimitedPrecisionPrefKey.limitedPrecision"</key>
+				<key>FMIPLimitedPrecisionPrefKey.limitedPrecision</key>
 				<true/>
-				<key>frontMostWindow</key>
-				<false/>
 				<key>PayloadDisplayName</key>
 				<string>FMIP Core</string>
 				<key>PayloadIdentifier</key>
@@ -310,6 +388,8 @@
 				<string>01DFD62E-99AB-4D97-987D-33A33A8A1CEA</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>frontMostWindow</key>
+				<false/>
 				<key>publicAPSToken</key>
 				<string></string>
 				<key>windowVisible</key>

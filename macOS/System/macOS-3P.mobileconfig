@@ -95,10 +95,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 				<key>autoLaunch</key>
 				<false/>
 				<key>com.airserverapp.PasswordType</key>
@@ -169,14 +169,42 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 				<key>VisualUpdates</key>
 				<integer>1</integer>
 				<key>folderObserver</key>
 				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Finamp</string>
+				<key>PayloadIdentifier</key>
+				<string>com.unicornsonlsd.finamp-ios.EDEA46E4-B8D9-49CC-A459-136EC4BE274F</string>
+				<key>PayloadType</key>
+				<string>com.unicornsonlsd.finamp-ios</string>
+				<key>PayloadUUID</key>
+				<string>EDEA46E4-B8D9-49CC-A459-136EC4BE274F</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>com.apple.uikit.inputalternatives.onboardingPresented</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Element X</string>
+				<key>PayloadIdentifier</key>
+				<string>io.element.elementx.FE52FB13-9B26-48E3-806E-B42B1962303C</string>
+				<key>PayloadType</key>
+				<string>io.element.elementx</string>
+				<key>PayloadUUID</key>
+				<string>FE52FB13-9B26-48E3-806E-B42B1962303C</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>com.apple.uikit.inputalternatives.onboardingPresented</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>AcceptedENX7.2EULA</key>
@@ -349,10 +377,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>DevKitAllowTracking</key>
@@ -379,10 +407,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -904,6 +932,30 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>addWebFeedAccountID</key>
+				<string>OnMyMac</string>
+				<key>PayloadDisplayName</key>
+				<string>NetNewsWire</string>
+				<key>PayloadIdentifier</key>
+				<string>com.ranchero.NetNewsWire-Evergreen.5BD72944-C89A-4340-B043-A5760DCDD5BD</string>
+				<key>PayloadType</key>
+				<string>com.ranchero.NetNewsWire-Evergreen</string>
+				<key>PayloadUUID</key>
+				<string>5BD72944-C89A-4340-B043-A5760DCDD5BD</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SUAllowsAutomaticUpdates</key>
+				<true/>
+				<key>SUAutomaticallyUpdate</key>
+				<true/>
+				<key>SUEnableAutomaticChecks</key>
+				<true/>
+				<key>SUHasLaunchedBefore</key>
+				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
+			</dict>
+			<dict>
 				<key>PayloadIdentifier</key>
 				<string>de.fau.rrze.NetworkShareMounter.051B16B3-A098-405F-AF3A-7A1BCD941F4A</string>
 				<key>PayloadType</key>
@@ -1046,10 +1098,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -1068,12 +1120,14 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
+				<key>DriveDocsWebView</key>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Proton Drive</string>
 				<key>PayloadIdentifier</key>
@@ -1090,10 +1144,24 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>DriveDocsWebView</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>ch.protonmail.drive.fileprovider</string>
+				<key>PayloadIdentifier</key>
+				<string>ch.protonmail.drive.fileprovider.62C90F72-90FE-43D4-9917-3B556E8FCB45</string>
+				<key>PayloadType</key>
+				<string>ch.protonmail.drive.fileprovider</string>
+				<key>PayloadUUID</key>
+				<string>62C90F72-90FE-43D4-9917-3B556E8FCB45</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -1112,10 +1180,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -1277,10 +1345,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 				<key>StartOnLoginMenuItem</key>
 				<string>show</string>
 				<key>TailscaleOnboardingSeen</key>
@@ -1293,6 +1361,10 @@
 				<string>show</string>
 			</dict>
 			<dict>
+				<key>AdditionalAnalyticsEnabled</key>
+				<false/>
+				<key>AnalyticsEnabled</key>
+				<false/>
 				<key>OnboardingUserViewedWelcomeSlide</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -1323,10 +1395,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 				<key>userAgreedToNewTOSAndPrivacy</key>
 				<true/>
 			</dict>
@@ -1363,10 +1435,10 @@
 				<true/>
 				<key>SUEnableAutomaticChecks</key>
 				<true/>
-				<key>SUSendProfileInfo</key>
-				<false/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
+				<key>SUSendProfileInfo</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>AU2_EnableAutoUpdate</key>

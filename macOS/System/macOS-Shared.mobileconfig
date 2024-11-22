@@ -41,13 +41,27 @@
 				<false/>
 				<key>forceLimitAdTracking</key>
 				<true/>
-				<key>"partiality-segment"</key>
+				<key>partiality-segment</key>
 				<string></string>
 			</dict>
 			<dict>
-				<key>DisableSoftwareUpdateNotifications</key>
+				<key>AMSMetricsIdentifierZoneCreated</key>
 				<false/>
-				<key>InAppReviewEnabled</key>
+				<key>AMSMetricsIdentifierZoneSubscriptionCreated</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.amsengagementd</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.amsengagementd.F4F3ED72-838C-4FFD-9478-9BEF2BB5C734</string>
+				<key>PayloadType</key>
+				<string>com.apple.amsengagementd</string>
+				<key>PayloadUUID</key>
+				<string>F4F3ED72-838C-4FFD-9478-9BEF2BB5C734</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>DisableSoftwareUpdateNotifications</key>
 				<false/>
 				<key>PayloadDisplayName</key>
 				<string>App Store settings</string>
@@ -59,6 +73,10 @@
 				<string>7D73BF39-D732-4F57-AEB2-279A2B6B28AA</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ShowDebugMenu</key>
+				<true/>
+				<key>WebKitDeveloperExtras</key>
+				<true/>
 				<key>restrict-store-disable-app-adoption</key>
 				<false/>
 				<key>restrict-store-mdm-install-softwareupdate-only</key>
@@ -67,6 +85,24 @@
 				<true/>
 				<key>restrict-store-softwareupdate-only</key>
 				<false/>
+			</dict>
+			<dict>
+				<key>AutoPlayVideoSetting</key>
+				<string>off</string>
+				<key>InAppReviewEnabled</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.AppStore</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.AppStore.F18F5FC5-D106-465A-9F90-5889F2577369</string>
+				<key>PayloadType</key>
+				<string>com.apple.AppStore</string>
+				<key>PayloadUUID</key>
+				<string>F18F5FC5-D106-465A-9F90-5889F2577369</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>UserSetAutoPlayVideoSetting</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>BackgroundAssetDownloadsEnabled</key>
@@ -127,6 +163,22 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>ABShowDebugMenu</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Calendar</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.iCal.4B47FFE9-3AFD-464C-917D-61ED14903CF1</string>
+				<key>PayloadType</key>
+				<string>com.apple.iCal</string>
+				<key>PayloadUUID</key>
+				<string>4B47FFE9-3AFD-464C-917D-61ED14903CF1</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>WarnBeforeSendingInvitations</key>
+				<true/>
+			</dict>
+			<dict>
 				<key>PayloadDisplayName</key>
 				<string>ClassKit Settings</string>
 				<key>PayloadIdentifier</key>
@@ -141,6 +193,63 @@
 				<false/>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Classroom</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.classroom.E48CC213-FB8D-4FDB-9096-61A4646A962A</string>
+				<key>PayloadType</key>
+				<string>com.apple.classroom</string>
+				<key>PayloadUUID</key>
+				<string>E48CC213-FB8D-4FDB-9096-61A4646A962A</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>allowClassroomLockDevice-00000000-0000-0000-0000-000000000000:0</key>
+				<false/>
+				<key>allowClassroomLockDevice-00000000-0000-0000-0000-000000000000:0-ask</key>
+				<false/>
+				<key>allowClassroomOpenApp</key>
+				<false/>
+				<key>allowClassroomOpenApp-ask</key>
+				<false/>
+				<key>allowClassroomOpenApp-00000000-0000-0000-0000-000000000000:0</key>
+				<false/>
+				<key>allowClassroomOpenApp-00000000-0000-0000-0000-000000000000:0-ask</key>
+				<false/>
+				<key>allowClassroomOpenURL</key>
+				<false/>
+				<key>allowClassroomOpenURL-00000000-0000-0000-0000-000000000000:0</key>
+				<false/>
+				<key>allowClassroomOpenURL-00000000-0000-0000-0000-000000000000:0-ask</key>
+				<false/>
+				<key>allowClassroomOpenURL-ask</key>
+				<false/>
+				<key>allowClassroomScreenObservation-00000000-0000-0000-0000-000000000000:0</key>
+				<false/>
+				<key>allowClassroomScreenObservation-00000000-0000-0000-0000-000000000000:0-ask</key>
+				<false/>
+				<key>forceUnpromptedRemoteScreenObservation-00000000-0000-0000-0000-000000000000:0</key>
+				<false/>
+				<key>forceUnpromptedRemoteScreenObservation-00000000-0000-0000-0000-000000000000:0-ask</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>CKPerBootTasks</key>
+				<dict>
+					<key>Item 0</key>
+					<string></string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.CloudTelemetryService.xpc</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.CloudTelemetryService.xpc.2D79455C-9C4F-4527-9F9B-7E971E899813</string>
+				<key>PayloadType</key>
+				<string>com.apple.CloudTelemetryService.xpc</string>
+				<key>PayloadUUID</key>
+				<string>2D79455C-9C4F-4527-9F9B-7E971E899813</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>DialogType</key>
 				<string>none</string>
 				<key>PayloadDisplayName</key>
@@ -153,6 +262,38 @@
 				<string>EEC708A6-33F3-4B18-ADB9-29472ABEAE24</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>analyticsPermissionHasBeenRequested</key>
+				<true/>
+				<key>analyticsPermissionWasGranted</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>Apple Developer</string>
+				<key>PayloadIdentifier</key>
+				<string>developer.apple.wwdc-Release.9A5EF914-9854-47F5-8532-A8DA45CC4BC7</string>
+				<key>PayloadType</key>
+				<string>developer.apple.wwdc-Release</string>
+				<key>PayloadUUID</key>
+				<string>9A5EF914-9854-47F5-8532-A8DA45CC4BC7</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>advanced-image-options</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Disk Utility</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.DiskUtility.5FF00D6A-A25F-4DD7-9977-3A38948994CF</string>
+				<key>PayloadType</key>
+				<string>com.apple.DiskUtility</string>
+				<key>PayloadUUID</key>
+				<string>5FF00D6A-A25F-4DD7-9977-3A38948994CF</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SidebarShowAllDevices</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>AllowManagedFileProvidersToRequestAttribution</key>
@@ -283,20 +424,30 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>"audio_feature_flag_enabled"</key>
-				<true/>
-				<key>"com.apple.news.default_event_endpoint"</key>
-				<string></string>
-				<key>"com.apple.news.notification_receipt_event_endpoint"</key>
-				<string></string>
-				<key>"force_refresh_user_segmentation"</key>
-				<true/>
-				<key>"offline_mode_feature_flag_enabled"</key>
-				<true/>
-				<key>"puzzles_feature_flag_enabled"</key>
-				<true/>
 				<key>PayloadDisplayName</key>
 				<string>News</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.news.940BC51C-E769-4152-AD74-953737370CA3</string>
+				<key>PayloadType</key>
+				<string>com.apple.news</string>
+				<key>PayloadUUID</key>
+				<string>940BC51C-E769-4152-AD74-953737370CA3</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>audio_feature_flag_enabled</key>
+				<true/>
+				<key>hasLaunchedBefore</key>
+				<true/>
+				<key>news.startup.delete_web_browsing_data</key>
+				<true/>
+				<key>offline_mode_feature_flag_enabled</key>
+				<true/>
+				<key>puzzles_feature_flag_enabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>NewsCore</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.newscore.62F94059-AF79-4749-A042-326A9C796454</string>
 				<key>PayloadType</key>
@@ -305,12 +456,22 @@
 				<string>62F94059-AF79-4749-A042-326A9C796454</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>audio_feature_flag_enabled</key>
+				<true/>
+				<key>com.apple.news.default_event_endpoint</key>
+				<string></string>
+				<key>com.apple.news.notification_receipt_event_endpoint</key>
+				<string></string>
+				<key>force_refresh_user_segmentation</key>
+				<true/>
+				<key>offline_mode_feature_flag_enabled</key>
+				<true/>
+				<key>puzzles_feature_flag_enabled</key>
+				<true/>
 			</dict>
 			<dict>
-				<key>"temporary-user-id-adsUserID"</key>
-				<string></string>
 				<key>PayloadDisplayName</key>
-				<string>News2</string>
+				<string>NewsCore2</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.newscore2.C4E14ED6-001C-45CC-A4BC-56C635B7974F</string>
 				<key>PayloadType</key>
@@ -319,6 +480,22 @@
 				<string>C4E14ED6-001C-45CC-A4BC-56C635B7974F</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>temporary-user-id-adsUserID</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Stocks</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.stocks2.198C7222-694B-4716-A0CF-A4BF285C0A0A</string>
+				<key>PayloadType</key>
+				<string>com.apple.stocks2</string>
+				<key>PayloadUUID</key>
+				<string>198C7222-694B-4716-A0CF-A4BF285C0A0A</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ad_user_id</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>GKAutoRearm</key>
@@ -391,8 +568,22 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>DevMode</key>
+				<true/>
 				<key>PayloadDisplayName</key>
-				<string>Keynote #1</string>
+				<string>Help Viewer</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.helpviewer.9A39F26C-76EE-4407-AA2D-68F53720EC86</string>
+				<key>PayloadType</key>
+				<string>com.apple.helpviewer</string>
+				<key>PayloadUUID</key>
+				<string>9A39F26C-76EE-4407-AA2D-68F53720EC86</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Keynote</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.iWork.Keynote.E2EC7099-B9B3-47DA-B4E5-43E08B2396E1</string>
 				<key>PayloadType</key>
@@ -401,14 +592,21 @@
 				<string>E2EC7099-B9B3-47DA-B4E5-43E08B2396E1</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ResetAnalyticsData</key>
+				<true/>
 				<key>TMAFirstLaunchVersion</key>
 				<integer>99999</integer>
+				<key>TSURemoteDefaults</key>
+				<dict>
+					<key>CollaborationActivityStreamDisabled</key>
+					<true/>
+				</dict>
 			</dict>
 			<dict>
 				<key>FeatureAvailable_ExpertEditing</key>
 				<true/>
 				<key>PayloadDisplayName</key>
-				<string>Logic Pro X #1</string>
+				<string>Logic Pro X</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.logic10.171AE3CC-1D2C-4CE9-A438-CC9D28FB7726</string>
 				<key>PayloadType</key>
@@ -423,6 +621,30 @@
 				<integer>6</integer>
 				<key>userLevel</key>
 				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>AddLinkPreviews</key>
+				<false/>
+				<key>AddressesIncludeNameOnPasteboard</key>
+				<false/>
+				<key>ExpandPrivateAliases</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Mail</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.mail.C513D79A-2C71-4848-ABCC-924A908C4D9A</string>
+				<key>PayloadType</key>
+				<string>com.apple.mail</string>
+				<key>PayloadUUID</key>
+				<string>C513D79A-2C71-4848-ABCC-924A908C4D9A</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SuppressDeliveryFailure</key>
+				<false/>
+				<key>WebAutomaticSpellingCorrectionEnabled</key>
+				<false/>
+				<key>WebContinuousSpellCheckingEnabled</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>HikingWelcomeScreenDisplayed</key>
@@ -457,8 +679,6 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
-				<key>"home-sharing-enabled"</key>
-				<false/>
 				<key>PayloadDisplayName</key>
 				<string>mediasharingd</string>
 				<key>PayloadIdentifier</key>
@@ -469,40 +689,130 @@
 				<string>741C10EE-FD14-492A-A9F8-B0FBDE819A26</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>"photo-sharing-enabled"</key>
+				<key>home-sharing-enabled</key>
 				<false/>
-				<key>"public-sharing-enabled"</key>
+				<key>photo-sharing-enabled</key>
 				<false/>
-				<key>"public-sharing-is-protected"</key>
+				<key>public-sharing-enabled</key>
+				<false/>
+				<key>public-sharing-is-protected</key>
 				<true/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
-				<string>Numbers #1</string>
+				<string>Notes</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.iWork.Numbers.22A03A4E-8E11-48A0-B971-9CC034C54216</string>
+				<string>com.apple.Notes.08CA4884-4834-4A5A-B6D9-B55F1CF7171E</string>
 				<key>PayloadType</key>
-				<string>com.apple.iWork.Numbers</string>
+				<string>com.apple.Notes</string>
 				<key>PayloadUUID</key>
-				<string>22A03A4E-8E11-48A0-B971-9CC034C54216</string>
+				<string>08CA4884-4834-4A5A-B6D9-B55F1CF7171E</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>TMAFirstLaunchVersion</key>
-				<integer>99999</integer>
+				<key>hasShownWelcomeScreen</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
-				<string>Pages #1</string>
+				<string>Numbers</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.iWork.Pages.D58CEAD8-2544-4AE7-AB5B-E4BB19FF7E4F</string>
+				<string>com.apple.iWork.Numbers.236AE86E-226C-455A-B3B7-9D9D699B33B4</string>
+				<key>PayloadType</key>
+				<string>com.apple.iWork.Numbers</string>
+				<key>PayloadUUID</key>
+				<string>236AE86E-226C-455A-B3B7-9D9D699B33B4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ResetAnalyticsData</key>
+				<true/>
+				<key>TMAFirstLaunchVersion</key>
+				<integer>99999</integer>
+				<key>TSURemoteDefaults</key>
+				<dict>
+					<key>CollaborationActivityStreamDisabled</key>
+					<true/>
+				</dict>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Pages</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.iWork.Pages.EB4B0128-C2B5-40EA-B12B-056F97A5A0BB</string>
 				<key>PayloadType</key>
 				<string>com.apple.iWork.Pages</string>
 				<key>PayloadUUID</key>
-				<string>D58CEAD8-2544-4AE7-AB5B-E4BB19FF7E4F</string>
+				<string>EB4B0128-C2B5-40EA-B12B-056F97A5A0BB</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ResetAnalyticsData</key>
+				<true/>
 				<key>TMAFirstLaunchVersion</key>
 				<integer>99999</integer>
+				<key>TSURemoteDefaults</key>
+				<dict>
+					<key>CollaborationActivityStreamDisabled</key>
+					<true/>
+				</dict>
+			</dict>
+			<dict>
+				<key>IPXDefaultAutoplayVideos</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>Photos</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.Photos.495985F9-3F9C-4E2F-A8A3-6E9E547DB544</string>
+				<key>PayloadType</key>
+				<string>com.apple.Photos</string>
+				<key>PayloadUUID</key>
+				<string>495985F9-3F9C-4E2F-A8A3-6E9E547DB544</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.photoanalysisd</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.photoanalysisd.CF80FD36-C792-403D-B1D0-C3419E652152</string>
+				<key>PayloadType</key>
+				<string>com.apple.photoanalysisd</string>
+				<key>PayloadUUID</key>
+				<string>CF80FD36-C792-403D-B1D0-C3419E652152</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PHAWallpaperSuggestionGenerationWeeklyTaskLibraryIsProcessedEnoughForAmbient</key>
+				<true/>
+				<key>PHAWallpaperSuggestionGenerationWeeklyTaskLibraryIsProcessedEnough</key>
+				<true/>
+				<key>notificationDisabled</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>IMMetricsDeviceToken</key>
+				<string></string>
+				<key>PayloadDisplayName</key>
+				<string>Podcasts</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.podcasts.81A2FB24-A7C8-4A92-BCA8-547CBAD4EC9B</string>
+				<key>PayloadType</key>
+				<string>com.apple.podcasts</string>
+				<key>PayloadUUID</key>
+				<string>81A2FB24-A7C8-4A92-BCA8-547CBAD4EC9B</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Reminders</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.reminders.AB3F0FE6-7B80-4D39-A43C-D6BAE0BC12D0</string>
+				<key>PayloadType</key>
+				<string>com.apple.reminders</string>
+				<key>PayloadUUID</key>
+				<string>AB3F0FE6-7B80-4D39-A43C-D6BAE0BC12D0</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>RemindersDebugMenu</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>AddExtensionToNewPlainTextFiles</key>
@@ -533,6 +843,22 @@
 				<integer>1</integer>
 				<key>userMaxConcurrentDownloads</key>
 				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Weather</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.weather.E41F2D91-5E79-4A01-8211-A34F46F8E173</string>
+				<key>PayloadType</key>
+				<string>com.apple.weather</string>
+				<key>PayloadUUID</key>
+				<string>E41F2D91-5E79-4A01-8211-A34F46F8E173</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>modules.main.sidebarVisible</key>
+				<true/>
+				<key>weather.reportWeather.tip_dismissed_in_session</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>LKWelcomeDisplayedForAppVersion</key>
@@ -605,12 +931,36 @@
 				<string>time.grapheneos.org</string>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Virtual Memory</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.virtualMemory.3A30A4B8-D2F0-4588-B9A5-F9FE6F0D0BCA</string>
+				<key>PayloadType</key>
+				<string>com.apple.virtualMemory</string>
+				<key>PayloadUUID</key>
+				<string>3A30A4B8-D2F0-4588-B9A5-F9FE6F0D0BCA</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>UseEncryptedSwap</key>
+				<true/>
+			</dict>
+			<dict>
 				<key>AppleShowAllExtensions</key>
 				<true/>
 				<key>MultipleSessionEnabled</key>
 				<true/>
 				<key>NSDocumentSaveNewDocumentsToCloud</key>
 				<false/>
+				<key>NSPreferredWebServices</key>
+				<dict>
+					<key>NSWebServicesProviderWebSearch</key>
+					<dict>
+						<key>NSDefaultDisplayName</key>
+						<string>DuckDuckGo</string>
+						<key>NSProviderIdentifier</key>
+						<string>com.duckduckgo</string>
+					</dict>
+				</dict>
 				<key>NSShowFeedbackMenu</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -621,6 +971,22 @@
 				<string>.GlobalPreferences</string>
 				<key>PayloadUUID</key>
 				<string>15CF739C-BF1D-48B9-9D88-C1404A75D032</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>WebAutomaticSpellingCorrectionEnabled</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>LSQuarantine</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Launch Services</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.LaunchServices.C6DFE91E-33A1-42B3-B1E7-426BF04C03BE</string>
+				<key>PayloadType</key>
+				<string>com.apple.LaunchServices</string>
+				<key>PayloadUUID</key>
+				<string>C6DFE91E-33A1-42B3-B1E7-426BF04C03BE</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -653,6 +1019,8 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>hasCompletedAutoFillStrongPasswordIntroduction</key>
+				<true/>
 				<key>hasShownSafariAutoFillAppIntroductionView</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -827,7 +1195,7 @@
 				<key>EnableXProtectMalwareUpload</key>
 				<false/>
 				<key>PayloadDisplayName</key>
-				<string>System Policy Control #1</string>
+				<string>System Policy Control</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.systempolicy.control.D72E90A1-474E-427E-86CC-9A7966809F15</string>
 				<key>PayloadType</key>
@@ -942,6 +1310,8 @@
 				<integer>1</integer>
 				<key>RetriesUntilHint</key>
 				<integer>0</integer>
+				<key>autoLoginUser</key>
+				<false/>
 				<key>com.apple.login.mcx.DisableAutoLoginClient</key>
 				<true/>
 			</dict>
@@ -958,6 +1328,20 @@
 				<integer>1</integer>
 				<key>SecureKeyboardEntry</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>DVTTextShowLineNumbers</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Xcode</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dt.Xcode.9E82C00C-D07C-40C3-9084-E1067B702633</string>
+				<key>PayloadType</key>
+				<string>com.apple.dt.Xcode</string>
+				<key>PayloadUUID</key>
+				<string>9E82C00C-D07C-40C3-9084-E1067B702633</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -995,7 +1379,7 @@
 				<key>PayloadIdentifier</key>
 				<string>com.apple.desktopservices.D5355534-B2BA-4638-A2A8-C9DAD3FC72B3</string>
 				<key>PayloadType</key>
-				<string>com.apple.ManagedClient.preferences</string>
+				<string>com.apple.desktopservices</string>
 				<key>PayloadUUID</key>
 				<string>D5355534-B2BA-4638-A2A8-C9DAD3FC72B3</string>
 				<key>PayloadVersion</key>

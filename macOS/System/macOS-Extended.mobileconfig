@@ -313,6 +313,8 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>Allow Explicit Content</key>
+				<true/>
 				<key>Assistant Enabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -331,6 +333,8 @@
 				<integer>2</integer>
 			</dict>
 			<dict>
+				<key>LockscreenEnabled</key>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Siri</string>
 				<key>PayloadIdentifier</key>
@@ -352,7 +356,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
+		<string>(21November2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended)</string>
 		<key>PayloadIdentifier</key>
