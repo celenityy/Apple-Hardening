@@ -103,10 +103,14 @@
 				<false/>
 				<key>FXICloudLoggedIn</key>
 				<false/>
+				<key>FXDefaultSearchScope</key>
+				<string>SCcf</string>
 				<key>FXPreferredViewStyle</key>
 				<string>icnv</string>
 				<key>FXRemoveOldTrashItems</key>
 				<true/>
+				<key>InterfaceLevel</key>
+				<string>Full</string>
 				<key>NewWindowTarget</key>
 				<string>PfHm</string>
 				<key>PayloadDisplayName</key>
@@ -127,6 +131,10 @@
 				<false/>
 				<key>ProhibitGoToFolder</key>
 				<false/>
+				<key>QLEnableTextSelection</key>
+				<true/>
+				<key>QuitMenuItem</key>
+				<true/>
 				<key>ShowExternalHardDrivesOnDesktop</key>
 				<true/>
 				<key>ShowHardDrivesOnDesktop</key>
@@ -142,7 +150,7 @@
 				<key>SidebarShowingiCloudDesktop</key>
 				<false/>
 				<key>SidebarShowingSignedIntoiCloud</key>
-				<false/>
+				<true/>
 			</dict>
 			<dict>
 				<key>Cloud Sync Enabled</key>
@@ -221,6 +229,8 @@
 				<true/>
 				<key>DidSeeiCloudLoginForStorageServices</key>
 				<true/>
+				<key>GestureMovieSeen</key>
+				<string>none</string>
 				<key>PayloadDisplayName</key>
 				<string>Setup Assistant</string>
 				<key>PayloadIdentifier</key>
@@ -554,7 +564,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(27November2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Shared</string>
 		<key>PayloadIdentifier</key>

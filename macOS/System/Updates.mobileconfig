@@ -29,6 +29,8 @@
 				<string>DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ScheduleFrequency</key>
+				<integer>1</integer>
 				<key>SUDisableEVCheck</key>
 				<false/>
 				<key>forceDelayedSoftwareUpdates</key>
@@ -38,6 +40,8 @@
 			</dict>
 			<dict>
 				<key>AutoUpdate</key>
+				<true/>
+				<key>AutoUpdateRestartRequired</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>com.apple.commerce</string>
@@ -50,27 +54,9 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Parental Controls: Application Restrictions #1</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.applicationaccess.new.558604A8-737D-48C7-94F9-0B1DFC602A91</string>
-				<key>PayloadType</key>
-				<string>com.apple.applicationaccess.new</string>
-				<key>PayloadUUID</key>
-				<string>558604A8-737D-48C7-94F9-0B1DFC602A91</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>familyControlsEnabled</key>
-				<true/>
-				<key>pathBlackList</key>
-				<array>
-					<string>/usr/libexec/betaenrollmentd</string>
-				</array>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) Hardened Software Update settings for macOS.</string>
+		<string>(25November2024v1) Hardened Software Update settings for macOS.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates</string>
 		<key>PayloadIdentifier</key>

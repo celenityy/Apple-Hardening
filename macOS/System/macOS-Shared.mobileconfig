@@ -7,6 +7,8 @@
 			<dict>
 				<key>AdPlatformsPAAvailable</key>
 				<false/>
+				<key>ClientVisibility_com.apple.news</key>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Ad Platform</string>
 				<key>PayloadIdentifier</key>
@@ -43,6 +45,20 @@
 				<true/>
 				<key>partiality-segment</key>
 				<string></string>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Activity Monitor</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.ActivityMonitor.ACED0244-008C-4BD1-A6DF-AB1DA464B1CF</string>
+				<key>PayloadType</key>
+				<string>com.apple.ActivityMonitor</string>
+				<key>PayloadUUID</key>
+				<string>ACED0244-008C-4BD1-A6DF-AB1DA464B1CF</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ShowCategory</key>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>AMSMetricsIdentifierZoneCreated</key>
@@ -165,6 +181,8 @@
 			<dict>
 				<key>ABShowDebugMenu</key>
 				<true/>
+				<key>LogHTTPActivity</key>
+				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Calendar</string>
 				<key>PayloadIdentifier</key>
@@ -264,6 +282,20 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>ABShowDebugMenu</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Contacts</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.addressbook.730F3A93-7EB2-45BB-A9DA-1AEB0B3D65B0</string>
+				<key>PayloadType</key>
+				<string>com.apple.addressbook</string>
+				<key>PayloadUUID</key>
+				<string>730F3A93-7EB2-45BB-A9DA-1AEB0B3D65B0</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>analyticsPermissionHasBeenRequested</key>
 				<true/>
 				<key>analyticsPermissionWasGranted</key>
@@ -280,7 +312,9 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>advanced-image-options</key>
+				<key>DUDebugMenuEnabled</key>
+				<true/>
+				<key>DUShowEveryPartition</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Disk Utility</string>
@@ -294,6 +328,22 @@
 				<integer>1</integer>
 				<key>SidebarShowAllDevices</key>
 				<true/>
+				<key>advanced-image-options</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Autogather</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>Feedback Assistant</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.appleseed.FeedbackAssistant.5341C9FF-23DC-42D3-A043-EE8F241C5616</string>
+				<key>PayloadType</key>
+				<string>com.apple.appleseed.FeedbackAssistant</string>
+				<key>PayloadUUID</key>
+				<string>5341C9FF-23DC-42D3-A043-EE8F241C5616</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>AllowManagedFileProvidersToRequestAttribution</key>
@@ -310,8 +360,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>guestAccess</key>
-				<false/>
 				<key>PayloadDisplayName</key>
 				<string>File Server</string>
 				<key>PayloadIdentifier</key>
@@ -322,6 +370,8 @@
 				<string>96CA061C-53A4-4ADA-8E7D-12C2265E0F6A</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>guestAccess</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>AllowGuestAccess</key>
@@ -334,6 +384,20 @@
 				<string>com.apple.smb.server</string>
 				<key>PayloadUUID</key>
 				<string>52A19F17-621E-4C1B-B297-A9E0F281A534</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BrowseAllInterfaces</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.NetworkBrowser</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.NetworkBrowser.5B45956A-C604-42BB-A8B7-B45A1CA7D2CF</string>
+				<key>PayloadType</key>
+				<string>com.apple.NetworkBrowser</string>
+				<key>PayloadUUID</key>
+				<string>5B45956A-C604-42BB-A8B7-B45A1CA7D2CF</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -394,6 +458,22 @@
 				<integer>1</integer>
 				<key>ShowSystemServices</key>
 				<true/>
+			</dict>
+			<dict>
+				<key>MXClientsAvailable</key>
+				<false/>
+				<key>MXClientTeamID</key>
+				<dict></dict>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.metrickitd</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.metrickitd.DF3ED421-4B96-4C59-9DC1-080FD2546A8D</string>
+				<key>PayloadType</key>
+				<string>com.apple.metrickitd</string>
+				<key>PayloadUUID</key>
+				<string>DF3ED421-4B96-4C59-9DC1-080FD2546A8D</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>ech_probe_enabled</key>
@@ -947,6 +1027,10 @@
 			<dict>
 				<key>AppleShowAllExtensions</key>
 				<true/>
+				<key>InitialKeyRepeat</key>
+				<integer>10</integer>
+				<key>KeyRepeat</key>
+				<integer>1</integer>
 				<key>MultipleSessionEnabled</key>
 				<true/>
 				<key>NSDocumentSaveNewDocumentsToCloud</key>
@@ -975,6 +1059,8 @@
 				<integer>1</integer>
 				<key>WebAutomaticSpellingCorrectionEnabled</key>
 				<false/>
+				<key>com.apple.sound.beep.feedback</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>LSQuarantine</key>
@@ -1001,6 +1087,22 @@
 				<string>com.apple.onetimepasscodes</string>
 				<key>PayloadUUID</key>
 				<string>ED377F2C-1C39-4AD5-BC7E-165815C54D5A</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>DeleteVerificationCodes</key>
+				<true/>
+				<key>MMSShowSubject</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Messages</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.MobileSMS.7E5BBED8-EE13-4015-B9EA-39339504BB24</string>
+				<key>PayloadType</key>
+				<string>com.apple.MobileSMS</string>
+				<key>PayloadUUID</key>
+				<string>7E5BBED8-EE13-4015-B9EA-39339504BB24</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -1089,6 +1191,20 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>DisableLibraryValidation</key>
+				<false/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.security.libraryvalidation</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.security.libraryvalidation.6575F5E3-E952-4038-996D-90272F24813D</string>
+				<key>PayloadType</key>
+				<string>com.apple.security.libraryvalidation</string>
+				<key>PayloadUUID</key>
+				<string>6575F5E3-E952-4038-996D-90272F24813D</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
 				<key>PayloadDisplayName</key>
 				<string>Screensaver</string>
 				<key>PayloadIdentifier</key>
@@ -1102,7 +1218,7 @@
 				<key>askForPassword</key>
 				<true/>
 				<key>askForPasswordDelay</key>
-				<integer>5</integer>
+				<integer>15</integer>
 			</dict>
 			<dict>
 				<key>DeviceIdentifier</key>
@@ -1117,6 +1233,65 @@
 				<string>A27F7C41-30DA-4175-8CB4-571795FC2D6B</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>SystemUI Server</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.systemuiserver.A56129B9-1DAD-4F85-A08D-A9A728BDA3B4</string>
+				<key>PayloadType</key>
+				<string>com.apple.systemuiserver</string>
+				<key>PayloadUUID</key>
+				<string>A56129B9-1DAD-4F85-A08D-A9A728BDA3B4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>mount-controls</key>
+				<dict>
+					<key>bd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>blankbd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>blankcd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>blankdvd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>cd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>disk-image</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>dvd</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>dvdram</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>harddisk-external</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>harddisk-internal</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+					<key>networkdisk</key>
+					<array>
+						<string>authenticate</string>
+					</array>
+				</dict>
 			</dict>
 			<dict>
 				<key>Activated</key>
@@ -1190,6 +1365,8 @@
 				</dict>
 			</dict>
 			<dict>
+				<key>AllowIdentifiedDevelopers</key>
+				<false/>
 				<key>EnableAssessment</key>
 				<true/>
 				<key>EnableXProtectMalwareUpload</key>
@@ -1288,6 +1465,8 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>DisableConsoleAccess</key>
+				<true/>
 				<key>EnableExternalAccounts</key>
 				<false/>
 				<key>GuestEnabled</key>
@@ -1330,7 +1509,41 @@
 				<true/>
 			</dict>
 			<dict>
+				<key>EnableBuildDebugging</key>
+				<true/>
+				<key>EnableDebugActivityLogs</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>XCBuild</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dt.XCBuild.CFC62987-B4C6-4C16-8AAE-6AF13418EE0D</string>
+				<key>PayloadType</key>
+				<string>com.apple.dt.XCBuild</string>
+				<key>PayloadUUID</key>
+				<string>CFC62987-B4C6-4C16-8AAE-6AF13418EE0D</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>DVTDownloadableAutomaticUpdate</key>
+				<true/>
+				<key>DVTTextPageGuideLocation</key>
+				<integer>10</integer>
+				<key>DVTTextShowPageGuide</key>
+				<true/>
 				<key>DVTTextShowLineNumbers</key>
+				<true/>
+				<key>EnableBuildSystemLogging</key>
+				<true/>
+				<key>ExplainWhyBuildCommandsAreRun</key>
+				<true/>
+				<key>IDEDisableStateRestoration</key>
+				<true/>
+				<key>IDEEnableLiveIssues</key>
+				<true/>
+				<key>IDEFileExtensionDisplayMode</key>
+				<integer>1</integer>
+				<key>IDEIndexerActivityShowNumericProgress</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Xcode</string>
@@ -1342,6 +1555,12 @@
 				<string>9E82C00C-D07C-40C3-9084-E1067B702633</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ShowBuildOperationDuration</key>
+				<true/>
+				<key>ShowDVTDebugMenu</key>
+				<true/>
+				<key>XcodeCloudUpsellPromptEnabled</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -1373,6 +1592,8 @@
 			</dict>
 			<dict>
 				<key>DSDontWriteNetworkStores</key>
+				<true/>
+				<key>DSDontWriteUSBStores</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Desktop Services</string>
@@ -1415,7 +1636,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
+		<string>(27November2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Shared</string>
 		<key>PayloadIdentifier</key>

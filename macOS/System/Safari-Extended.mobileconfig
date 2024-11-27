@@ -108,6 +108,8 @@
 				<true/>
 				<key>ShowHighlightsInFavorites</key>
 				<false/>
+				<key>ShowOverlayStatusBar</key>
+				<true/>
 				<key>SkipLoadingEnabledAppExtensionsAtLaunch</key>
 				<false/>
 				<key>SkipLoadingEnabledContentBlockersAtLaunch</key>
@@ -235,7 +237,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Hardened Safari configuration for macOS.</string>
+		<string>(25November2024v1) Hardened Safari configuration for macOS.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Safari</string>
 		<key>PayloadIdentifier</key>

@@ -263,10 +263,14 @@
 				<true/>
 				<key>EmptyTrashSecurely</key>
 				<true/>
+				<key>FXDefaultSearchScope</key>
+				<string>SCcf</string>
 				<key>FXPreferredViewStyle</key>
 				<string>icnv</string>
 				<key>FXRemoveOldTrashItems</key>
 				<true/>
+				<key>InterfaceLevel</key>
+				<string>Full</string>
 				<key>NewWindowTarget</key>
 				<string>PfHm</string>
 				<key>PayloadDisplayName</key>
@@ -287,11 +291,17 @@
 				<false/>
 				<key>ProhibitGoToFolder</key>
 				<false/>
+				<key>QLEnableTextSelection</key>
+				<true/>
+				<key>QuitMenuItem</key>
+				<true/>
 				<key>ShowExternalHardDrivesOnDesktop</key>
 				<true/>
 				<key>ShowHardDrivesOnDesktop</key>
 				<true/>
 				<key>ShowMountedServersOnDesktop</key>
+				<true/>
+				<key>ShowPathbar</key>
 				<true/>
 				<key>ShowRecentTags</key>
 				<false/>
@@ -479,7 +489,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(25November2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Base)</string>
 		<key>PayloadIdentifier</key>

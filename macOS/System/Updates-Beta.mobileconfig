@@ -27,6 +27,8 @@
 				<string>E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ScheduleFrequency</key>
+				<integer>1</integer>
 				<key>SUDisableEVCheck</key>
 				<false/>
 				<key>forceDelayedSoftwareUpdates</key>
@@ -36,6 +38,8 @@
 			</dict>
 			<dict>
 				<key>AutoUpdate</key>
+				<true/>
+				<key>AutoUpdateRestartRequired</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>com.apple.commerce</string>
@@ -50,7 +54,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+		<string>(25November2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates (Beta)</string>
 		<key>PayloadIdentifier</key>
