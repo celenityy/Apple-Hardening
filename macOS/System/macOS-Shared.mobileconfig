@@ -1344,23 +1344,6 @@
 				<true/>
 			</dict>
 			<dict>
-				<key>PayloadDisplayName</key>
-				<string>System Logging</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.system.logging.0526F621-7ECE-4375-809A-388DAA12412D</string>
-				<key>PayloadType</key>
-				<string>com.apple.system.logging</string>
-				<key>PayloadUUID</key>
-				<string>0526F621-7ECE-4375-809A-388DAA12412D</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>System</key>
-				<dict>
-					<key>Enable-Private-Data</key>
-					<false/>
-				</dict>
-			</dict>
-			<dict>
 				<key>AllowIdentifiedDevelopers</key>
 				<false/>
 				<key>EnableAssessment</key>
