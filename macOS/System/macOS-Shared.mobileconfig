@@ -1598,7 +1598,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(27November2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
+		<string>(01December024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Shared</string>
 		<key>PayloadIdentifier</key>
