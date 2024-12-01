@@ -1448,23 +1448,6 @@
 				<integer>3</integer>
 			</dict>
 			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Identification</string>
-				<key>PayloadIdentification</key>
-				<dict>
-					<key>AuthMethod</key>
-					<string>UserEnteredPassword</string>
-				</dict>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.configurationprofile.identification.DCEBA954-5A49-472C-9DD1-FF7C080589E6</string>
-				<key>PayloadType</key>
-				<string>com.apple.configurationprofile.identification</string>
-				<key>PayloadUUID</key>
-				<string>DCEBA954-5A49-472C-9DD1-FF7C080589E6</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
 				<key>DisableConsoleAccess</key>
 				<true/>
 				<key>EnableExternalAccounts</key>
