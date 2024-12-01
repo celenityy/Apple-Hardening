@@ -1298,10 +1298,6 @@
 				<false/>
 				<key>AllowCacheDelete</key>
 				<true/>
-				<key>AllowPersonalCaching</key>
-				<false/>
-				<key>AllowSharedCaching</key>
-				<false/>
 				<key>AllowWirelessPortable</key>
 				<false/>
 				<key>AutoActivation</key>
