@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Passcode</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.mobiledevice.passwordpolicy.1BF2A787-3C0A-48BA-BE81-86B502A55612</string>
+				<key>PayloadType</key>
+				<string>com.apple.mobiledevice.passwordpolicy</string>
+				<key>PayloadUUID</key>
+				<string>1BF2A787-3C0A-48BA-BE81-86B502A55612</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>forcePIN</key>
+				<true/>
+				<key>maxFailedAttempts</key>
+				<integer>5</integer>
+				<key>maxGracePeriod</key>
+				<integer>0</integer>
+				<key>maxInactivity</key>
+				<integer>1</integer>
+				<key>minLength</key>
+				<integer>15</integer>
+				<key>minutesUntilFailedLoginReset</key>
+				<integer>15</integer>
+				<key>requireAlphanumeric</key>
+				<true/>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>(12November2024v1) Supplements your iOS Extended Hardening config.</string>
+		<key>PayloadDisplayName</key>
+		<string>iOS Hardening (Extended) - Shared</string>
+		<key>PayloadIdentifier</key>
+		<string>dev.celenity.ios.extended.shared.user</string>
+		<key>PayloadOrganization</key>
+		<string>celenity 💘</string>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>51884B2A-856A-4E85-8509-5DB0499FB0EB</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>1</integer>
+	</dict>
+</plist>

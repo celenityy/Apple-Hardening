@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AllowPreReleaseInstallation</key>
+				<false/>
+				<key>AutomaticCheckEnabled</key>
+				<true/>
+				<key>AutomaticDownload</key>
+				<true/>
+				<key>AutomaticallyInstallAppUpdates</key>
+				<true/>
+				<key>AutomaticallyInstallMacOSUpdates</key>
+				<true/>
+				<key>ConfigDataInstall</key>
+				<true/>
+				<key>CriticalUpdateInstall</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Software Update</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SoftwareUpdate.5D11C280-4BD5-4B0F-AFA5-EF492A8C4348</string>
+				<key>PayloadType</key>
+				<string>com.apple.SoftwareUpdate</string>
+				<key>PayloadUUID</key>
+				<string>5D11C280-4BD5-4B0F-AFA5-EF492A8C4348</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ScheduleFrequency</key>
+				<integer>1</integer>
+				<key>SUDisableEVCheck</key>
+				<false/>
+				<key>forceDelayedSoftwareUpdates</key>
+				<false/>
+				<key>restrict-software-update-require-admin-to-install</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>AutoUpdate</key>
+				<true/>
+				<key>AutoUpdateRestartRequired</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.commerce.F60F1D99-3ED7-488E-9201-CEEBE82892D1</string>
+				<key>PayloadType</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadUUID</key>
+				<string>F60F1D99-3ED7-488E-9201-CEEBE82892D1</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>(25November2024v1) Hardened Software Update settings for macOS.</string>
+		<key>PayloadDisplayName</key>
+		<string>macOS Hardening - Updates</string>
+		<key>PayloadIdentifier</key>
+		<string>dev.celenity.osx.updates.user</string>
+		<key>PayloadOrganization</key>
+		<string>celenity 💘</string>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>67A389FF-CF4D-4250-98D1-65D63F342140</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>5</integer>
+	</dict>
+</plist>
