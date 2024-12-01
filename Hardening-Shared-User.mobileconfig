@@ -5,22 +5,6 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
-				<key>DisabledForCerts</key>
-				<array/>
-				<key>DisabledForDomains</key>
-				<array/>
-				<key>PayloadDisplayName</key>
-				<string>Certificate Transparency</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.security.certificatetransparency.12B51EFF-2748-457C-A33A-373381CBA349</string>
-				<key>PayloadType</key>
-				<string>com.apple.security.certificatetransparency</string>
-				<key>PayloadUUID</key>
-				<string>12B51EFF-2748-457C-A33A-373381CBA349</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
 				<key>AccessType</key>
 				<string>WIFI_ONLY</string>
 				<key>PayloadDisplayName</key>
