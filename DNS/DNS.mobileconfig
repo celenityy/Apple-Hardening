@@ -27960,7 +27960,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>(05November2024v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
+	<string>(06December2024v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
 	<key>PayloadDisplayName</key>
 	<string>DNS</string>
 	<key>PayloadIdentifier</key>
@@ -27975,5 +27975,7 @@
 	<string>7882FF20-B296-4213-A9BA-1CD81CB9AE9C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
 </dict>
 </plist>

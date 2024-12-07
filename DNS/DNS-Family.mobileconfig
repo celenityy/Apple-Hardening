@@ -12430,7 +12430,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>(05November2024v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature, tailored to providers that provide a safe browsing experience the whole family can enjoy. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility.</string>
+	<string>(06December2024v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature, tailored to providers that provide a safe browsing experience the whole family can enjoy. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility.</string>
 	<key>PayloadDisplayName</key>
 	<string>DNS (Family)</string>
 	<key>PayloadIdentifier</key>
@@ -12445,5 +12445,7 @@
 	<string>7A2404B6-7FE6-4EF9-940B-F8D4D6C07431</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -62,6 +62,7 @@
 					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalyticsMetricsNotifications.framework</string>
 					<string>/Applications/Xcode.app/Contents/PlugIns/XCCFeedbackReportingDiagnosticExtension.appex</string>
 					<string>/Applications/Xcode.app/Contents/SharedFrameworks/DVTFeedbackReporting.framework</string>
+					<string>/Library/Application Support/Adobe/Adobe Desktop Common/HDBox/AdobeCrashReporter.framework/Versions/A/LogTransport.app</string>
 					<string>/System/Applications/Books.app/Contents/Frameworks/BookAnalytics.framework</string>
 					<string>/System/Applications/Books.app/Contents/Frameworks/EngagementCollector.framework</string>
 					<string>/System/Applications/News.app/Contents/PlugIns/NewsDiagnosticExtension.appex</string>
@@ -71,11 +72,15 @@
 					<string>/System/Applications/Weather.app/Contents/PlugIns/WeatherDiagnosticExtension.appex</string>
 					<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
 					<string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
+					<string>/System/Library/CoreServices/FileProvider-Feedback.app</string>
 					<string>/System/Library/CoreServices/Problem Reporter.app</string>
 					<string>/System/Library/CoreServices/RapportUIAgent.app</string>
 					<string>/System/Library/CoreServices/RemoteManagement</string>
 					<string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
+					<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/Versions/A/Resources/AMSEngagementViewService.app</string>
+					<string>/System/Library/PrivateFrameworks/FeedbackService.framework/Versions/A/Support/FeedbackRemoteView.app</string>
 					<string>/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/PlugIns/DiagnosticExtension.appex</string>
+					<string>/Users/user/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app</string>
 				</array>
 			</dict>
 		</array>

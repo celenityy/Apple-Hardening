@@ -30,10 +30,13 @@
 					<string>/System/Applications/TV.app</string>
 					<string>/System/Library/CoreServices/Coverage Details.app</string>
 					<string>/System/Library/CoreServices/Family.app</string>
+					<string>/System/Library/CoreServices/Finder.app/Contents/Applications/iCloud Drive.app</string>
 					<string>/System/Library/CoreServices/iCloud.app</string>
 					<string>/System/Library/CoreServices/iCloud+.app</string>
 					<string>/System/Library/CoreServices/Pass Viewer.app</string>
 					<string>/System/Library/CoreServices/PeopleMessageService.app</string>
+					<string>/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/iCloud Drive.app</string>
+					<string>/System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/Resources/FindMyMacMessenger.app</string>
 					<string>/Applications/Adobe Media Encoder 2024/Adobe Media Encoder 2024.app/Contents/AdobeCrashReport.app</string>
 					<string>/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/AdobeCrashReport.app</string>
 					<string>/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app/Contents/AdobeCrashReport.app</string>
@@ -77,6 +80,7 @@
 					<string>/Applications/Xcode.app/Contents/PlugIns/IDEAnalyticsMetricsNotifications.framework</string>
 					<string>/Applications/Xcode.app/Contents/PlugIns/XCCFeedbackReportingDiagnosticExtension.appex</string>
 					<string>/Applications/Xcode.app/Contents/SharedFrameworks/DVTFeedbackReporting.framework</string>
+					<string>/Library/Application Support/Adobe/Adobe Desktop Common/HDBox/AdobeCrashReporter.framework/Versions/A/LogTransport.app</string>
 					<string>/System/Applications/Books.app/Contents/Frameworks/BookAnalytics.framework</string>
 					<string>/System/Applications/Books.app/Contents/Frameworks/EngagementCollector.framework</string>
 					<string>/System/Applications/News.app/Contents/PlugIns/NewsDiagnosticExtension.appex</string>
@@ -84,13 +88,18 @@
 					<string>/System/Applications/Podcasts.app/Contents/Frameworks/IMDebug.framework</string>
 					<string>/System/Applications/Tips.app</string>
 					<string>/System/Applications/Weather.app/Contents/PlugIns/WeatherDiagnosticExtension.appex</string>
+					<string>/System/Library/Classroom/ClassroomStudentMenuExtra.app</string>
 					<string>/System/Library/CoreServices/Applications/Feedback Assistant.app</string>
 					<string>/System/Library/CoreServices/Diagnostics Reporter.app</string>
+					<string>/System/Library/CoreServices/FileProvider-Feedback.app</string>
 					<string>/System/Library/CoreServices/Problem Reporter.app</string>
-					<string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
 					<string>/System/Library/CoreServices/RapportUIAgent.app</string>
 					<string>/System/Library/CoreServices/RemoteManagement</string>
+					<string>/System/Library/CoreServices/TipsSpotlightHandler.app</string>
+					<string>/System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/Versions/A/Resources/AMSEngagementViewService.app</string>
+					<string>/System/Library/PrivateFrameworks/FeedbackService.framework/Versions/A/Support/FeedbackRemoteView.app</string>
 					<string>/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/PlugIns/DiagnosticExtension.appex</string>
+					<string>/Users/user/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Breakpad.framework/Versions/A/Resources/crash_report_sender.app</string>
 				</array>
 			</dict>
 		</array>

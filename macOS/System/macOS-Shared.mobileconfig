@@ -77,7 +77,11 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>AutoPlayVideoSetting</key>
+				<string>off</string>
 				<key>DisableSoftwareUpdateNotifications</key>
+				<false/>
+				<key>InAppReviewEnabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
 				<string>App Store settings</string>
@@ -90,6 +94,8 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ShowDebugMenu</key>
+				<true/>
+				<key>UserSetAutoPlayVideoSetting</key>
 				<true/>
 				<key>WebKitDeveloperExtras</key>
 				<true/>
@@ -105,6 +111,8 @@
 			<dict>
 				<key>AutoPlayVideoSetting</key>
 				<string>off</string>
+				<key>DisableSoftwareUpdateNotifications</key>
+				<false/>
 				<key>InAppReviewEnabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -117,8 +125,20 @@
 				<string>F18F5FC5-D106-465A-9F90-5889F2577369</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ShowDebugMenu</key>
+				<true/>
 				<key>UserSetAutoPlayVideoSetting</key>
 				<true/>
+				<key>WebKitDeveloperExtras</key>
+				<true/>
+				<key>restrict-store-disable-app-adoption</key>
+				<false/>
+				<key>restrict-store-mdm-install-softwareupdate-only</key>
+				<false/>
+				<key>restrict-store-require-admin-to-install</key>
+				<true/>
+				<key>restrict-store-softwareupdate-only</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>BackgroundAssetDownloadsEnabled</key>
