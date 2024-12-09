@@ -338,7 +338,6 @@
 				<key>blockedAppBundleIDs</key>
 				<array>
 					<string>com.apple.findmy</string>
-					<string>com.apple.appleseed.FeedbackAssistant</string>
 					<string>com.apple.iCloudDriveApp</string>
 					<string>com.apple.ap.adprivacyd</string>
 					<string>com.apple.amsengagementd</string>
