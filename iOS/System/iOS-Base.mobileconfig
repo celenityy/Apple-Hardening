@@ -17,10 +17,18 @@
 				<integer>1</integer>
 				<key>allowARDRemoteManagementModification</key>
 				<false/>
+				<key>allowAccountModification</key>
+				<true/>
 				<key>allowAddingGameCenterFriends</key>
 				<false/>
 				<key>allowAirPrintiBeaconDiscovery</key>
 				<false/>
+				<key>allowAppAnalytics</key>
+				<false/>
+				<key>allowAppAndAccessoryAnalytics</key>
+				<false/>
+				<key>allowAppCellularDataModification</key>
+				<true/>
 				<key>allowAppInstallation</key>
 				<true/>
 				<key>allowAppRemoval</key>
@@ -33,30 +41,64 @@
 				<true/>
 				<key>allowAssistantUserGeneratedContent</key>
 				<false/>
+				<key>allowAttentionAwareAutoLock</key>
+				<true/>
 				<key>allowAutoUnlock</key>
 				<false/>
 				<key>allowAutomaticAppDownloads</key>
 				<false/>
-				<key>allowBluetoothSharingModification</key>
-				<false/>
+				<key>allowAutomaticAppUpdates</key>
+				<true/>
+				<key>allowAutomaticScreenSaver</key>
+				<true/>
 				<key>allowBookstoreErotica</key>
 				<true/>
 				<key>allowCallRecording</key>
 				<true/>
+				<key>allowCellularHDUploads</key>
+				<true/>
+				<key>allowCellularPlanModification</key>
+				<true/>
+				<key>allowClassroomAirPlay</key>
+				<false/>
+				<key>allowClassroomAppLock</key>
+				<false/>
+				<key>allowClassroomDeviceSettingsModification</key>
+				<false/>
+				<key>allowClassroomLockDevice</key>
+				<false/>
+				<key>allowClassroomOpenApp</key>
+				<false/>
+				<key>allowClassroomOpenDeepLink</key>
+				<false/>
+				<key>allowClassroomOpenURL</key>
+				<false/>
+				<key>allowClassroomScreenObservation</key>
+				<false/>
 				<key>allowCloudPrivateRelay</key>
 				<true/>
 				<key>allowContentCaching</key>
 				<false/>
 				<key>allowDefaultBrowserModification</key>
 				<true/>
+				<key>allowDefaultBrowserPrompting</key>
+				<false/>
 				<key>allowDeprecatedWebKitTLS</key>
 				<false/>
+				<key>allowDeviceNameModification</key>
+				<true/>
+				<key>allowDeviceSleep</key>
+				<true/>
 				<key>allowDiagnosticSubmission</key>
 				<false/>
 				<key>allowDiagnosticSubmissionModification</key>
 				<false/>
+				<key>allowESIMModification</key>
+				<true/>
 				<key>allowEnablingRestrictions</key>
 				<true/>
+				<key>allowEnterpriseAppTrust</key>
+				<false/>
 				<key>allowEraseContentAndSettings</key>
 				<true/>
 				<key>allowExplicitContent</key>
@@ -71,9 +113,29 @@
 				<true/>
 				<key>allowFingerprintModification</key>
 				<true/>
+				<key>allowGameCenterNearbyMultiplayer</key>
+				<false/>
+				<key>allowGameCenterPrivateMessaging</key>
+				<false/>
+				<key>allowGeotagSharing</key>
+				<false/>
+				<key>allowHandWashingDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission2</key>
+				<false/>
+				<key>allowHomeScreenEditing</key>
+				<true/>
+				<key>allowIdentifierForAdvertising</key>
+				<false/>
+				<key>allowInstalledAppNearMeSuggestions</key>
+				<false/>
 				<key>allowInternetSharingModification</key>
 				<false/>
 				<key>allowLocalUserCreation</key>
+				<true/>
+				<key>allowLockdownMode</key>
 				<true/>
 				<key>allowMailPrivacyProtection</key>
 				<true/>
@@ -81,10 +143,18 @@
 				<true/>
 				<key>allowMarketplaceAppInstallation</key>
 				<true/>
+				<key>allowMDMEnrollment</key>
+				<false/>
 				<key>allowMediaSharing</key>
 				<false/>
 				<key>allowMediaSharingModification</key>
 				<false/>
+				<key>allowMultitasking</key>
+				<true/>
+				<key>allowMusicArtistActivity</key>
+				<false/>
+				<key>allowNotificationsModification</key>
+				<true/>
 				<key>allowOTAPKIUpdates</key>
 				<true/>
 				<key>allowOpenFromManagedToUnmanaged</key>
@@ -95,11 +165,15 @@
 				<false/>
 				<key>allowPasscodeModification</key>
 				<true/>
+				<key>allowPersonalHotspotModification</key>
+				<true/>
 				<key>allowPersonalizedHandwritingResults</key>
 				<false/>
 				<key>allowPredictiveKeyboard</key>
 				<false/>
 				<key>allowPrinterSharingModification</key>
+				<false/>
+				<key>allowQuickNote</key>
 				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
@@ -107,13 +181,21 @@
 				<true/>
 				<key>allowRapidSecurityResponseRemoval</key>
 				<false/>
-				<key>allowRemoteAppPairing</key>
-				<false/>
 				<key>allowRemoteAppleEventsModification</key>
 				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
+				<key>allowSafariSummary</key>
+				<true/>
+				<key>allowSafetyDataSubmission</key>
+				<false/>
+				<key>allowScreenTimeModification</key>
+				<true/>
 				<key>allowSharedDeviceTemporarySession</key>
+				<true/>
+				<key>allowShowingUndownloadedTV</key>
+				<true/>
+				<key>allowShowingUndownloadedMovies</key>
 				<true/>
 				<key>allowSiriServerLogging</key>
 				<false/>
@@ -125,25 +207,35 @@
 				<true/>
 				<key>allowTimeMachineBackup</key>
 				<true/>
+				<key>allowTVProviderModification</key>
+				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
 				<true/>
 				<key>allowUSBRestrictedMode</key>
 				<true/>
-				<key>allowUnpairedExternalBootToRecovery</key>
-				<true/>
+				<key>allowUninstalledAppNearMeSuggestions</key>
+				<false/>
 				<key>allowUntrustedTLSPrompt</key>
+				<false/>
+				<key>allowVideoConferencingRemoteControl</key>
 				<false/>
 				<key>allowVPNCreation</key>
 				<true/>
 				<key>allowVoiceDialing</key>
 				<false/>
+				<key>allowWallpaper</key>
+				<true/>
 				<key>allowWallpaperModification</key>
 				<true/>
 				<key>allowWebDistributionAppInstallation</key>
 				<true/>
-				<key>allowiTunesFileSharing</key>
+				<key>allowWheelchairDataSubmission</key>
+				<false/>
+				<key>allowWiFiToCellularFallback</key>
+				<false/>
+				<key>allowiTunesSocialPages</key>
 				<false/>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
@@ -167,6 +259,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
+				<key>forceClassroomUnpromptedRemoteScreenObservation</key>
+				<false/>
 				<key>forceDelayedAppSoftwareUpdates</key>
 				<false/>
 				<key>forceDelayedMajorSoftwareUpdates</key>
@@ -175,6 +269,8 @@
 				<false/>
 				<key>forceEncryptedBackup</key>
 				<true/>
+				<key>forceGrantSupervisorAccessInAppLock</key>
+				<false/>
 				<key>forceLimitAdTracking</key>
 				<true/>
 				<key>forceOnDeviceOnlyDictation</key>
@@ -185,6 +281,10 @@
 				<false/>
 				<key>forceWatchWristDetection</key>
 				<true/>
+				<key>forceWebContentFilterAuto</key>
+				<false/>
+				<key>forceWiFiPowerOn</key>
+				<false/>
 				<key>forceWiFiToAllowedNetworksOnly</key>
 				<false/>
 				<key>forceWiFiWhitelisting</key>
@@ -228,7 +328,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(08December2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening (Base)</string>
 		<key>PayloadIdentifier</key>

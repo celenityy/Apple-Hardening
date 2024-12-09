@@ -17,6 +17,8 @@
 				<integer>1</integer>
 				<key>allowARDRemoteManagementModification</key>
 				<false/>
+				<key>allowAccessibilitySpeech</key>
+				<false/>
 				<key>allowAccountModification</key>
 				<true/>
 				<key>allowActivityContinuation</key>
@@ -26,6 +28,10 @@
 				<key>allowAirPlayIncomingRequests</key>
 				<false/>
 				<key>allowAirPrintiBeaconDiscovery</key>
+				<false/>
+				<key>allowAppAnalytics</key>
+				<false/>
+				<key>allowAppAndAccessoryAnalytics</key>
 				<false/>
 				<key>allowAppCellularDataModification</key>
 				<true/>
@@ -39,16 +45,22 @@
 				<true/>
 				<key>allowAppsToBeLocked</key>
 				<true/>
+				<key>allowAssistant</key>
+				<false/>
 				<key>allowAssistantUserGeneratedContent</key>
 				<false/>
 				<key>allowAssistantWhileLocked</key>
 				<false/>
-				<key>allowAssistant</key>
-				<false/>
+				<key>allowAttentionAwareAutoLock</key>
+				<true/>
 				<key>allowAutoUnlock</key>
 				<false/>
 				<key>allowAutomaticAppDownloads</key>
 				<false/>
+				<key>allowAutomaticAppUpdates</key>
+				<true/>
+				<key>allowAutomaticScreenSaver</key>
+				<true/>
 				<key>allowBluetoothSharingModification</key>
 				<false/>
 				<key>allowBookstore</key>
@@ -57,8 +69,26 @@
 				<true/>
 				<key>allowCallRecording</key>
 				<true/>
+				<key>allowCellularHDUploads</key>
+				<true/>
 				<key>allowCellularPlanModification</key>
 				<true/>
+				<key>allowClassroomAirPlay</key>
+				<false/>
+				<key>allowClassroomAppLock</key>
+				<false/>
+				<key>allowClassroomDeviceSettingsModification</key>
+				<false/>
+				<key>allowClassroomLockDevice</key>
+				<false/>
+				<key>allowClassroomOpenApp</key>
+				<false/>
+				<key>allowClassroomOpenDeepLink</key>
+				<false/>
+				<key>allowClassroomOpenURL</key>
+				<false/>
+				<key>allowClassroomScreenObservation</key>
+				<false/>
 				<key>allowCloudAddressBook</key>
 				<false/>
 				<key>allowCloudBTMM</key>
@@ -91,9 +121,13 @@
 				<false/>
 				<key>allowDefaultBrowserModification</key>
 				<true/>
+				<key>allowDefaultBrowserPrompting</key>
+				<false/>
 				<key>allowDeprecatedWebKitTLS</key>
 				<false/>
 				<key>allowDeviceNameModification</key>
+				<true/>
+				<key>allowDeviceSleep</key>
 				<true/>
 				<key>allowDiagnosticSubmission</key>
 				<false/>
@@ -106,7 +140,7 @@
 				<key>allowEnablingRestrictions</key>
 				<true/>
 				<key>allowEnterpriseAppTrust</key>
-				<true/>
+				<false/>
 				<key>allowEnterpriseBookBackup</key>
 				<false/>
 				<key>allowEnterpriseBookMetadataSync</key>
@@ -125,6 +159,8 @@
 				<true/>
 				<key>allowFilesUSBDriveAccess</key>
 				<true/>
+				<key>allowFindMyCar</key>
+				<false/>
 				<key>allowFindMyDevice</key>
 				<false/>
 				<key>allowFindMyFriends</key>
@@ -133,6 +169,26 @@
 				<false/>
 				<key>allowFingerprintModification</key>
 				<true/>
+				<key>allowGameCenterNearbyMultiplayer</key>
+				<false/>
+				<key>allowGameCenterPrivateMessaging</key>
+				<false/>
+				<key>allowGeotagSharing</key>
+				<false/>
+				<key>allowHandWashingDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission2</key>
+				<false/>
+				<key>allowHomeScreenEditing</key>
+				<true/>
+				<key>allowHostPairing</key>
+				<false/>
+				<key>allowIdentifierForAdvertising</key>
+				<false/>
+				<key>allowInstalledAppNearMeSuggestions</key>
+				<false/>
 				<key>allowInternetSharingModification</key>
 				<false/>
 				<key>allowLocalUserCreation</key>
@@ -143,6 +199,8 @@
 				<false/>
 				<key>allowLockScreenTodayView</key>
 				<false/>
+				<key>allowLockdownMode</key>
+				<true/>
 				<key>allowMailPrivacyProtection</key>
 				<true/>
 				<key>allowMailSummary</key>
@@ -151,9 +209,15 @@
 				<false/>
 				<key>allowMarketplaceAppInstallation</key>
 				<true/>
+				<key>allowMDMEnrollment</key>
+				<false/>
 				<key>allowMediaSharing</key>
 				<false/>
 				<key>allowMediaSharingModification</key>
+				<false/>
+				<key>allowMultitasking</key>
+				<true/>
+				<key>allowMusicArtistActivity</key>
 				<false/>
 				<key>allowMusicService</key>
 				<false/>
@@ -189,6 +253,8 @@
 				<false/>
 				<key>allowProximitySetupToNewDevice</key>
 				<false/>
+				<key>allowQuickNote</key>
+				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
 				<key>allowRapidSecurityResponseInstallation</key>
@@ -201,13 +267,25 @@
 				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
+				<key>allowSafariSummary</key>
+				<true/>
+				<key>allowSafetyDataSubmission</key>
+				<false/>
+				<key>allowScreenTimeModification</key>
+				<true/>
 				<key>allowSharedDeviceTemporarySession</key>
 				<true/>
 				<key>allowSharedStream</key>
 				<false/>
+				<key>allowShowingUndownloadedTV</key>
+				<true/>
+				<key>allowShowingUndownloadedMovies</key>
+				<true/>
 				<key>allowSiriServerLogging</key>
 				<false/>
 				<key>allowSpotlightInternetResults</key>
+				<false/>
+				<key>allowSpotlightNews</key>
 				<false/>
 				<key>allowStartupDiskModification</key>
 				<true/>
@@ -215,31 +293,51 @@
 				<true/>
 				<key>allowTimeMachineBackup</key>
 				<true/>
+				<key>allowTranslationLookup</key>
+				<false/>
+				<key>allowTV</key>
+				<false/>
+				<key>allowTVProviderModification</key>
+				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
+				<true/>
+				<key>allowUSBDriveAccess</key>
 				<true/>
 				<key>allowUSBRestrictedMode</key>
 				<true/>
 				<key>allowUniversalControl</key>
 				<false/>
 				<key>allowUnpairedExternalBootToRecovery</key>
-				<true/>
+				<false/>
 				<key>allowUntrustedTLSPrompt</key>
+				<false/>
+				<key>allowVideoConferencingRemoteControl</key>
 				<false/>
 				<key>allowVPNCreation</key>
 				<true/>
 				<key>allowVoiceDialing</key>
 				<false/>
+				<key>allowWallpaper</key>
+				<true/>
 				<key>allowWallpaperModification</key>
 				<true/>
 				<key>allowWebDistributionAppInstallation</key>
 				<true/>
+				<key>allowWheelchairDataSubmission</key>
+				<false/>
+				<key>allowWiFiToCellularFallback</key>
+				<false/>
+				<key>allowYouTube</key>
+				<false/>
 				<key>allowiPhoneMirroring</key>
 				<false/>
 				<key>allowiPhoneWidgetsOnMac</key>
 				<false/>
 				<key>allowiTunesFileSharing</key>
+				<false/>
+				<key>allowiTunesSocialPages</key>
 				<false/>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
@@ -247,6 +345,8 @@
 				<true/>
 				<key>forceAirPrintTrustedTLSRequirement</key>
 				<true/>
+				<key>forceAssistantProfanityFilter</key>
+				<false/>
 				<key>forceAuthenticationBeforeAutoFill</key>
 				<true/>
 				<key>forceAutomaticDateAndTime</key>
@@ -259,6 +359,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedAppAndDeviceLock</key>
 				<false/>
+				<key>forceClassroomUnpromptedRemoteScreenObservation</key>
+				<false/>
 				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
 				<key>forceDelayedAppSoftwareUpdates</key>
@@ -269,6 +371,10 @@
 				<false/>
 				<key>forceEncryptedBackup</key>
 				<true/>
+				<key>forceFIPSVerification</key>
+				<true/>
+				<key>forceGrantSupervisorAccessInAppLock</key>
+				<false/>
 				<key>forceITunesStorePasswordEntry</key>
 				<true/>
 				<key>forceLimitAdTracking</key>
@@ -281,6 +387,8 @@
 				<false/>
 				<key>forceWatchWristDetection</key>
 				<true/>
+				<key>forceWebContentFilterAuto</key>
+				<false/>
 				<key>forceWiFiPowerOn</key>
 				<false/>
 				<key>forceWiFiToAllowedNetworksOnly</key>
@@ -306,7 +414,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, &amp; Siri are completely disabled where possible.</string>
+		<string>(08December2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, &amp; Siri are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening (Extended)</string>
 		<key>PayloadIdentifier</key>

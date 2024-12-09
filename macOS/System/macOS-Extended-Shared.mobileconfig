@@ -75,6 +75,8 @@
 				<string>B63E2C42-8B30-4DD0-9814-BA0CC0F130C4</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
+				<key>ReadReceiptsEnabled</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -564,7 +566,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(27November2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(08December2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Shared</string>
 		<key>PayloadIdentifier</key>

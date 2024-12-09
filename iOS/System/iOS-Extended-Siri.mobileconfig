@@ -17,6 +17,8 @@
 				<integer>1</integer>
 				<key>allowARDRemoteManagementModification</key>
 				<false/>
+				<key>allowAccessibilitySpeech</key>
+				<false/>
 				<key>allowAccountModification</key>
 				<true/>
 				<key>allowActivityContinuation</key>
@@ -26,6 +28,10 @@
 				<key>allowAirPlayIncomingRequests</key>
 				<false/>
 				<key>allowAirPrintiBeaconDiscovery</key>
+				<false/>
+				<key>allowAppAnalytics</key>
+				<false/>
+				<key>allowAppAndAccessoryAnalytics</key>
 				<false/>
 				<key>allowAppCellularDataModification</key>
 				<true/>
@@ -43,10 +49,16 @@
 				<false/>
 				<key>allowAssistantWhileLocked</key>
 				<false/>
+				<key>allowAttentionAwareAutoLock</key>
+				<true/>
 				<key>allowAutoUnlock</key>
 				<false/>
 				<key>allowAutomaticAppDownloads</key>
 				<false/>
+				<key>allowAutomaticAppUpdates</key>
+				<true/>
+				<key>allowAutomaticScreenSaver</key>
+				<true/>
 				<key>allowBluetoothSharingModification</key>
 				<false/>
 				<key>allowBookstore</key>
@@ -55,8 +67,26 @@
 				<true/>
 				<key>allowCallRecording</key>
 				<true/>
+				<key>allowCellularHDUploads</key>
+				<true/>
 				<key>allowCellularPlanModification</key>
 				<true/>
+				<key>allowClassroomAirPlay</key>
+				<false/>
+				<key>allowClassroomAppLock</key>
+				<false/>
+				<key>allowClassroomDeviceSettingsModification</key>
+				<false/>
+				<key>allowClassroomLockDevice</key>
+				<false/>
+				<key>allowClassroomOpenApp</key>
+				<false/>
+				<key>allowClassroomOpenDeepLink</key>
+				<false/>
+				<key>allowClassroomOpenURL</key>
+				<false/>
+				<key>allowClassroomScreenObservation</key>
+				<false/>
 				<key>allowCloudAddressBook</key>
 				<false/>
 				<key>allowCloudBTMM</key>
@@ -89,9 +119,13 @@
 				<false/>
 				<key>allowDefaultBrowserModification</key>
 				<true/>
+				<key>allowDefaultBrowserPrompting</key>
+				<false/>
 				<key>allowDeprecatedWebKitTLS</key>
 				<false/>
 				<key>allowDeviceNameModification</key>
+				<true/>
+				<key>allowDeviceSleep</key>
 				<true/>
 				<key>allowDiagnosticSubmission</key>
 				<false/>
@@ -102,7 +136,7 @@
 				<key>allowEnablingRestrictions</key>
 				<true/>
 				<key>allowEnterpriseAppTrust</key>
-				<true/>
+				<false/>
 				<key>allowEnterpriseBookBackup</key>
 				<false/>
 				<key>allowEnterpriseBookMetadataSync</key>
@@ -119,6 +153,8 @@
 				<true/>
 				<key>allowFilesUSBDriveAccess</key>
 				<true/>
+				<key>allowFindMyCar</key>
+				<false/>
 				<key>allowFindMyDevice</key>
 				<false/>
 				<key>allowFindMyFriends</key>
@@ -127,6 +163,26 @@
 				<false/>
 				<key>allowFingerprintModification</key>
 				<true/>
+				<key>allowGameCenterNearbyMultiplayer</key>
+				<false/>
+				<key>allowGameCenterPrivateMessaging</key>
+				<false/>
+				<key>allowGeotagSharing</key>
+				<false/>
+				<key>allowHandWashingDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission</key>
+				<false/>
+				<key>allowHealthDataSubmission2</key>
+				<false/>
+				<key>allowHomeScreenEditing</key>
+				<true/>
+				<key>allowHostPairing</key>
+				<false/>
+				<key>allowIdentifierForAdvertising</key>
+				<false/>
+				<key>allowInstalledAppNearMeSuggestions</key>
+				<false/>
 				<key>allowInternetSharingModification</key>
 				<false/>
 				<key>allowLocalUserCreation</key>
@@ -137,6 +193,8 @@
 				<false/>
 				<key>allowLockScreenTodayView</key>
 				<false/>
+				<key>allowLockdownMode</key>
+				<true/>
 				<key>allowMailPrivacyProtection</key>
 				<true/>
 				<key>allowMailSummary</key>
@@ -145,9 +203,15 @@
 				<false/>
 				<key>allowMarketplaceAppInstallation</key>
 				<true/>
+				<key>allowMDMEnrollment</key>
+				<false/>
 				<key>allowMediaSharing</key>
 				<false/>
 				<key>allowMediaSharingModification</key>
+				<false/>
+				<key>allowMultitasking</key>
+				<true/>
+				<key>allowMusicArtistActivity</key>
 				<false/>
 				<key>allowMusicService</key>
 				<false/>
@@ -183,6 +247,8 @@
 				<false/>
 				<key>allowProximitySetupToNewDevice</key>
 				<false/>
+				<key>allowQuickNote</key>
+				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
 				<key>allowRapidSecurityResponseInstallation</key>
@@ -195,13 +261,25 @@
 				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
+				<key>allowSafariSummary</key>
+				<true/>
+				<key>allowSafetyDataSubmission</key>
+				<false/>
+				<key>allowScreenTimeModification</key>
+				<true/>
 				<key>allowSharedDeviceTemporarySession</key>
 				<true/>
 				<key>allowSharedStream</key>
 				<false/>
+				<key>allowShowingUndownloadedTV</key>
+				<true/>
+				<key>allowShowingUndownloadedMovies</key>
+				<true/>
 				<key>allowSiriServerLogging</key>
 				<false/>
 				<key>allowSpotlightInternetResults</key>
+				<false/>
+				<key>allowSpotlightNews</key>
 				<false/>
 				<key>allowStartupDiskModification</key>
 				<true/>
@@ -209,32 +287,130 @@
 				<true/>
 				<key>allowTimeMachineBackup</key>
 				<true/>
+				<key>allowTranslationLookup</key>
+				<false/>
+				<key>allowTV</key>
+				<false/>
+				<key>allowTVProviderModification</key>
+				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
 				<true/>
+				<key>allowUSBDriveAccess</key>
+				<true/>
 				<key>allowUSBRestrictedMode</key>
 				<true/>
+				<key>allowUninstalledAppNearMeSuggestions</key>
+				<false/>
 				<key>allowUniversalControl</key>
 				<false/>
 				<key>allowUnpairedExternalBootToRecovery</key>
-				<true/>
+				<false/>
 				<key>allowUntrustedTLSPrompt</key>
+				<false/>
+				<key>allowVideoConferencingRemoteControl</key>
 				<false/>
 				<key>allowVPNCreation</key>
 				<true/>
 				<key>allowVoiceDialing</key>
 				<false/>
+				<key>allowWallpaper</key>
+				<true/>
 				<key>allowWallpaperModification</key>
 				<true/>
 				<key>allowWebDistributionAppInstallation</key>
 				<true/>
+				<key>allowWheelchairDataSubmission</key>
+				<false/>
+				<key>allowWiFiToCellularFallback</key>
+				<false/>
+				<key>allowYouTube</key>
+				<false/>
 				<key>allowiPhoneMirroring</key>
 				<false/>
 				<key>allowiPhoneWidgetsOnMac</key>
 				<false/>
 				<key>allowiTunesFileSharing</key>
 				<false/>
+				<key>allowiTunesSocialPages</key>
+				<false/>
+				<key>blockedAppBundleIDs</key>
+				<array>
+					<string>com.apple.findmy</string>
+					<string>com.apple.appleseed.FeedbackAssistant</string>
+					<string>com.apple.iCloudDriveApp</string>
+					<string>com.apple.ap.adprivacyd</string>
+					<string>com.apple.amsengagementd</string>
+					<string>com.apple.CloudTelemetryService.xpc</string>
+					<string>com.apple.DiagnosticsReporter</string>
+					<string>com.apple.diagnostics_agent</string>
+					<string>com.apple.ap.promotedcontentd</string>
+					<string>com.apple.CrashReporter</string>
+					<string>com.apple.ReportSystemMemory</string>
+					<string>com.apple.AppleVNCServer </string>
+					<string>com.apple.askpermissiond</string>
+					<string>com.apple.bird</string>
+					<string>com.apple.cloudphotod</string>
+					<string>com.apple.sbd</string>
+					<string>com.apple.dprivacyd</string>
+					<string>com.apple.fairplayd</string>
+					<string>com.apple.familycircled</string>
+					<string>com.apple.Family-Settings.extension</string>
+					<string>com.apple.fb_collect</string>
+					<string>com.apple.feedbackd</string>
+					<string>com.apple.findmy.findmybeaconingd</string>
+					<string>com.apple.icloud.findmydeviced.findmydevice-user-agent</string>
+					<string>com.apple.icloud.findmydeviced</string>
+					<string>com.apple.findmy.findmylocateagent</string>
+					<string>com.apple.icloud.fmfd</string>
+					<string>com.apple.helpd</string>
+					<string>com.apple.init_featureflags</string>
+					<string>com.apple.appleseed.seedusaged</string>
+					<string>com.apple.appleseed.seedusaged.postinstall</string>
+					<string>com.apple.appleseed.fbahelperd</string>
+					<string>com.apple.feedbackd.centralized-feedback</string>
+					<string>com.apple.ap.adprivacyd.attribution</string>
+					<string>com.apple.ap.adprivacyd.opt-out</string>
+					<string>com.apple.ap.adprivacyd.idmanager</string>
+					<string>com.apple.ap.adservicesd.statusconditionservice</string>
+					<string>com.apple.aps.amsengagementd</string>
+					<string>com.apple.xpc.amsengagementd</string>
+					<string>com.apple.triald</string>
+					<string>com.apple.triald.cache-delete</string>
+					<string>com.apple.triald.internal</string>
+					<string>com.apple.triald.namespace-management</string>
+					<string>com.apple.triald.system</string>
+					<string>com.apple.aps.triald</string>
+					<string>com.apple.cloudphotod.daemon</string>
+					<string>com.apple.AssetCache.builtin</string>
+					<string>com.apple.AssetCacheLocatorService</string>
+					<string>com.apple.AssetCacheManagerService</string>
+					<string>com.apple.AssetCacheTetheratorService</string>
+					<string>com.apple.AssetCacheC.builtin</string>
+					<string>com.apple.icloud.searchpartyd</string>
+					<string>com.apple.fairplayd.xpc</string>
+					<string>com.apple.fairplaydeviceidentityd</string>
+					<string>com.apple.SubmitDiagInfo</string>
+					<string>com.apple.signpost.signpost_reporter</string>
+					<string>com.apple.rapportd</string>
+					<string>com.apple.analyticsd</string>
+					<string>com.apple.analyticsd.messagetracer</string>
+					<string>com.apple.audioanalyticsd</string>
+					<string>com.apple.ecosystemanalyticsd</string>
+					<string>com.apple.geoanalyticsd</string>
+					<string>com.apple.memoryanalyticsd</string>
+					<string>com.apple.wifianalyticsd</string>
+					<string>com.apple.wifianalyticsd.devicestore</string>
+					<string>com.apple.osanalytics.osanalyticshelper</string>
+					<string>com.apple.rtcreportingd</string>
+					<string>com.apple.bosreporter</string>
+					<string>com.apple.RemoteDesktop.PrivilegeProxy</string>
+					<string>com.apple.remotemanagementd</string>
+					<string>com.apple.remotemanagementd.store</string>
+					<string>com.apple.aps.remotemanagementd.http.apns-dev</string>
+					<string>com.apple.aps.remotemanagementd.http.apns-prod</string>
+				</array>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
@@ -255,6 +431,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedAppAndDeviceLock</key>
 				<false/>
+				<key>forceClassroomUnpromptedRemoteScreenObservation</key>
+				<false/>
 				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
 				<key>forceDelayedAppSoftwareUpdates</key>
@@ -265,6 +443,10 @@
 				<false/>
 				<key>forceEncryptedBackup</key>
 				<true/>
+				<key>forceFIPSVerification</key>
+				<true/>
+				<key>forceGrantSupervisorAccessInAppLock</key>
+				<false/>
 				<key>forceITunesStorePasswordEntry</key>
 				<true/>
 				<key>forceLimitAdTracking</key>
@@ -277,6 +459,8 @@
 				<false/>
 				<key>forceWatchWristDetection</key>
 				<true/>
+				<key>forceWebContentFilterAuto</key>
+				<false/>
 				<key>forceWiFiPowerOn</key>
 				<false/>
 				<key>forceWiFiToAllowedNetworksOnly</key>
@@ -302,7 +486,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
+		<string>(08December2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening (Extended) - Siri</string>
 		<key>PayloadIdentifier</key>
