@@ -144,6 +144,10 @@
 				<true/>
 				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
 				<true/>
+				<key>WebKitExperimentalIsFirstPartyWebsiteDataRemovalDisabled</key>
+				<false/>
+				<key>WebKitExperimentalIsThirdPartyCookieBlockingDisabled</key>
+				<false/>
 				<key>WebKitExperimentalLinkPrefetchEnabled</key>
 				<false/>
 				<key>WebKitExperimentalLockdownFontParserEnabled</key>
