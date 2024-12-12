@@ -51,6 +51,8 @@
 				<true/>
 				<key>EnableEnhancedPrivacyInRegularBrowsing</key>
 				<true/>
+				<key>ExcludePrivateWindowWhenRestoringSessionAtLaunch</key>
+				<true/>
 				<key>HideHighlightsEmptyItemViewPreferenceKey</key>
 				<true/>
 				<key>HideStartPageFrecentsEmptyItemView</key>
@@ -77,8 +79,10 @@
 				<true/>
 				<key>LocalFileRestrictionsEnabled</key>
 				<true/>
+				<key>MobileDeviceRemoteXPCEnabled</key>
+				<false/>
 				<key>PasswordBreachDetectionOn</key>
-				<true/>
+				<false/>
 				<key>PayloadDisplayName</key>
 				<string>Safari</string>
 				<key>PayloadIdentifier</key>
@@ -184,6 +188,8 @@
 				<false/>
 				<key>WebKitPluginsEnabled</key>
 				<false/>
+				<key>WebKitPreferences.allowFileAccessFromFileURLs</key>
+				<false/>
 				<key>WebKitPreferences.applePayCapabilityDisclosureAllowed</key>
 				<false/>
 				<key>WebKitPreferences.applePayEnabled</key>
@@ -202,6 +208,8 @@
 				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
 				<integer>1</integer>
+				<key>WebKitPreferences.universalAccessFromFileURLsAllowed</key>
+				<false/>
 				<key>WebKitPreferences.usesPageCache</key>
 				<false/>
 				<key>WebKitPreferences.webGLEnabled</key>
