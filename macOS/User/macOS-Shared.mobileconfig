@@ -1059,6 +1059,8 @@
 				<integer>1</integer>
 				<key>WebAutomaticSpellingCorrectionEnabled</key>
 				<false/>
+				<key>WebKitDeveloperExtras</key>
+				<true/>
 				<key>com.apple.sound.beep.feedback</key>
 				<true/>
 			</dict>
@@ -1530,7 +1532,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(01December024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
+		<string>(11December2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Shared</string>
 		<key>PayloadIdentifier</key>
