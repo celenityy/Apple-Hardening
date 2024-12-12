@@ -196,6 +196,8 @@
 				<false/>
 				<key>WebKitWebSecurityEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
+				<true/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
