@@ -331,6 +331,8 @@
 				<true/>
 				<key>allowWheelchairDataSubmission</key>
 				<false/>
+				<key>allowWiFiPasswordSharing</key>
+				<false/>
 				<key>allowWiFiToCellularFallback</key>
 				<false/>
 				<key>allowYouTube</key>
@@ -343,6 +345,8 @@
 				<false/>
 				<key>allowiTunesSocialPages</key>
 				<false/>
+				<key>cloudBackupPasswordRequired</key>
+				<true/>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
@@ -367,6 +371,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
+				<key>forceCloudBackupPassword</key>
+				<true/>
 				<key>forceDelayedAppSoftwareUpdates</key>
 				<false/>
 				<key>forceDelayedMajorSoftwareUpdates</key>
@@ -407,6 +413,10 @@
 				<string>us</string>
 				<key>ratingTVShows</key>
 				<integer>1000</integer>
+				<key>requireBlockLevelEncryption</key>
+				<true/>
+				<key>requireFileLevelEncryption</key>
+				<true/>
 				<key>requireManagedPasteboard</key>
 				<false/>
 				<key>safariAcceptCookies</key>
