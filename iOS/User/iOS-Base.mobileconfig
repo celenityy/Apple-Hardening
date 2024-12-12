@@ -75,6 +75,8 @@
 				<false/>
 				<key>allowCloudPrivateRelay</key>
 				<true/>
+				<key>allowCompanionAutoUnlock</key>
+				<false/>
 				<key>allowContentCaching</key>
 				<false/>
 				<key>allowDefaultBrowserModification</key>

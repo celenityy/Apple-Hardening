@@ -115,6 +115,8 @@
 				<true/>
 				<key>allowCloudReminders</key>
 				<false/>
+				<key>allowCompanionAutoUnlock</key>
+				<false/>
 				<key>allowContentCaching</key>
 				<false/>
 				<key>allowDefaultBrowserModification</key>
@@ -485,7 +487,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(08December2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
+		<string>(11December2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening (Extended) - Siri</string>
 		<key>PayloadIdentifier</key>
