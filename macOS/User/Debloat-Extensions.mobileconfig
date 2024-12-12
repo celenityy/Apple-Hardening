@@ -120,6 +120,8 @@
 				<integer>1</integer>
 			</dict>
 		</array>
+		<key>PayloadDescription</key>
+		<string>11December2024v1</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base: Debloat Extensions (User)</string>
 		<key>PayloadIdentifier</key>
