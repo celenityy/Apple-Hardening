@@ -230,6 +230,8 @@
 				<false/>
 				<key>WebKitWebSecurityEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayCapabilityDisclosureAllowed</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DNSPrefetchingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
@@ -491,6 +493,8 @@
 				<false/>
 				<key>WebKitWebSecurityEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayCapabilityDisclosureAllowed</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DNSPrefetchingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
