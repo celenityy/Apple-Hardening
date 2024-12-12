@@ -152,6 +152,8 @@
 				<false/>
 				<key>WebKitExperimentalPrivateTokenUsageByThirdPartyEnabled</key>
 				<false/>
+				<key>WebKitExperimentalReportingEnabled</key>
+				<false/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
