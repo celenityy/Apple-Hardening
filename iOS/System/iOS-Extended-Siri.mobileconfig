@@ -344,7 +344,6 @@
 				<key>blockedAppBundleIDs</key>
 				<array>
 					<string>com.apple.findmy</string>
-					<string>com.apple.appleseed</string>
 					<string>com.apple.iCloudDriveApp</string>
 					<string>com.apple.ap.adprivacyd</string>
 					<string>com.apple.amsengagementd</string>
@@ -352,6 +351,12 @@
 					<string>com.apple.DiagnosticsReporter</string>
 					<string>com.apple.diagnostics_agent</string>
 					<string>com.apple.ap.promotedcontentd</string>
+					<string>com.apple.ap.SearchAds</string>
+					<string>com.apple.weatheranalytics</string>
+					<string>com.apple.AdPlatforms.AdPlatforms</string>
+					<string>com.apple.ap.AdPlatformsCommon</string>
+					<string>com.apple.AdPlatforms.AdPlatformsInternal</string>
+					<string>com.apple.siri.AIMLExperimentationAnalytics</string>
 					<string>com.apple.CrashReporter</string>
 					<string>com.apple.ReportSystemMemory</string>
 					<string>com.apple.AppleVNCServer </string>

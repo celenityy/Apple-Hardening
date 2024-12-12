@@ -243,6 +243,8 @@
 				<false/>
 				<key>allowiTunesSocialPages</key>
 				<false/>
+				<key>cloudBackupPasswordRequired</key>
+				<true/>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
@@ -267,6 +269,8 @@
 				<false/>
 				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
+				<key>forceCloudBackupPassword</key>
+				<true/>
 				<key>forceDelayedAppSoftwareUpdates</key>
 				<false/>
 				<key>forceDelayedMajorSoftwareUpdates</key>
@@ -303,6 +307,10 @@
 				<string>us</string>
 				<key>ratingTVShows</key>
 				<integer>1000</integer>
+				<key>requireBlockLevelEncryption</key>
+				<true/>
+				<key>requireFileLevelEncryption</key>
+				<true/>
 				<key>requireManagedPasteboard</key>
 				<false/>
 				<key>safariAcceptCookies</key>
@@ -573,7 +581,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(08December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(11December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Base)</string>
 		<key>PayloadIdentifier</key>

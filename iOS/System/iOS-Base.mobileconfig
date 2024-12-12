@@ -259,9 +259,9 @@
 				<false/>
 				<key>forceClassroomUnpromptedAppAndDeviceLock</key>
 				<false/>
-				<key>forceClassroomUnpromptedScreenObservation</key>
-				<false/>
 				<key>forceClassroomUnpromptedRemoteScreenObservation</key>
+				<false/>
+				<key>forceClassroomUnpromptedScreenObservation</key>
 				<false/>
 				<key>forceCloudBackupPassword</key>
 				<true/>

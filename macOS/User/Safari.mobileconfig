@@ -75,12 +75,16 @@
 				<true/>
 				<key>SendDoNotTrackHTTPHeader</key>
 				<true/>
+				<key>ShowFrecentsAsSnapshotsInStartPage</key>
+				<false/>
 				<key>ShowFullURLInSmartSearchField</key>
 				<true/>
 				<key>ShowHighlightsInFavorites</key>
 				<false/>
 				<key>ShowOverlayStatusBar</key>
 				<true/>
+				<key>ShowSiriSuggestionsPreference</key>
+				<false/>
 				<key>SkipLoadingEnabledAppExtensionsAtLaunch</key>
 				<false/>
 				<key>SkipLoadingEnabledContentBlockersAtLaunch</key>
@@ -105,6 +109,10 @@
 				<false/>
 				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
 				<true/>
+				<key>WebKitDiagnosticLoggingEnabled</key>
+				<false/>
+				<key>WebKitDNSPrefetchingEnabled</key>
+				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
 				<true/>
 				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
@@ -126,6 +134,8 @@
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
+				<false/>
+				<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
 				<false/>
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
 				<false/>
@@ -161,6 +171,10 @@
 				<true/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DiagnosticLoggingEnabled</key>
+				<false/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DNSPrefetchingEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
@@ -171,6 +185,8 @@
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy</key>
+				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
