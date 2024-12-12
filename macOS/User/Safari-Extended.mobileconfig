@@ -98,8 +98,12 @@
 				</dict>
 				<key>PreloadTopHit</key>
 				<false/>
+				<key>PrivateSearchProviderShortName</key>
+				<string>DuckDuckGo</string>
 				<key>SafariGeolocationPermissionPolicy</key>
 				<integer>0</integer>
+				<key>SearchProviderShortName</key>
+				<string>DuckDuckGo</string>
 				<key>SendDoNotTrackHTTPHeader</key>
 				<true/>
 				<key>ShowFrequentlyVisitedSites</key>
@@ -128,6 +132,8 @@
 				<true/>
 				<key>WarnAboutFraudulentWebsites</key>
 				<true/>
+				<key>WBSLastPrivateSearchEngineStringExplicitlyChosenByUserKey</key>
+				<string>com.duckduckgo</string>
 				<key>WBSOfflineSearchSuggestionsModelGoogleWasDefaultSearchEngineKey</key>
 				<false/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
