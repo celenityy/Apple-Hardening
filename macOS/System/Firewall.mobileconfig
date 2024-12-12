@@ -655,7 +655,7 @@
 				<key>LoggingOption</key>
 				<string>detail</string>
 				<key>PayloadDisplayName</key>
-				<string>Firewall #1</string>
+				<string>Firewall</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.security.firewall.24022D07-4B8C-4620-AA0E-0648B150FB21</string>
 				<key>PayloadType</key>

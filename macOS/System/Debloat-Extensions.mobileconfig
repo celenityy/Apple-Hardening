@@ -109,7 +109,7 @@
 					<string>com.apple.ap.promotedcontentd</string>
 				</array>
 				<key>PayloadDisplayName</key>
-				<string>Extensions #1</string>
+				<string>Extensions</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.NSExtension.55FA6405-2D49-43BD-AF83-293D6536B407</string>
 				<key>PayloadType</key>

@@ -116,7 +116,7 @@
 				<key>LegacyPublishedContentEnabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
-				<string>Citrix Receiver #1</string>
+				<string>Citrix Receiver</string>
 				<key>PayloadIdentifier</key>
 				<string>com.citrix.receiver.nomas.A2373D85-6C55-41C4-A81C-59B68323FEF1</string>
 				<key>PayloadType</key>
@@ -1296,7 +1296,7 @@
 				<key>ExitNodesPicker</key>
 				<string>show</string>
 				<key>PayloadDisplayName</key>
-				<string>Tailscale (MAS) #1</string>
+				<string>Tailscale (MAS)</string>
 				<key>PayloadIdentifier</key>
 				<string>io.tailscale.ipn.macos.EFCCFAD0-345A-4C29-8A1D-C73583052EC2</string>
 				<key>PayloadType</key>
@@ -1326,7 +1326,7 @@
 				<key>ExitNodesPicker</key>
 				<string>show</string>
 				<key>PayloadDisplayName</key>
-				<string>Tailscale (Standalone) #1</string>
+				<string>Tailscale (Standalone)</string>
 				<key>PayloadIdentifier</key>
 				<string>io.tailscale.ipn.macsys.5E433099-BD0F-4319-9D10-12B0328EFCD8</string>
 				<key>PayloadType</key>

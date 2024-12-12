@@ -629,7 +629,7 @@
 				<key>LKWelcomeDisplayedForAppVersion</key>
 				<dict/>
 				<key>PayloadDisplayName</key>
-				<string>Final Cut Pro #1</string>
+				<string>Final Cut Pro</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.FinalCut.415587CE-DD8D-4185-B797-8966C3A0CC8A</string>
 				<key>PayloadType</key>
@@ -1008,7 +1008,7 @@
 				<key>DisableGuestAccount</key>
 				<true/>
 				<key>PayloadDisplayName</key>
-				<string>Energy Saver, FileVault, Time Server, Mobile Accounts and Guest Account #1</string>
+				<string>Energy Saver, FileVault, Time Server, Mobile Accounts and Guest Account</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.MCX.DB5FA70A-4D94-4867-9376-1D3AD5EA3755</string>
 				<key>PayloadType</key>

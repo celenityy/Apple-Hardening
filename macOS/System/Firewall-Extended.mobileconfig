@@ -743,7 +743,7 @@
 				<key>LoggingOption</key>
 				<string>detail</string>
 				<key>PayloadDisplayName</key>
-				<string>Firewall #1</string>
+				<string>Firewall</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.security.firewall.24022D07-4B8C-4620-AA0E-0648B150FB21</string>
 				<key>PayloadType</key>
@@ -755,7 +755,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Hardened Firewall configuration for macOS - may cause issues with iOS Device Backup (AMPDevicesAgent), iCloud, Home (homed), &amp; Find My Device/Location Sharing.</string>
+		<string>(11December2024v1) Hardened Firewall configuration for macOS - may cause issues with iOS Device Backup (AMPDevicesAgent), iCloud, Home (homed), &amp; Find My Device/Location Sharing.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Extended: Firewall (System)</string>
 		<key>PayloadIdentifier</key>
