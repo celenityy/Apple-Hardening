@@ -7,6 +7,8 @@
 			<dict>
 				<key>AllowJavaScriptFromAppleEvents</key>
 				<false/>
+				<key>AllowRemoteAutomation</key>
+				<false/>
 				<key>AlwaysRestoreSessionAtLaunch</key>
 				<false/>
 				<key>AskBeforeSubmittingInsecureForms</key>
@@ -59,8 +61,6 @@
 				<true/>
 				<key>LocalFileRestrictionsEnabled</key>
 				<true/>
-				<key>MobileDeviceRemoteXPCEnabled</key>
-				<false/>
 				<key>PasswordBreachDetectionOn</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -111,6 +111,8 @@
 				<true/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
 				<false/>
+				<key>WebKit2MediaCaptureRequiresSecureConnection</key>
+				<true/>
 				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
@@ -199,6 +201,8 @@
 			<dict>
 				<key>AllowJavaScriptFromAppleEvents</key>
 				<false/>
+				<key>AllowRemoteAutomation</key>
+				<false/>
 				<key>AlwaysRestoreSessionAtLaunch</key>
 				<false/>
 				<key>AskBeforeSubmittingInsecureForms</key>
@@ -251,8 +255,6 @@
 				<true/>
 				<key>LocalFileRestrictionsEnabled</key>
 				<true/>
-				<key>MobileDeviceRemoteXPCEnabled</key>
-				<false/>
 				<key>PasswordBreachDetectionOn</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -303,6 +305,8 @@
 				<true/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
 				<false/>
+				<key>WebKit2MediaCaptureRequiresSecureConnection</key>
+				<true/>
 				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
