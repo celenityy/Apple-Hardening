@@ -154,6 +154,8 @@
 				<false/>
 				<key>WebKitExperimentalReportingEnabled</key>
 				<false/>
+				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
+				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
