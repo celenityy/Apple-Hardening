@@ -138,6 +138,8 @@
 				<true/>
 				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
 				<true/>
+				<key>WebKitExperimentalLinkPrefetchEnabled</key>
+				<false/>
 				<key>WebKitExperimentalLockdownFontParserEnabled</key>
 				<true/>
 				<key>WebKitExperimentalPrivateClickMeasurementFraudPreventionEnabled</key>
@@ -237,7 +239,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(25November2024v1) Hardened Safari configuration for macOS.</string>
+		<string>(11December2024v1) Hardened Safari configuration for macOS.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening (Extended) - Safari</string>
 		<key>PayloadIdentifier</key>
