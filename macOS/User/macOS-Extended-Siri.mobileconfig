@@ -464,7 +464,7 @@
 		<key>PayloadDescription</key>
 		<string>(11December2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening (Extended) - Siri</string>
+		<string>macOS Hardening - Extended w/ AI/Siri Support (User)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.extended.siri.user</string>
 		<key>PayloadOrganization</key>

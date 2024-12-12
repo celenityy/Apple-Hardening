@@ -1586,9 +1586,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(21November2024v1) macOS Hardening &amp; tweaks for 3rd party apps and services.</string>
+		<string>(11December2024v1) Hardening &amp; tweaks for 3rd party apps and services.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening - 3P</string>
+		<string>macOS Hardening - 3P (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.3p</string>
 		<key>PayloadOrganization</key>
@@ -1602,6 +1602,6 @@
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>
-		<integer>5</integer>
+		<integer>0</integer>
 	</dict>
 </plist>

@@ -32,9 +32,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Supplements your iOS Extended Hardening config.</string>
+		<string>(11December2024v1) Supplements your iOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
-		<string>iOS Hardening (Extended) - Shared</string>
+		<string>iOS Hardening - Extended: Shared (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.ios.extended.shared</string>
 		<key>PayloadOrganization</key>

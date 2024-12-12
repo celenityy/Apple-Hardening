@@ -80,11 +80,11 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Disables various apps from running on macOS, such as Tips, Feedback Assistant, Crash Reporter, etc. After installation, you will see  a pop-up on first boot after logging in with the message: "You don't have permission to use the application "seedusaged." Simply select 'OK' &amp; ignore this. seedusaged is part of Apple's Feedback Assistant (https://macosbin.com/bin/seedusaged) used for collecting &amp; reporting data.</string>
+		<string>(11December) Disables various apps from running on macOS, such as Tips, Feedback Assistant, Crash Reporter, etc. After installation, you will see  a pop-up on first boot after logging in with the message: "You don't have permission to use the application "seedusaged." Simply select 'OK' &amp; ignore this. seedusaged is part of Apple's Feedback Assistant (https://macosbin.com/bin/seedusaged) used for collecting &amp; reporting data.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening (Base) - Debloat</string>
+		<string>macOS Hardening - Base: Debloat (User)</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.celenity.osx.debloat</string>
+		<string>dev.celenity.osx.debloat.user</string>
 		<key>PayloadOrganization</key>
 		<string>celenity 💘</string>
 		<key>PayloadScope</key>

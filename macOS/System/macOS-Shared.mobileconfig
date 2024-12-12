@@ -1622,7 +1622,7 @@
 		<key>PayloadDescription</key>
 		<string>(11December2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening - Shared</string>
+		<string>macOS Hardening - Shared (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.shared</string>
 		<key>PayloadOrganization</key>

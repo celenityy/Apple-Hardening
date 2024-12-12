@@ -84,11 +84,11 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Kagi configuration for macOS.</string>
+		<string>(11December2024v1) Hardened Orion configuration.</string>
 		<key>PayloadDisplayName</key>
-		<string>Kagi</string>
+		<string>Orion Hardening (System)</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.celenity.osx.kagi</string>
+		<string>dev.celenity.osx.orion</string>
 		<key>PayloadOrganization</key>
 		<string>celenity 💘</string>
 		<key>PayloadScope</key>
@@ -100,6 +100,6 @@
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>
-		<integer>5</integer>
+		<integer>0</integer>
 	</dict>
 </plist>

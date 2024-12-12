@@ -667,9 +667,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12November2024v1) Firewall configuration for macOS.</string>
+		<string>(11December2024v1) Firewall configuration for macOS.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening (Base) - Firewall</string>
+		<string>macOS Hardening - Base: Firewall (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.firewall</string>
 		<key>PayloadOrganization</key>

@@ -505,7 +505,7 @@
 		<key>PayloadDescription</key>
 		<string>(11December2024v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
-		<string>iOS Hardening (Extended) - Siri</string>
+		<string>iOS Hardening - Extended w/ AI/Siri Support (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.ios.extended.siri</string>
 		<key>PayloadOrganization</key>

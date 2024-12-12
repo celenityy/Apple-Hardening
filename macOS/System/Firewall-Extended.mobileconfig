@@ -757,7 +757,7 @@
 		<key>PayloadDescription</key>
 		<string>(12November2024v1) Hardened Firewall configuration for macOS - may cause issues with iOS Device Backup (AMPDevicesAgent), iCloud, Home (homed), &amp; Find My Device/Location Sharing.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening (Extended) - Firewall</string>
+		<string>macOS Hardening - Extended: Firewall (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.firewall.extended</string>
 		<key>PayloadOrganization</key>

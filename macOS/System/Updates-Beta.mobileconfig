@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>AutomaticCheckEnabled</key>
-			<true/>
-			<key>AutomaticDownload</key>
-			<true/>
-			<key>AutomaticallyInstallAppUpdates</key>
-			<true/>
-			<key>AutomaticallyInstallMacOSUpdates</key>
-			<true/>
-			<key>ConfigDataInstall</key>
-			<true/>
-			<key>CriticalUpdateInstall</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>Software Update</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.SoftwareUpdate.E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
-			<key>PayloadType</key>
-			<string>com.apple.SoftwareUpdate</string>
-			<key>PayloadUUID</key>
-			<string>E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>SUDisableEVCheck</key>
-			<false/>
-			<key>ScheduleFrequency</key>
-			<integer>1</integer>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>restrict-software-update-require-admin-to-install</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>AutoUpdate</key>
-			<true/>
-			<key>AutoUpdateRestartRequired</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>com.apple.commerce</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.commerce.7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
-			<key>PayloadType</key>
-			<string>com.apple.commerce</string>
-			<key>PayloadUUID</key>
-			<string>7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>(06December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
-	<key>PayloadDisplayName</key>
-	<string>macOS Hardening - Updates (Beta)</string>
-	<key>PayloadIdentifier</key>
-	<string>dev.celenity.osx.beta</string>
-	<key>PayloadOrganization</key>
-	<string>celenity 💘</string>
-	<key>PayloadScope</key>
-	<string>System</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>256BE9BB-FED0-4B63-B40C-0CBE24BA9969</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-	<key>TargetDeviceType</key>
-	<integer>5</integer>
-</dict>
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AutomaticCheckEnabled</key>
+				<true/>
+				<key>AutomaticDownload</key>
+				<true/>
+				<key>AutomaticallyInstallAppUpdates</key>
+				<true/>
+				<key>AutomaticallyInstallMacOSUpdates</key>
+				<true/>
+				<key>ConfigDataInstall</key>
+				<true/>
+				<key>CriticalUpdateInstall</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Software Update</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SoftwareUpdate.E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
+				<key>PayloadType</key>
+				<string>com.apple.SoftwareUpdate</string>
+				<key>PayloadUUID</key>
+				<string>E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SUDisableEVCheck</key>
+				<false/>
+				<key>ScheduleFrequency</key>
+				<integer>1</integer>
+				<key>forceDelayedSoftwareUpdates</key>
+				<false/>
+				<key>restrict-software-update-require-admin-to-install</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>AutoUpdate</key>
+				<true/>
+				<key>AutoUpdateRestartRequired</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.commerce.7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
+				<key>PayloadType</key>
+				<string>com.apple.commerce</string>
+				<key>PayloadUUID</key>
+				<string>7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>(11December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+		<key>PayloadDisplayName</key>
+		<string>macOS Hardening - Updates w/ Apple Beta Support (System)</string>
+		<key>PayloadIdentifier</key>
+		<string>dev.celenity.osx.beta</string>
+		<key>PayloadOrganization</key>
+		<string>celenity 💘</string>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>256BE9BB-FED0-4B63-B40C-0CBE24BA9969</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>5</integer>
+	</dict>
 </plist>

@@ -546,7 +546,7 @@
 		<key>PayloadDescription</key>
 		<string>(11December2024v1) Hardened Safari configuration (Extended).</string>
 		<key>PayloadDisplayName</key>
-		<string>Safari Hardening - Extended</string>
+		<string>Safari Hardening - Extended (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.safari.extended</string>
 		<key>PayloadOrganization</key>

@@ -121,7 +121,7 @@
 			</dict>
 		</array>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening (Base) - Debloat (Extensions)</string>
+		<string>macOS Hardening - Base: Debloat Extensions (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.debloat-extensions</string>
 		<key>PayloadOrganization</key>
