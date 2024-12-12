@@ -98,6 +98,8 @@
 				</dict>
 				<key>PreloadTopHit</key>
 				<false/>
+				<key>PrivateBrowsingRequiresAuthentication</key>
+				<true/>
 				<key>PrivateSearchProviderShortName</key>
 				<string>DuckDuckGo</string>
 				<key>SafariGeolocationPermissionPolicy</key>

@@ -71,6 +71,8 @@
 				<integer>1</integer>
 				<key>PreloadTopHit</key>
 				<false/>
+				<key>PrivateBrowsingRequiresAuthentication</key>
+				<true/>
 				<key>SendDoNotTrackHTTPHeader</key>
 				<true/>
 				<key>ShowFullURLInSmartSearchField</key>
