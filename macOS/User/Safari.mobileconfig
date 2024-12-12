@@ -95,6 +95,8 @@
 				<false/>
 				<key>UseHTTPSOnly</key>
 				<true/>
+				<key>UserStyleSheetEnabled</key>
+				<true/>
 				<key>WarnAboutFraudulentWebsites</key>
 				<true/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
