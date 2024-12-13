@@ -161,9 +161,15 @@
 				<true/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
+				<key>WebKitPreferences.isFraudulentWebsiteWarningEnabled</key>
+				<true/>
+				<key>WebKitPreferences.javaEnabled</key>
+				<false/>
 				<key>WebKitPreferences.javaScriptCanOpenWindowsAutomatically</key>
 				<false/>
 				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
+				<false/>
+				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
@@ -379,9 +385,15 @@
 				<true/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
+				<key>WebKitPreferences.isFraudulentWebsiteWarningEnabled</key>
+				<true/>
+				<key>WebKitPreferences.javaEnabled</key>
+				<false/>
 				<key>WebKitPreferences.javaScriptCanOpenWindowsAutomatically</key>
 				<false/>
 				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
+				<false/>
+				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
@@ -452,7 +464,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Hardened Safari configuration.</string>
+		<string>(12December2024v1) Hardened Safari configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>
