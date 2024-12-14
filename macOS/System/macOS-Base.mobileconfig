@@ -565,23 +565,9 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Script Menu</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.scriptmenu.1FAF95FC-4F91-4A92-93D7-87EA36A972A7</string>
-				<key>PayloadType</key>
-				<string>com.apple.scriptmenu</string>
-				<key>PayloadUUID</key>
-				<string>1FAF95FC-4F91-4A92-93D7-87EA36A972A7</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>ScriptMenuEnabled</key>
-				<true/>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(13December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>

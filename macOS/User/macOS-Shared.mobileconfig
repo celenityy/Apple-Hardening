@@ -109,6 +109,20 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>PayloadDisplayName</key>
+				<string>Script Menu</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.scriptmenu.9D8D62F3-3EA2-4B62-9FC5-8FF9FBE245DA</string>
+				<key>PayloadType</key>
+				<string>com.apple.scriptmenu</string>
+				<key>PayloadUUID</key>
+				<string>9D8D62F3-3EA2-4B62-9FC5-8FF9FBE245DA</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ScriptMenuEnabled</key>
+				<true/>
+			</dict>
+			<dict>
 				<key>AutoSubmit</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -1532,7 +1546,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
+		<string>(13December2024v1) Supplements your macOS Hardening config, regardless of whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Shared (User)</string>
 		<key>PayloadIdentifier</key>
