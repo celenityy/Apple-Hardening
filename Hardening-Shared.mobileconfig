@@ -20,25 +20,9 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
-			<dict>
-				<key>AccessType</key>
-				<string>WIFI_ONLY</string>
-				<key>PayloadDisplayName</key>
-				<string>AirPlay Security</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.airplay.security.DB7F4610-30C5-4DD3-A164-03983E79CE6A</string>
-				<key>PayloadType</key>
-				<string>com.apple.airplay.security</string>
-				<key>PayloadUUID</key>
-				<string>DB7F4610-30C5-4DD3-A164-03983E79CE6A</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>SecurityType</key>
-				<string>PASSCODE_ALWAYS</string>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
+		<string>(13December2024v1) Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>Apple Hardening: Shared (System)</string>
 		<key>PayloadIdentifier</key>
