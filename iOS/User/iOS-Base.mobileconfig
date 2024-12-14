@@ -207,8 +207,6 @@
 				<true/>
 				<key>allowTimeMachineBackup</key>
 				<true/>
-				<key>allowTVProviderModification</key>
-				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
@@ -338,7 +336,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(13December2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>

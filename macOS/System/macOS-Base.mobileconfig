@@ -211,8 +211,6 @@
 				<true/>
 				<key>allowTimeMachineBackup</key>
 				<true/>
-				<key>allowTVProviderModification</key>
-				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
