@@ -119,6 +119,12 @@
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
 				<false/>
+				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
+				<true/>
+				<key>WebKitExperimentalBlobRegistryTopOriginPartitioningEnabled</key>
+				<true/>
+				<key>WebKitExperimentalFTPEnabled</key>
+				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
 				<true/>
 				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
@@ -138,6 +144,8 @@
 				<key>WebKitExperimentalReportingEnabled</key>
 				<false/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
+				<true/>
+				<key>WebKitExperimentalVerifyWindowOpenUserGestureFromUIProcess</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
@@ -171,8 +179,6 @@
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
-				<key>WebKitPreferences.pushAPIEnabled</key>
-				<true/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
@@ -341,6 +347,12 @@
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
 				<false/>
+				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
+				<true/>
+				<key>WebKitExperimentalBlobRegistryTopOriginPartitioningEnabled</key>
+				<true/>
+				<key>WebKitExperimentalFTPEnabled</key>
+				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
 				<true/>
 				<key>WebKitExperimentalIPAddressAndLocalhostMixedContentUpgradeTestingEnabled</key>
@@ -360,6 +372,8 @@
 				<key>WebKitExperimentalReportingEnabled</key>
 				<false/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
+				<true/>
+				<key>WebKitExperimentalVerifyWindowOpenUserGestureFromUIProcess</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
@@ -393,8 +407,6 @@
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
-				<key>WebKitPreferences.pushAPIEnabled</key>
-				<true/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
@@ -460,7 +472,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(13December2024v1) Hardened Safari configuration.</string>
+		<string>(16December2024v1) Hardened Safari configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>
