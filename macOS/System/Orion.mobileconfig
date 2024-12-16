@@ -9,6 +9,10 @@
 				<true/>
 				<key>AllowFirefoxWebExtensions</key>
 				<true/>
+				<key>AllowJavascriptFromAddressBar</key>
+				<false/>
+				<key>AllowJavascriptFromAppleEvents</key>
+				<false/>
 				<key>AllowPopups</key>
 				<string>blockAndNotify</string>
 				<key>AllowWebNotifications</key>
@@ -23,6 +27,43 @@
 				<false/>
 				<key>DefaultSearchEngine</key>
 				<string>Brave</string>
+				<key>DisableCrossOriginRestrictions</key>
+				<false/>
+				<key>Experimental Features</key>
+				<array>
+					<dict>
+						<key>Allow universal access from file: URLs</key>
+						<false/>
+						<key>Disable Full 3rd-Party Cookie Blocking (ITP)</key>
+						<false/>
+						<key>Disable Removal of Non-Cookie Data After 7 Days of No User Interaction (ITP)</key>
+						<false/>
+						<key>Enforce blob backed file access valid for web process</key>
+						<true/>
+						<key>FTP support enabled</key>
+						<false/>
+						<key>HTTPS-by-default (HTTPS-First)</key>
+						<true/>
+						<key>LinkPrefetch</key>
+						<false/>
+						<key>Lockdown Mode Safe Fonts</key>
+						<true/>
+						<key>Private Click Measurement Fraud Prevention</key>
+						<false/>
+						<key>Private Token usage by third party</key>
+						<false/>
+						<key>Reporting API</key>
+						<false/>
+						<key>Upgrade IP addresses and localhost in mixed content</key>
+						<true/>
+						<key>Upgrade upgradable mixed content</key>
+						<true/>
+						<key>Verify window.open user gesture</key>
+						<true/>
+						<key>WebGPU</key>
+						<false/>
+					</dict>
+				</array>
 				<key>HistorySuggestionsEnabled</key>
 				<false/>
 				<key>HomePageURL</key>
@@ -37,6 +78,8 @@
 				<false/>
 				<key>OpenBookmarksInNewTabs</key>
 				<true/>
+				<key>OpenSafeFileAfterDownload</key>
+				<false/>
 				<key>PasswordProvider</key>
 				<string>thirdParty</string>
 				<key>PayloadDisplayName</key>
@@ -75,6 +118,8 @@
 				<false/>
 				<key>TopHitsEnabled</key>
 				<false/>
+				<key>TrackingPreventionEnabled</key>
+				<true/>
 				<key>WebExtAutomaticUpdates</key>
 				<true/>
 				<key>"https://help.kagi.com/orion/index.htmlOrion User Guide104"</key>
@@ -84,7 +129,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Hardened Orion configuration.</string>
+		<string>(16December2024v1) Hardened Orion configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Orion Hardening (System)</string>
 		<key>PayloadIdentifier</key>
