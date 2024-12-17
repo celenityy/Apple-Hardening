@@ -58,8 +58,6 @@
 						<true/>
 						<key>Upgrade upgradable mixed content</key>
 						<true/>
-						<key>Verify window.open user gesture</key>
-						<true/>
 						<key>WebGPU</key>
 						<false/>
 					</dict>
@@ -129,7 +127,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(16December2024v1) Hardened Orion configuration.</string>
+		<string>(17December2024v1) Hardened Orion configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Orion Hardening (System)</string>
 		<key>PayloadIdentifier</key>

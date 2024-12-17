@@ -190,8 +190,6 @@
 				<false/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
-				<key>WebKitExperimentalVerifyWindowOpenUserGestureFromUIProcess</key>
-				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
 				<key>WebKitJavaEnabled</key>
@@ -465,8 +463,6 @@
 				<false/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
-				<key>WebKitExperimentalVerifyWindowOpenUserGestureFromUIProcess</key>
-				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
 				<key>WebKitJavaEnabled</key>
@@ -568,7 +564,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(16December2024v1) Hardened Safari configuration (Extended).</string>
+		<string>(17December2024v1) Hardened Safari configuration (Extended).</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Extended (System)</string>
 		<key>PayloadIdentifier</key>
