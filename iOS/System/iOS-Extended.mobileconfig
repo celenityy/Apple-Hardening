@@ -163,8 +163,6 @@
 				<true/>
 				<key>allowFindMyCar</key>
 				<false/>
-				<key>allowFindMyDevice</key>
-				<false/>
 				<key>allowFindMyFriends</key>
 				<false/>
 				<key>allowFindMyFriendsModification</key>
@@ -343,6 +341,87 @@
 				<false/>
 				<key>cloudBackupPasswordRequired</key>
 				<true/>
+				<key>blockedAppBundleIDs</key>
+				<array>
+					<string>com.apple.findmy</string>
+					<string>com.apple.iCloudDriveApp</string>
+					<string>com.apple.ap.adprivacyd</string>
+					<string>com.apple.amsengagementd</string>
+					<string>com.apple.CloudTelemetryService.xpc</string>
+					<string>com.apple.DiagnosticsReporter</string>
+					<string>com.apple.diagnostics_agent</string>
+					<string>com.apple.ap.promotedcontentd</string>
+					<string>com.apple.ap.SearchAds</string>
+					<string>com.apple.weatheranalytics</string>
+					<string>com.apple.AdPlatforms.AdPlatforms</string>
+					<string>com.apple.ap.AdPlatformsCommon</string>
+					<string>com.apple.AdPlatforms.AdPlatformsInternal</string>
+					<string>com.apple.siri.AIMLExperimentationAnalytics</string>
+					<string>com.apple.CrashReporter</string>
+					<string>com.apple.ReportSystemMemory</string>
+					<string>com.apple.AppleVNCServer </string>
+					<string>com.apple.askpermissiond</string>
+					<string>com.apple.bird</string>
+					<string>com.apple.cloudphotod</string>
+					<string>com.apple.sbd</string>
+					<string>com.apple.dprivacyd</string>
+					<string>com.apple.fairplayd</string>
+					<string>com.apple.familycircled</string>
+					<string>com.apple.Family-Settings.extension</string>
+					<string>com.apple.fb_collect</string>
+					<string>com.apple.feedbackd</string>
+					<string>com.apple.findmy.findmybeaconingd</string>
+					<string>com.apple.icloud.findmydeviced.findmydevice-user-agent</string>
+					<string>com.apple.icloud.findmydeviced</string>
+					<string>com.apple.findmy.findmylocateagent</string>
+					<string>com.apple.icloud.fmfd</string>
+					<string>com.apple.helpd</string>
+					<string>com.apple.init_featureflags</string>
+					<string>com.apple.appleseed.seedusaged</string>
+					<string>com.apple.appleseed.seedusaged.postinstall</string>
+					<string>com.apple.appleseed.fbahelperd</string>
+					<string>com.apple.feedbackd.centralized-feedback</string>
+					<string>com.apple.ap.adprivacyd.attribution</string>
+					<string>com.apple.ap.adprivacyd.opt-out</string>
+					<string>com.apple.ap.adprivacyd.idmanager</string>
+					<string>com.apple.ap.adservicesd.statusconditionservice</string>
+					<string>com.apple.aps.amsengagementd</string>
+					<string>com.apple.xpc.amsengagementd</string>
+					<string>com.apple.triald</string>
+					<string>com.apple.triald.cache-delete</string>
+					<string>com.apple.triald.internal</string>
+					<string>com.apple.triald.namespace-management</string>
+					<string>com.apple.triald.system</string>
+					<string>com.apple.aps.triald</string>
+					<string>com.apple.cloudphotod.daemon</string>
+					<string>com.apple.AssetCache.builtin</string>
+					<string>com.apple.AssetCacheLocatorService</string>
+					<string>com.apple.AssetCacheManagerService</string>
+					<string>com.apple.AssetCacheTetheratorService</string>
+					<string>com.apple.AssetCacheC.builtin</string>
+					<string>com.apple.icloud.searchpartyd</string>
+					<string>com.apple.fairplayd.xpc</string>
+					<string>com.apple.fairplaydeviceidentityd</string>
+					<string>com.apple.SubmitDiagInfo</string>
+					<string>com.apple.signpost.signpost_reporter</string>
+					<string>com.apple.rapportd</string>
+					<string>com.apple.analyticsd</string>
+					<string>com.apple.analyticsd.messagetracer</string>
+					<string>com.apple.audioanalyticsd</string>
+					<string>com.apple.ecosystemanalyticsd</string>
+					<string>com.apple.geoanalyticsd</string>
+					<string>com.apple.memoryanalyticsd</string>
+					<string>com.apple.wifianalyticsd</string>
+					<string>com.apple.wifianalyticsd.devicestore</string>
+					<string>com.apple.osanalytics.osanalyticshelper</string>
+					<string>com.apple.rtcreportingd</string>
+					<string>com.apple.bosreporter</string>
+					<string>com.apple.RemoteDesktop.PrivilegeProxy</string>
+					<string>com.apple.remotemanagementd</string>
+					<string>com.apple.remotemanagementd.store</string>
+					<string>com.apple.aps.remotemanagementd.http.apns-dev</string>
+					<string>com.apple.aps.remotemanagementd.http.apns-prod</string>
+				</array>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
