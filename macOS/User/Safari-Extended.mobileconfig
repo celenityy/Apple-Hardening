@@ -564,13 +564,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(17December2024v1) Hardened Safari configuration (Extended).</string>
+		<string>(24December2024v1) Hardened Safari configuration (Extended).</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Extended (User)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.safari.extended.user</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>

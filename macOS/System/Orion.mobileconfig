@@ -127,13 +127,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(17December2024v1) Hardened Orion configuration.</string>
+		<string>(24December2024v1) Hardened Orion configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Orion Hardening (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.orion</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>System</string>
 		<key>PayloadType</key>

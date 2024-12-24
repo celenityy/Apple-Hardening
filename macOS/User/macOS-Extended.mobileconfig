@@ -480,7 +480,7 @@
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.extended.user</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>

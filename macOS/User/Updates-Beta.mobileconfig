@@ -54,13 +54,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+		<string>(24December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates w/ Apple Beta Support (User)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.beta.user</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>

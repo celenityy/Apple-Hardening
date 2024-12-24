@@ -22,13 +22,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(13December2024v1) Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
+		<string>(24December2024v1) Supplements your Apple Hardening config, regardless of your platform and whether you chose Base or Extended.</string>
 		<key>PayloadDisplayName</key>
 		<string>Apple Hardening: Shared (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.shared</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>System</string>
 		<key>PayloadType</key>

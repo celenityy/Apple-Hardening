@@ -566,13 +566,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(24December2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Extended: Shared (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.extended.shared</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>System</string>
 		<key>PayloadType</key>

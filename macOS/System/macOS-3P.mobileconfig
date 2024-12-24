@@ -1586,13 +1586,13 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Hardening &amp; tweaks for 3rd party apps and services.</string>
+		<string>(24December2024v1) Hardening &amp; tweaks for 3rd party apps and services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - 3P (System)</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.osx.3p</string>
 		<key>PayloadOrganization</key>
-		<string>celenity 💘</string>
+		<string>💘</string>
 		<key>PayloadScope</key>
 		<string>System</string>
 		<key>PayloadType</key>
