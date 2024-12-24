@@ -321,8 +321,6 @@
 				<false/>
 				<key>allowUnpairedExternalBootToRecovery</key>
 				<false/>
-				<key>allowUntrustedTLSPrompt</key>
-				<false/>
 				<key>allowVideoConferencingRemoteControl</key>
 				<false/>
 				<key>allowVPNCreation</key>
@@ -476,7 +474,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(11December2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
+		<string>(24December2024v1) Extended hardening for macOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, Siri, Books, Apple TV, iMessage, &amp; FaceTime are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Extended (User)</string>
 		<key>PayloadIdentifier</key>

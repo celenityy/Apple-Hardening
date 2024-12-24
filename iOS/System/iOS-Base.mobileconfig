@@ -215,8 +215,6 @@
 				<true/>
 				<key>allowUninstalledAppNearMeSuggestions</key>
 				<false/>
-				<key>allowUntrustedTLSPrompt</key>
-				<false/>
 				<key>allowVideoConferencingRemoteControl</key>
 				<false/>
 				<key>allowVPNCreation</key>
@@ -334,7 +332,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(13December2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(24December2024v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>iOS Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>
