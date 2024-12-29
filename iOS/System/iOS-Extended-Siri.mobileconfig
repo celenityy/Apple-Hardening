@@ -157,6 +157,8 @@
 				<true/>
 				<key>allowFindMyCar</key>
 				<false/>
+				<key>allowFindMyDevice</key>
+				<false/>
 				<key>allowFindMyFriends</key>
 				<false/>
 				<key>allowFindMyFriendsModification</key>
