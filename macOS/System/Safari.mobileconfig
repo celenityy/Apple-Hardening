@@ -439,6 +439,22 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>AlwaysPromptForDownloadFolder</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Safari Technology Preview Developer</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.SafariTechnologyPreview.SandboxBroker.67F13D61-1F39-45F9-8A7F-C62D60773C34</string>
+				<key>PayloadType</key>
+				<string>com.apple.SafariTechnologyPreview.SandboxBroker</string>
+				<key>PayloadUUID</key>
+				<string>67F13D61-1F39-45F9-8A7F-C62D60773C34</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ShowDevelopMenu</key>
+				<true/>
+			</dict>
+			<dict>
 				<key>PayloadDisplayName</key>
 				<string>Safari Safe Browsing</string>
 				<key>PayloadIdentifier</key>
@@ -468,7 +484,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Hardened Safari configuration.</string>
+		<string>(30December2024v1) Hardened Safari configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>

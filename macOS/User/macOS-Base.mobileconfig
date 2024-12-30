@@ -556,8 +556,6 @@
 				<integer>10</integer>
 			</dict>
 			<dict>
-				<key>IPXDefaultEnhancedVisualSearchEnabled</key>
-				<false/>
 				<key>IPXDefaultViewFullHDR</key>
 				<true/>
 				<key>PayloadDisplayName</key>
