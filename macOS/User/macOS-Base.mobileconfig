@@ -571,7 +571,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(30December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(28December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>
