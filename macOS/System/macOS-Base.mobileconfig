@@ -556,6 +556,8 @@
 				<integer>10</integer>
 			</dict>
 			<dict>
+				<key>IPXDefaultEnhancedVisualSearchEnabled</key>
+				<false/>
 				<key>IPXDefaultViewFullHDR</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -571,7 +573,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(28December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(30December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>

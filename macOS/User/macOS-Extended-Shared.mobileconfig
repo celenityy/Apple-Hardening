@@ -535,6 +535,8 @@
 			<dict>
 				<key>FeaturedContentAllowed</key>
 				<false/>
+				<key>IPXDefaultEnhancedVisualSearchEnabled</key>
+				<false/>
 				<key>IPXDefaultViewFullHDR</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -566,7 +568,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Supplements your macOS Extended Hardening config.</string>
+		<string>(30December2024v1) Supplements your macOS Extended Hardening config.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Extended: Shared (User)</string>
 		<key>PayloadIdentifier</key>
