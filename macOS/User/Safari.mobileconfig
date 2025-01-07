@@ -143,6 +143,8 @@
 				<false/>
 				<key>WebKitExperimentalReportingEnabled</key>
 				<false/>
+				<key>WebKitExperimentalTrustedTypesEnabled</key>
+				<true/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
@@ -369,6 +371,8 @@
 				<false/>
 				<key>WebKitExperimentalReportingEnabled</key>
 				<false/>
+				<key>WebKitExperimentalTrustedTypesEnabled</key>
+				<true/>
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
@@ -484,7 +488,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(30December2024v1) Hardened Safari configuration.</string>
+		<string>(06January2025v1) Hardened Safari configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>
