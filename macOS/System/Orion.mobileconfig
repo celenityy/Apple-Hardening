@@ -54,6 +54,8 @@
 						<false/>
 						<key>Reporting API</key>
 						<false/>
+						<key>Trusted Types</key>
+						<true/>
 						<key>Upgrade IP addresses and localhost in mixed content</key>
 						<true/>
 						<key>Upgrade upgradable mixed content</key>
@@ -127,7 +129,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Hardened Orion configuration.</string>
+		<string>(06January2025v1) Hardened Orion configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Orion Hardening (System)</string>
 		<key>PayloadIdentifier</key>
