@@ -20,7 +20,11 @@
 				<string>4g.entel</string>
 				<string>4g.mycricket.com</string>
 				<string>4g.tele2.se</string>
+				<string>8twyju.wework-us.auth0.com.pivot.prod.auth0edge.com</string>
 				<string>a2bouygtel.com</string>
+				<string>aa.entertainment.viasat.com</string>
+				<string>aa.viasat.com</string>
+				<string>aafes.wifi.viasat.com</string>
 				<string>aainflight.com</string>
 				<string>abblamms.telia.se</string>
 				<string>abbla.telia.se</string>
@@ -31,6 +35,7 @@
 				<string>acwifi.com</string>
 				<string>ad.vodafone.co.uk</string>
 				<string>admin.cs4glte.com</string>
+				<string>airbornesecure.inflightinternet.com</string>
 				<string>airbox.home</string>
 				<string>aircanadawifi.com</string>
 				<string>airport</string>
@@ -47,16 +52,41 @@
 				<string>almadar.net</string>
 				<string>amt.aland.fi</string>
 				<string>amtrakconnect.com</string>
-				<string>amtrakwifi.com</string>
+				<string>ana-inflight-wifi.com</string>
 				<string>andglobal.softbank.ne.jp</string>
 				<string>andoworld.softbank.ne.jp</string>
+				<string>ap1.cloudguest.central.arubanetworks.com</string>
+				<string>ap1-elb.cloudguest.central.arubanetworks.com</string>
+				<string>apaceast.cloudguest.central.arubanetworks.com</string>
+				<string>apaceast-elb.cloudguest.central.arubanetworks.com</string>
+				<string>apacsouth.cloudguest.central.arubanetworks.com</string>
+				<string>apacsouth-elb.cloudguest.central.arubanetworks.com</string>
+				<string>api.airtime.geemedia.com</string>
 				<string>apn01.cwpanama.com.pa</string>
 				<string>apn02.cwpanama.com.pa</string>
 				<string>apn.fastweb.it</string>
 				<string>apnmms.movistar.com.uy</string>
 				<string>apnumt.movistar.com.uy</string>
+				<string>app.central.arubanetworks.com</string>
+				<string>app.central.arubanetworks.com.cn</string>
 				<string>app.movilnet.com.ve</string>
+				<string>app-apaceast.central.arubanetworks.com</string>
+				<string>app-apacsouth.central.arubanetworks.com</string>
+				<string>app-ca.central.arubanetworks.com</string>
+				<string>app-prod2.central.arubanetworks.com</string>
+				<string>app-yoda.arubathena.com</string>
+				<string>app1.central.arubanetworks.com</string>
+				<string>app1-ap.central.arubanetworks.com</string>
+				<string>app1-ap-h2.central.arubanetworks.com</string>
+				<string>app1-h2.central.arubanetworks.com</string>
+				<string>app2-ap.central.arubanetworks.com</string>
+				<string>app2-ap-ofc.central.arubanetworks.com</string>
+				<string>app2-eu.central.arubanetworks.com</string>
+				<string>app2-eu-ofc.central.arubanetworks.com</string>
+				<string>app2-ofc.central.arubanetworks.com</string>
 				<string>arcor.easybox</string>
+				<string>aruba.odyssys.net</string>
+				<string>asset-acms.anuvu.cloud</string>
 				<string>aster.internet</string>
 				<string>aster.mms</string>
 				<string>asusrouter.com</string>
@@ -64,6 +94,8 @@
 				<string>att.mvno</string>
 				<string>attwifi.apple.com</string>
 				<string>au.au-net.ne.jp</string>
+				<string>auth.hpe.com</string>
+				<string>awn.wifi.viasat.com</string>
 				<string>ba.amx</string>
 				<string>bahnhofab.tmhgprs</string>
 				<string>bahnhofab.tmhmms</string>
@@ -71,30 +103,44 @@
 				<string>bahnhoflda.tmhmms</string>
 				<string>bam.clarochile.cl</string>
 				<string>bam.entelpcs.cl</string>
+				<string>bap.aws.opennetworkexchange.net</string>
 				<string>bbnw.jp</string>
 				<string>bew.orange.co.ke</string>
 				<string>biglobe.jp</string>
 				<string>biz.immix.com</string>
 				<string>bmobile.ne.jp</string>
 				<string>brtspt.mmsmvno.com</string>
+				<string>bsas.wifi.viasat.com</string>
 				<string>bsnlmmsc.in</string>
 				<string>bthomehub.home</string>
 				<string>bthub.home</string>
 				<string>btmobile.bt.com</string>
 				<string>btwifi.com</string>
 				<string>bulsat.com</string>
+				<string>ca.cloudguest.central.arubanetworks.com</string>
+				<string>ca-elb.cloudguest.central.arubanetworks.com</string>
 				<string>captive.apple.com</string>
 				<string>captive.g.aaplimg.com</string>
+				<string>captive.o2wifi.co.uk</string>
+				<string>captive-2020.aio.cloudauth.net</string>
+				<string>captive-2022.aio.cloudauth.net</string>
 				<string>captive-cdn.origin-apple.com.akadns.net</string>
 				<string>captive-cidr.origin-apple.com.akadns.net</string>
+				<string>captivemgr.o2wifi.net.uk</string>
+				<string>carnivalwifi.com</string>
 				<string>carrefourdata.be</string>
 				<string>carrefourmms.be</string>
 				<string>cccomm.csky.us</string>
+				<string>cdnhotspot.azureedge.net</string>
+				<string>cdnhotspot.afd.azureedge.net</string>
+				<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 				<string>chatrisp.apn</string>
 				<string>chatrweb.apn</string>
 				<string>cinet.spcs</string>
 				<string>client-abc.adamuser.app</string>
 				<string>cloudmesh.net</string>
+				<string>cms.airtime.geemedia.com</string>
+				<string>cms-scdn.airtime.geemedia.com</string>
 				<string>comcast.rslr.vzwentp</string>
 				<string>conference.ims.singtel.com</string>
 				<string>conf-factory.1und1-mobilfunk.de</string>
@@ -103,14 +149,25 @@
 				<string>connect.box</string>
 				<string>connect.edge.ihg.com</string>
 				<string>connect.mobilinkworld.com</string>
+				<string>connect.viasat.com</string>
 				<string>connect.vivacell.am</string>
 				<string>connect-edge.ihg.com</string>
 				<string>console.gl-inet.com</string>
+				<string>cp-app.wifi.connected.xfinity.com</string>
+				<string>cp-app.wifi-dev.connected.xfinity.com</string>
+				<string>cp-app.wifi-stage.connected.xfinity.com</string>
+				<string>cp-app-east.wifi.connected.xfinity.com</string>
+				<string>cp-app-east.wifi-dev.connected.xfinity.com</string>
+				<string>cp-app-east.wifi-stage.connected.xfinity.com</string>
+				<string>cp-webapp.wifi.connected.xfinity.com</string>
+				<string>cp-webapp.wifi-dev.connected.xfinity.com</string>
+				<string>cp-webapp.wifi-stage.connected.xfinity.com</string>
 				<string>crl.t-mobile.com</string>
 				<string>ct.tmh-gprs.se</string>
 				<string>ct.tmh-mms.se</string>
 				<string>cust.blueprintrf.com</string>
 				<string>cvwmms.com</string>
+				<string>d5bx49i2dab8r.cloudfront.net</string>
 				<string>data1.eronet.ba</string>
 				<string>data2.eronet.ba</string>
 				<string>data3.eronet.ba</string>
@@ -144,9 +201,25 @@
 				<string>datos.personal.com</string>
 				<string>dav.orange.fr</string>
 				<string>deltawifi.com</string>
+				<string>device.arubanetworks.com</string>
+				<string>device.central.arubanetworks.com.cn</string>
+				<string>device-apaceast.central.arubanetworks.com</string>
+				<string>device-apaceast-h2.central.arubanetworks.com</string>
+				<string>device-apacsouth.central.arubanetworks.com</string>
+				<string>device-apacsouth-h2.central.arubanetworks.com</string>
+				<string>device-ca.central.arubanetworks.com</string>
+				<string>device-ca-h2.central.arubanetworks.com</string>
+				<string>device-eu.central.arubanetworks.com</string>
+				<string>device-eu-h2.central.arubanetworks.com</string>
+				<string>device-h2.central.arubanetworks.com.cn</string>
+				<string>device-prod2.central.arubanetworks.com</string>
+				<string>device-prod2-h2.central.arubanetworks.com</string>
+				<string>device-yoda2.arubadev.cloud.hpe.com</string>
+				<string>devices-v2.arubanetworks.com</string>
 				<string>dgc.tmhgprs</string>
 				<string>dgc.tmhmms</string>
 				<string>dishy.starlink.com</string>
+				<string>directaccess.viasat.com</string>
 				<string>djezzy.internet</string>
 				<string>djezzy.mms</string>
 				<string>dlrguest-captive.disney.com</string>
@@ -173,6 +246,7 @@
 				<string>epdg.mobily.com.sa</string>
 				<string>epdg.telco.telenet-ops.be</string>
 				<string>epdg.three.ie</string>
+				<string>esaconnect.extendedstayamerica.com</string>
 				<string>etc.com</string>
 				<string>etihadwi-fly.com</string>
 				<string>etisalat.af.mms</string>
@@ -180,6 +254,8 @@
 				<string>etisalat.af.web</string>
 				<string>etxr</string>
 				<string>euskaltelmms.euskaltel.mobi</string>
+				<string>euw1.cloudguest.central.arubanetworks.com</string>
+				<string>euw1-elb.cloudguest.central.arubanetworks.com</string>
 				<string>event.proximus.be</string>
 				<string>event.swisscom.ch</string>
 				<string>event.vodafone.de</string>
@@ -187,10 +263,10 @@
 				<string>factory.ims.movistar.mx</string>
 				<string>fast.metropcs.com</string>
 				<string>fast.t-mobile.com</string>
+				<string>fedsso.yum.com</string>
 				<string>fi.omv.es</string>
 				<string>fire.walla</string>
 				<string>fixwifi.it</string>
-				<string>fleetconnect.ie</string>
 				<string>flyfi.com</string>
 				<string>fmc.stc.com.sa</string>
 				<string>foma01.wi-gate.net</string>
@@ -207,6 +283,7 @@
 				<string>giffgaff.com</string>
 				<string>giga.cube</string>
 				<string>gint.b-online.gr</string>
+				<string>gogoinair.com</string>
 				<string>gogoinflight.com</string>
 				<string>good.call</string>
 				<string>goto.virginmobile.uk</string>
@@ -240,19 +317,24 @@
 				<string>gprsweb.digitel.ve</string>
 				<string>gsmt.mmsmvno.com</string>
 				<string>guestinternet.com</string>
+				<string>guestinternet.com.s3-website-us-east-1.amazonaws.com</string>
 				<string>halebop.telia.se</string>
 				<string>hi.link</string>
 				<string>hiltonwifi.com</string>
 				<string>hitronhub.home</string>
 				<string>home.beeline.ru</string>
 				<string>homerouter.cpe</string>
+				<string>hotspotportals.com</string>
 				<string>http.globe.com.ph</string>
+				<string>httpforever.com</string>
 				<string>huaweimobilewifi.com</string>
 				<string>i.euskaltel.mobi</string>
 				<string>i2.iwireless.com</string>
 				<string>ibc.sasktel.com</string>
 				<string>ibox.tim.it</string>
 				<string>iceportal.de</string>
+				<string>identity-login-page-prod-login-page-prod.hydra.prod.wwrk.co</string>
+				<string>idp.wework.com</string>
 				<string>iesmms.porta.com.ec</string>
 				<string>iesporta.com.ec</string>
 				<string>igprs.claro.com.ar</string>
@@ -278,8 +360,12 @@
 				<string>inet-gprs.mtel.bg</string>
 				<string>inet.tdc.fi</string>
 				<string>inet.vivacell.am</string>
+				<string>inflight.pacwisp.net</string>
 				<string>inflight-wifi.com</string>
-				<string>inflightinternet.com</string>
+				<string>internal.central.arubanetworks.com</string>
+				<string>internal2.central.arubanetworks.com</string>
+				<string>internal2-public-device-nc-nlb-b71ba3c951b09682.elb.us-west-2.amazonaws.com</string>
+				<string>internal2-public-device-nlb-2e2273d4267c0682.elb.us-west-2.amazonaws.com</string>
 				<string>internet1.btcbahamas.com</string>
 				<string>internet1.meditel.ma</string>
 				<string>internet3g.unite.md</string>
@@ -417,6 +503,7 @@
 				<string>internet.westlink</string>
 				<string>internet.wind</string>
 				<string>internet.yota</string>
+				<string>internetupgrade.marriott.com</string>
 				<string>int.movilnet.com.ve</string>
 				<string>int.socialmas</string>
 				<string>iorange.sk</string>
@@ -436,14 +523,30 @@
 				<string>jo.zain.com</string>
 				<string>kabel.box</string>
 				<string>kgtnet.tw</string>
+				<string>kong-gtw-portal-apse2prod5-lb-1386339370.ap-southeast-2.elb.amazonaws.com</string>
+				<string>kong-gtw-portal-eu-lb-1104785228.eu-central-1.elb.amazonaws.com</string>
+				<string>kong-gtw-portal-mec1prod6-lb-2104849938.me-central-1.elb.amazonaws.com</string>
+				<string>kong-gtw-portal-production-lb-686216184.us-west-1.elb.amazonaws.com</string>
+				<string>kong-gtw-portal-use1prod2-lb-291057632.us-east-1.elb.amazonaws.com</string>
 				<string>kpn4g.nl</string>
+				<string>krisworld.singaporeair.com</string>
+				<string>kw.sq.com</string>
+				<string>landing.sbb.ch</string>
 				<string>live.pre.vodafone.com</string>
 				<string>live.vodafone.com</string>
 				<string>live.vodafone.com.fj</string>
 				<string>localbattle.net</string>
 				<string>localhost.direct</string>
 				<string>location.nexteldata.com.mx</string>
+				<string>loggedin.wifigem.it</string>
+				<string>login.amtrakwifi.com</string>
 				<string>login.cloud5.com</string>
+				<string>login.cloudi-fi.net</string>
+				<string>login.innflux.com</string>
+				<string>login.wifigem.com</string>
+				<string>login.wifionice.de</string>
+				<string>login.windstream.com</string>
+				<string>login-federated.windstream.com</string>
 				<string>loopmobile.in</string>
 				<string>lowi.omv.es</string>
 				<string>lowi.private.omv.es</string>
@@ -462,15 +565,17 @@
 				<string>lte.sktelecom.com</string>
 				<string>lte.vodacom.za</string>
 				<string>luckymobile.ca</string>
+				<string>lufthansa-flynet.com</string>
 				<string>lyca.mmsmvno.com</string>
 				<string>maingate.telia.se</string>
+				<string>managedwifi.xfinity.com</string>
 				<string>manxpronto.net</string>
 				<string>marriottwifi.com</string>
 				<string>mass.at</string>
-				<string>massportwifi.com</string>
 				<string>mclaropr.com</string>
 				<string>mda.nifty.com</string>
 				<string>mdb.nifty.com</string>
+				<string>medallionclass.com</string>
 				<string>media.ng</string>
 				<string>media.videotron.com</string>
 				<string>message.coopvoce.it</string>
@@ -1102,8 +1207,10 @@
 				<string>movistar.es</string>
 				<string>mp.mobiel.kpn</string>
 				<string>mpr2.bizho.net</string>
+				<string>mscwifi.com</string>
 				<string>msftguest-virtual.partners.extranet.microsoft.com</string>
 				<string>msg.t-mobile.com</string>
+				<string>mt1.datavalet.io</string>
 				<string>mta.dataonair.net</string>
 				<string>mtnl.net</string>
 				<string>mtpcs.csky.us</string>
@@ -1121,6 +1228,17 @@
 				<string>mysyriatel.com</string>
 				<string>mywifi.attwifi.com</string>
 				<string>mywifiext.net</string>
+				<string>n.f6.ispsn</string>
+				<string>n.ispsn</string>
+				<string>n.r5.ispsn</string>
+				<string>n.t8.ispsn</string>
+				<string>n.vmu.ispsn</string>
+				<string>n.w1.ispsn</string>
+				<string>nacportal.massportwifi.com</string>
+				<string>nae1.cloudguest.central.arubanetworks.com</string>
+				<string>nae1-elb.cloudguest.central.arubanetworks.com</string>
+				<string>naw2.cloudguest.central.arubanetworks.com</string>
+				<string>naw2-elb.cloudguest.central.arubanetworks.com</string>
 				<string>natel.ch</string>
 				<string>nemont.mobi</string>
 				<string>nep.data</string>
@@ -1140,22 +1258,24 @@
 				<string>network-auth.com</string>
 				<string>nextel.pe</string>
 				<string>neverssl.com</string>
-				<string>n.f6.ispsn</string>
-				<string>n.ispsn</string>
 				<string>nossl.com</string>
-				<string>n.r5.ispsn</string>
-				<string>n.t8.ispsn</string>
 				<string>ntt.setup</string>
-				<string>n.vmu.ispsn</string>
-				<string>n.w1.ispsn</string>
 				<string>o2wifi.co.uk</string>
 				<string>o2wifi.net.uk</string>
 				<string>oap7.sprintpcs.com</string>
+				<string>ofc.central.arubanetworks.com.cn</string>
+				<string>ofc-apaceast.central.arubanetworks.com</string>
+				<string>ofc-apacsouth.central.arubanetworks.com</string>
+				<string>ofc-ca.central.arubanetworks.com</string>
+				<string>ofc-prod2.central.arubanetworks.com</string>
+				<string>ofc-yoda2.arubadev.cloud.hpe.com</string>
 				<string>office.vodafone.nl</string>
 				<string>ofnew.fr</string>
 				<string>omammsc.uplus.co.kr</string>
 				<string>omauplus.co.kr</string>
 				<string>omms.nate.com</string>
+				<string>onboard.sbb.ch</string>
+				<string>onboardicafe.com</string>
 				<string>online.telia.se</string>
 				<string>open.mopera.net</string>
 				<string>open.softbank.ne.jp</string>
@@ -1174,6 +1294,8 @@
 				<string>ota.inland.com</string>
 				<string>ovivomobile.com</string>
 				<string>ovivomvno.com</string>
+				<string>pay.viasat.com</string>
+				<string>pay.viasat.com.00d70000000k0rweak.live.siteforce.com</string>
 				<string>payandgo.o2.co.uk</string>
 				<string>payg.mobilebysainsburys.co.uk</string>
 				<string>payg.talkmobile.co.uk</string>
@@ -1192,13 +1314,33 @@
 				<string>plus.acs.jp</string>
 				<string>plus.softbank</string>
 				<string>plus.velcom.by</string>
+				<string>portal.ac2.mist.com</string>
+				<string>portal.ac5.mist.com</string>
+				<string>portal.ac6.mist.com</string>
+				<string>portal.arubainstanton.com</string>
+				<string>portal.central.arubanetworks.com.cn</string>
+				<string>portal.eu.mist.com</string>
+				<string>portal.gc1.mist.com</string>
+				<string>portal.gc2.mist.com</string>
+				<string>portal.gc3.mist.com</string>
 				<string>portal.live.virginwifi.com</string>
+				<string>portal.massportwifi.com</string>
 				<string>portal.mist.com</string>
 				<string>portal.moovmanage.com</string>
+				<string>portal-apac.central.arubanetworks.com</string>
+				<string>portal-apaceast.central.arubanetworks.com</string>
+				<string>portal-apacsouth.central.arubanetworks.com</string>
+				<string>portal-ca.central.arubanetworks.com</string>
+				<string>portal-eu.central.arubanetworks.com</string>
+				<string>portal-eucentral3.central.arubanetworks.com</string>
+				<string>portal-prod2.central.arubanetworks.com</string>
+				<string>portal-prodf1.acf.aruba-central.com</string>
+				<string>portal-uswest4.central.arubanetworks.com</string>
 				<string>portalmmm.nl</string>
 				<string>ppmms1.btcbahamas.com</string>
 				<string>ppnet.apuapcs.ag</string>
 				<string>pp.vodafone.co.uk</string>
+				<string>pqm.arubanetworks.com</string>
 				<string>prepago.ancel</string>
 				<string>prepay.tesco-mobile.com</string>
 				<string>primgw.vowifi2.spcsdns.net</string>
@@ -1211,6 +1353,9 @@
 				<string>q-mms.myq.gr</string>
 				<string>qa-connect-edge.ihg.com</string>
 				<string>qxwz.com</string>
+				<string>rcs.arubathena.com</string>
+				<string>rcs-m.arubathena.com</string>
+				<string>rcs-ng-yoda2.arubadev.cloud.hpe.com</string>
 				<string>real.globe.com.ph</string>
 				<string>register.onboard.eurostar.com</string>
 				<string>relay.mms.telering.at</string>
@@ -1218,14 +1363,21 @@
 				<string>rmobile.jp</string>
 				<string>roaming.sktelecom.com</string>
 				<string>rogers-core-appl1.apn</string>
+				<string>rougewifi.com</string>
 				<string>router.asus.com</string>
 				<string>routerlogin.com</string>
 				<string>routerlogin.net</string>
+				<string>rsc.att.com</string>
+				<string>rsc.wayport.net</string>
 				<string>samsung.router</string>
-				<string>sbux.co</string>
+				<string>sbux-j3.datavalet.io</string>
+				<string>sbux-portal.globalreachtech.com</string>
+				<string>sbux-portal.odyssys.net</string>
 				<string>scomo.tmh-gprs.se</string>
 				<string>scomo.tmh-mms.se</string>
+				<string>secure.11os.com</string>
 				<string>secure.datavalet.io</string>
+				<string>secure.wayport.net</string>
 				<string>securelogin.arubanetworks.com</string>
 				<string>service.thecloud.net</string>
 				<string>services.glocalnet.se</string>
@@ -1249,7 +1401,13 @@
 				<string>speedport.ip</string>
 				<string>sprboost.mmsmvno.com</string>
 				<string>sp.telus.com</string>
+				<string>sponsoredaccess.viasat.com</string>
+				<string>sso.app.arubanetworks.com</string>
+				<string>sso.arubanetworks.com</string>
+				<string>sso.wendys.com</string>
+				<string>starbucks-east.datavalet.io</string>
 				<string>starhubgee.com.sg</string>
+				<string>stay.marriottbonvoy.com</string>
 				<string>steamloopback.host</string>
 				<string>symacom.fr</string>
 				<string>tata.docomo.dive.in</string>
@@ -1303,10 +1461,14 @@
 				<string>um.three.com.hk</string>
 				<string>unico.tim.it</string>
 				<string>union.mms.com</string>
+				<string>unitedprivatescreening.com</string>
 				<string>unitedwifi.com</string>
+				<string>universal-orlando.ampthink.com</string>
 				<string>uno.au-net.ne.jp</string>
+				<string>upt.wifi.viasat.com</string>
 				<string>uqmobile.jp</string>
 				<string>usccims.com</string>
+				<string>uucp.wifi.viasat.com</string>
 				<string>uvm.mmsmvno.com</string>
 				<string>uwap.orange.co.il</string>
 				<string>vas.vodafone.pt</string>
@@ -1315,7 +1477,6 @@
 				<string>ventelo.telia.se</string>
 				<string>vfinternet.au</string>
 				<string>vfinternet.fj</string>
-				<string>viasat.com</string>
 				<string>vipmobile.mms</string>
 				<string>vipoperator.mms</string>
 				<string>virginmms.fr</string>
@@ -1419,7 +1580,7 @@
 				<string>wap.vodafone.com.eg</string>
 				<string>wap.vodafone.co.uk</string>
 				<string>wap.vodafone.pt</string>
-				<string>wayport.net</string>
+				<string>we.windstream.com</string>
 				<string>web1.velcom.by</string>
 				<string>web2.velcom.by</string>
 				<string>web3.velcom.by</string>
@@ -1466,29 +1627,45 @@
 				<string>web.vodafone.de</string>
 				<string>web.waridtel.co.ug</string>
 				<string>weconnect.wendys.com</string>
+				<string>wework-prod.wework-us.auth0.com</string>
+				<string>wework-prod-cd-ovrgwrc52v4ogfdk.edge.wework-us.auth0.com</string>
 				<string>wholesale.mmsmvno.com</string>
 				<string>wifi.airasia.com</string>
+				<string>wifi.bahn.de</string>
 				<string>wifi.cathaypacific.com</string>
 				<string>wifi.connected.xfinity.com</string>
 				<string>wifi.delta.com</string>
 				<string>wifi.esa.com</string>
+				<string>wifi.inflightinternet.com</string>
+				<string>wifi.kfc.com</string>
 				<string>wifi.panerabread.com</string>
+				<string>wifi.singaporeair.com</string>
 				<string>wifi.sncf</string>
 				<string>wifi.starbucks.com</string>
 				<string>wifi.tgv-lyria.com</string>
 				<string>wifi.tgvlyria.com</string>
 				<string>wifi.united.com</string>
+				<string>wifi.united.com.edgekey.net</string>
 				<string>wifi.we.co</string>
-				<string>wifi-keys.berkeley.edu</string>
+				<string>wifi.xfinity.com</string>
 				<string>wifi-viarail.ca</string>
 				<string>wifi1.kfc.com</string>
-				<string>wifigem.com</string>
+				<string>wifi1.viasat.com</string>
+				<string>wifi2.kfc.com</string>
+				<string>wifihotspot.io</string>
+				<string>wifilauncher.com</string>
+				<string>wifilauncher.com.s3-website.us-east-1.amazonaws.com</string>
+				<string>wifilrn-ch2-1p.xfinity.com</string>
+				<string>wifionboard.com</string>
 				<string>wind.it</string>
 				<string>wireless.dish.com</string>
 				<string>wirelessfour.mmsmvno.com</string>
 				<string>wirelessportal.americanexpress.com</string>
+				<string>wirelessportal.americanexpress.com.akadns.net</string>
+				<string>wirelessportal2.americanexpress.com.akadns.net</string>
 				<string>wisp.mobi.eastlink.ca</string>
 				<string>wlan.three.com.hk</string>
+				<string>wlb1-1579773356.us-east-1.elb.amazonaws.com</string>
 				<string>wmgmms.telia.se</string>
 				<string>wo.vzwwo.com</string>
 				<string>wroaming.lguplus.co.kr</string>
@@ -1511,10 +1688,15 @@
 				<string>www.ufonemms.com</string>
 				<string>www.xlgprs.net</string>
 				<string>www.xlmms.net</string>
+				<string>www-static.wework.com</string>
 				<string>xi01.wi-gate.net</string>
 				<string>yellopix.men.co.ug</string>
 				<string>yellopix.mtn.co.ug</string>
 				<string>yoda-cgqa.arubathena.com</string>
+				<string>yoda-cgqa-elb.arubathena.com</string>
+				<string>yoda2-ofc-nlb-f4f923213a2189c7.elb.us-west-2.amazonaws.com</string>
+				<string>yoda2-public-device-nlb-8343995ce4714f6f.elb.us-west-2.amazonaws.com</string>
+				<string>yoda2-rcs-nlb-0c9df3882f3f7416.elb.us-west-2.amazonaws.com</string>
 				<string>zap.vivo.com.br</string>
 				<string>ziggo.dataxs.mobi</string>
 				<string>rsp.truphone.com</string>
