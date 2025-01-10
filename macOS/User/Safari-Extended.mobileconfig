@@ -270,6 +270,8 @@
 				<false/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
+				<key>WebKitPreferences.sKAttributionEnabled</key>
+				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
 				<integer>1</integer>
 				<key>WebKitPreferences.universalAccessFromFileURLsAllowed</key>
@@ -280,6 +282,8 @@
 				<false/>
 				<key>WebKitPreferences.webSecurityEnabled</key>
 				<true/>
+				<key>WebKitSKAttributionEnabled</key>
+				<false/>
 				<key>WebKitStorageBlockingPolicy</key>
 				<integer>1</integer>
 				<key>WebKitUsesPageCachePreferenceKey</key>
@@ -589,6 +593,8 @@
 				<false/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
+				<key>WebKitPreferences.sKAttributionEnabled</key>
+				<false/>
 				<key>WebKitPreferences.storageBlockingPolicy</key>
 				<integer>1</integer>
 				<key>WebKitPreferences.universalAccessFromFileURLsAllowed</key>
@@ -599,6 +605,8 @@
 				<false/>
 				<key>WebKitPreferences.webSecurityEnabled</key>
 				<true/>
+				<key>WebKitSKAttributionEnabled</key>
+				<false/>
 				<key>WebKitStorageBlockingPolicy</key>
 				<integer>1</integer>
 				<key>WebKitUsesPageCachePreferenceKey</key>
