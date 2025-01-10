@@ -185,6 +185,8 @@
 				<false/>
 				<key>WebKitLocalFileContentSniffingEnabledPreferenceKey</key>
 				<false/>
+				<key>WebKitMathMLEnabled</key>
+				<false/>
 				<key>WebKitPluginsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.allowFileAccessFromFileURLs</key>
@@ -452,6 +454,8 @@
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
 				<false/>
 				<key>WebKitLocalFileContentSniffingEnabledPreferenceKey</key>
+				<false/>
+				<key>WebKitMathMLEnabled</key>
 				<false/>
 				<key>WebKitPluginsEnabled</key>
 				<false/>
