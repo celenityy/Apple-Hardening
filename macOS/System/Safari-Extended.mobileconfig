@@ -182,6 +182,8 @@
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
 				<false/>
+				<key>WebKitEncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>WebKitEnumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
@@ -234,6 +236,8 @@
 				<false/>
 				<key>WebKitPreferences.developerExtrasEnabled</key>
 				<true/>
+				<key>WebKitPreferences.encryptedMediaAPIEnabled</key>
+				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
@@ -485,6 +489,8 @@
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
 				<false/>
+				<key>WebKitEncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>WebKitEnumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
@@ -537,6 +543,8 @@
 				<false/>
 				<key>WebKitPreferences.developerExtrasEnabled</key>
 				<true/>
+				<key>WebKitPreferences.encryptedMediaAPIEnabled</key>
+				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
