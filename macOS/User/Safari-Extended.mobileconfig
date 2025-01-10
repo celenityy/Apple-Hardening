@@ -220,6 +220,8 @@
 				<false/>
 				<key>WebKitExtensibleSSOEnabled</key>
 				<false/>
+				<key>WebKitHyperlinkAuditingEnabled</key>
+				<false/>
 				<key>WebKitJavaEnabled</key>
 				<false/>
 				<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
@@ -241,6 +243,8 @@
 				<key>WebKitPreferences.encryptedMediaAPIEnabled</key>
 				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
+				<key>WebKitPreferences.hyperlinkAuditingEnabled</key>
 				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
@@ -529,6 +533,8 @@
 				<false/>
 				<key>WebKitExtensibleSSOEnabled</key>
 				<false/>
+				<key>WebKitHyperlinkAuditingEnabled</key>
+				<false/>
 				<key>WebKitJavaEnabled</key>
 				<false/>
 				<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
@@ -550,6 +556,8 @@
 				<key>WebKitPreferences.encryptedMediaAPIEnabled</key>
 				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
+				<key>WebKitPreferences.hyperlinkAuditingEnabled</key>
 				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
