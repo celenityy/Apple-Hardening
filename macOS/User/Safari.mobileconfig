@@ -217,6 +217,8 @@
 				<false/>
 				<key>WebKitPreferences.localFileContentSniffingEnabled</key>
 				<false/>
+				<key>WebKitPreferences.mathMLEnabled</key>
+				<false/>
 				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
@@ -486,6 +488,8 @@
 				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
 				<false/>
 				<key>WebKitPreferences.localFileContentSniffingEnabled</key>
+				<false/>
+				<key>WebKitPreferences.mathMLEnabled</key>
 				<false/>
 				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
