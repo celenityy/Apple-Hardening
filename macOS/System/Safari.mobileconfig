@@ -199,6 +199,8 @@
 				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
+				<key>WebKitPreferences.extensibleSSOEnabled</key>
+				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
 				<key>WebKitPreferences.isFraudulentWebsiteWarningEnabled</key>
@@ -462,6 +464,8 @@
 				<key>WebKitPreferences.encryptedMediaAPIEnabled</key>
 				<false/>
 				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
+				<key>WebKitPreferences.extensibleSSOEnabled</key>
 				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
