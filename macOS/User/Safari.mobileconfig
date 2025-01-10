@@ -173,6 +173,8 @@
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
 				<false/>
+				<key>WebKitExtensibleSSOEnabled</key>
+				<false/>
 				<key>WebKitJavaEnabled</key>
 				<false/>
 				<key>WebKitJavaScriptCanOpenWindowsAutomatically</key>
@@ -432,6 +434,8 @@
 				<key>WebKitExperimentalUpgradeMixedContentEnabled</key>
 				<true/>
 				<key>WebKitExperimentalWebGPUEnabled</key>
+				<false/>
+				<key>WebKitExtensibleSSOEnabled</key>
 				<false/>
 				<key>WebKitJavaEnabled</key>
 				<false/>
