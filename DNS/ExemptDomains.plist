@@ -136,6 +136,7 @@
 				<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 				<string>chatrisp.apn</string>
 				<string>chatrweb.apn</string>
+				<string>checkout.aa.com</string>
 				<string>cinet.spcs</string>
 				<string>client-abc.adamuser.app</string>
 				<string>cloudmesh.net</string>
@@ -540,16 +541,20 @@
 				<string>location.nexteldata.com.mx</string>
 				<string>loggedin.wifigem.it</string>
 				<string>login.amtrakwifi.com</string>
+				<string>login.attwifi.com</string>
 				<string>login.cloud5.com</string>
 				<string>login.cloudi-fi.net</string>
 				<string>login.innflux.com</string>
 				<string>login.wifigem.com</string>
 				<string>login.wifionice.de</string>
 				<string>login.windstream.com</string>
+				<string>login-awe-cluster.attwifi.com</string>
 				<string>login-federated.windstream.com</string>
 				<string>loopmobile.in</string>
+				<string>lounge.aa.com</string>
 				<string>lowi.omv.es</string>
 				<string>lowi.private.omv.es</string>
+				<string>lpv.attwifi.com</string>
 				<string>lsmmsc.xtra.co.nz</string>
 				<string>lsxtra.co.nz</string>
 				<string>lte.claropr.com</string>
@@ -1378,6 +1383,7 @@
 				<string>secure.11os.com</string>
 				<string>secure.datavalet.io</string>
 				<string>secure.wayport.net</string>
+				<string>secure-login.attwifi.com</string>
 				<string>securelogin.arubanetworks.com</string>
 				<string>service.thecloud.net</string>
 				<string>services.glocalnet.se</string>
