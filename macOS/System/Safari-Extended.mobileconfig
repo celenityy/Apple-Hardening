@@ -77,9 +77,23 @@
 				<true/>
 				<key>InstallExtensionUpdatesAutomatically</key>
 				<true/>
+				<key>InternalDebugEnumeratingVisibleNetworkInterfacesEnabled</key>
+				<false/>
+				<key>InternalDebugICECandidateFilteringEnabled</key>
+				<true/>
 				<key>InternalDebugIsSameSiteStrictEnforcementEnabled</key>
 				<true/>
+				<key>InternalDebugLinkSanitizerEnabled</key>
+				<true/>
+				<key>InternalDebugLocalFileContentSniffingEnabled</key>
+				<false/>
+				<key>InternalDebugPreferSandboxedMediaParsing</key>
+				<true/>
+				<key>InternalDebugSecureContextChecksEnabled</key>
+				<true/>
 				<key>InternalDebugSiteIsolationEnabled</key>
+				<true/>
+				<key>InternalDebugUpgradeKnownHostsToHTTPSEnabled</key>
 				<true/>
 				<key>LocalFileRestrictionsEnabled</key>
 				<true/>
@@ -146,12 +160,16 @@
 				<true/>
 				<key>UserStyleSheetEnabled</key>
 				<true/>
+				<key>WBSDisableTrial</key>
+				<true/>
 				<key>WBSEnableCloudSettingsSync</key>
 				<false/>
 				<key>WBSLastPrivateSearchEngineStringExplicitlyChosenByUserKey</key>
 				<string>com.duckduckgo</string>
 				<key>WBSOfflineSearchSuggestionsModelGoogleWasDefaultSearchEngineKey</key>
 				<false/>
+				<key>WBSTranslationDebugAlwaysShowConsentAlertSettingsKey</key>
+				<true/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
 				<false/>
 				<key>WarnAboutFraudulentWebsites</key>
@@ -163,6 +181,8 @@
 				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
+				<false/>
+				<key>WebKitEnumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
 				<true/>
@@ -200,6 +220,8 @@
 				<false/>
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
 				<false/>
+				<key>WebKitLocalFileContentSniffingEnabledPreferenceKey</key>
+				<false/>
 				<key>WebKitPluginsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.allowFileAccessFromFileURLs</key>
@@ -210,6 +232,8 @@
 				<false/>
 				<key>WebKitPreferences.developerExtrasEnabled</key>
 				<true/>
+				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
 				<key>WebKitPreferences.isFraudulentWebsiteWarningEnabled</key>
@@ -219,6 +243,8 @@
 				<key>WebKitPreferences.javaScriptCanOpenWindowsAutomatically</key>
 				<false/>
 				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
+				<false/>
+				<key>WebKitPreferences.localFileContentSniffingEnabled</key>
 				<false/>
 				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
@@ -352,9 +378,23 @@
 				<true/>
 				<key>InstallExtensionUpdatesAutomatically</key>
 				<true/>
+				<key>InternalDebugEnumeratingVisibleNetworkInterfacesEnabled</key>
+				<false/>
+				<key>InternalDebugICECandidateFilteringEnabled</key>
+				<true/>
 				<key>InternalDebugIsSameSiteStrictEnforcementEnabled</key>
 				<true/>
+				<key>InternalDebugLinkSanitizerEnabled</key>
+				<true/>
+				<key>InternalDebugLocalFileContentSniffingEnabled</key>
+				<false/>
+				<key>InternalDebugPreferSandboxedMediaParsing</key>
+				<true/>
+				<key>InternalDebugSecureContextChecksEnabled</key>
+				<true/>
 				<key>InternalDebugSiteIsolationEnabled</key>
+				<true/>
+				<key>InternalDebugUpgradeKnownHostsToHTTPSEnabled</key>
 				<true/>
 				<key>LocalFileRestrictionsEnabled</key>
 				<true/>
@@ -421,12 +461,16 @@
 				<true/>
 				<key>UserStyleSheetEnabled</key>
 				<true/>
+				<key>WBSDisableTrial</key>
+				<true/>
 				<key>WBSEnableCloudSettingsSync</key>
 				<false/>
 				<key>WBSLastPrivateSearchEngineStringExplicitlyChosenByUserKey</key>
 				<string>com.duckduckgo</string>
 				<key>WBSOfflineSearchSuggestionsModelGoogleWasDefaultSearchEngineKey</key>
 				<false/>
+				<key>WBSTranslationDebugAlwaysShowConsentAlertSettingsKey</key>
+				<true/>
 				<key>WBSTranslationForceOnlineTranslationSettingsKey</key>
 				<false/>
 				<key>WarnAboutFraudulentWebsites</key>
@@ -438,6 +482,8 @@
 				<key>WebKitDeveloperExtrasEnabledPreferenceKey</key>
 				<true/>
 				<key>WebKitDiagnosticLoggingEnabled</key>
+				<false/>
+				<key>WebKitEnumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
 				<true/>
@@ -475,6 +521,8 @@
 				<false/>
 				<key>WebKitLegacyEncryptedMediaAPIEnabled</key>
 				<false/>
+				<key>WebKitLocalFileContentSniffingEnabledPreferenceKey</key>
+				<false/>
 				<key>WebKitPluginsEnabled</key>
 				<false/>
 				<key>WebKitPreferences.allowFileAccessFromFileURLs</key>
@@ -485,6 +533,8 @@
 				<false/>
 				<key>WebKitPreferences.developerExtrasEnabled</key>
 				<true/>
+				<key>WebKitPreferences.enumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
 				<key>WebKitPreferences.invisibleMediaAutoplayNotPermitted</key>
 				<true/>
 				<key>WebKitPreferences.isFraudulentWebsiteWarningEnabled</key>
@@ -494,6 +544,8 @@
 				<key>WebKitPreferences.javaScriptCanOpenWindowsAutomatically</key>
 				<false/>
 				<key>WebKitPreferences.legacyEncryptedMediaAPIEnabled</key>
+				<false/>
+				<key>WebKitPreferences.localFileContentSniffingEnabled</key>
 				<false/>
 				<key>WebKitPreferences.plugInsEnabled</key>
 				<false/>
@@ -584,7 +636,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(06January2025v1) Hardened Safari configuration (Extended).</string>
+		<string>(09January2025v1) Hardened Safari configuration (Extended).</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Extended (System)</string>
 		<key>PayloadIdentifier</key>
