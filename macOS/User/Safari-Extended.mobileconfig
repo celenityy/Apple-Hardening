@@ -188,6 +188,8 @@
 				<true/>
 				<key>WebKitExperimentalBlobRegistryTopOriginPartitioningEnabled</key>
 				<true/>
+				<key>WebKitExperimentalBroadcastChannelOriginPartitioningEnabled</key>
+				<true/>
 				<key>WebKitExperimentalFTPEnabled</key>
 				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
@@ -488,6 +490,8 @@
 				<key>WebKitExperimentalBlobFileAccessEnforcementEnabled</key>
 				<true/>
 				<key>WebKitExperimentalBlobRegistryTopOriginPartitioningEnabled</key>
+				<true/>
+				<key>WebKitExperimentalBroadcastChannelOriginPartitioningEnabled</key>
 				<true/>
 				<key>WebKitExperimentalFTPEnabled</key>
 				<false/>
