@@ -55,6 +55,8 @@
 				<true/>
 				<key>InstallExtensionUpdatesAutomatically</key>
 				<true/>
+				<key>InternalDebugEnumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
 				<key>InternalDebugEnumeratingVisibleNetworkInterfacesEnabled</key>
 				<false/>
 				<key>InternalDebugICECandidateFilteringEnabled</key>
@@ -221,6 +223,8 @@
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
+				<key>WebKitPreferences.safeBrowsingEnabled</key>
+				<true/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
 				<key>WebKitPreferences.sKAttributionEnabled</key>
@@ -232,6 +236,8 @@
 				<key>WebKitPreferences.usesPageCache</key>
 				<false/>
 				<key>WebKitPreferences.webSecurityEnabled</key>
+				<true/>
+				<key>WebKitSafeBrowsingEnabled</key>
 				<true/>
 				<key>WebKitSKAttributionEnabled</key>
 				<false/>
@@ -249,16 +255,24 @@
 				<true/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DiagnosticLoggingEnabled</key>
 				<false/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2EncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically</key>
 				<false/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2LegacyEncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PluginsEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2SafeBrowsingEnabled</key>
+				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2SKAttributionEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy</key>
 				<integer>1</integer>
 			</dict>
@@ -329,6 +343,8 @@
 				<true/>
 				<key>InstallExtensionUpdatesAutomatically</key>
 				<true/>
+				<key>InternalDebugEnumeratingAllNetworkInterfacesEnabled</key>
+				<false/>
 				<key>InternalDebugEnumeratingVisibleNetworkInterfacesEnabled</key>
 				<false/>
 				<key>InternalDebugICECandidateFilteringEnabled</key>
@@ -495,6 +511,8 @@
 				<false/>
 				<key>WebKitPreferences.privateClickMeasurementEnabled</key>
 				<false/>
+				<key>WebKitPreferences.safeBrowsingEnabled</key>
+				<true/>
 				<key>WebKitPreferences.shouldAllowUserInstalledFonts</key>
 				<false/>
 				<key>WebKitPreferences.sKAttributionEnabled</key>
@@ -507,6 +525,8 @@
 				<false/>
 				<key>WebKitPreferences.webSecurityEnabled</key>
 				<true/>
+				<key>WebKitSafeBrowsingEnabled</key>
+				<true/>
 				<key>WebKitSKAttributionEnabled</key>
 				<false/>
 				<key>WebKitStorageBlockingPolicy</key>
@@ -515,11 +535,15 @@
 				<false/>
 				<key>WebKitWebSecurityEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2ApplePayCapabilityDisclosureAllowed</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DNSPrefetchingEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
 				<true/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DiagnosticLoggingEnabled</key>
+				<false/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2EncryptedMediaAPIEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2HyperlinkAuditingEnabled</key>
 				<false/>
@@ -527,10 +551,16 @@
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptCanOpenWindowsAutomatically</key>
 				<false/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2LegacyEncryptedMediaAPIEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PluginsEnabled</key>
 				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
 				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2SafeBrowsingEnabled</key>
+				<true/>
+				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2SKAttributionEnabled</key>
+				<false/>
 				<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2StorageBlockingPolicy</key>
 				<integer>1</integer>
 			</dict>
