@@ -204,6 +204,8 @@
 				<false/>
 				<key>WebKitExperimentalIsThirdPartyCookieBlockingDisabled</key>
 				<false/>
+				<key>WebKitExperimentalLinkPreconnectEarlyHintsEnabled</key>
+				<false/>
 				<key>WebKitExperimentalLinkPrefetchEnabled</key>
 				<false/>
 				<key>WebKitExperimentalLockdownFontParserEnabled</key>
@@ -540,6 +542,8 @@
 				<key>WebKitExperimentalIsFirstPartyWebsiteDataRemovalDisabled</key>
 				<false/>
 				<key>WebKitExperimentalIsThirdPartyCookieBlockingDisabled</key>
+				<false/>
+				<key>WebKitExperimentalLinkPreconnectEarlyHintsEnabled</key>
 				<false/>
 				<key>WebKitExperimentalLinkPrefetchEnabled</key>
 				<false/>
