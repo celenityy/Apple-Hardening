@@ -89,6 +89,8 @@
 				<true/>
 				<key>InternalDebugLocalFileContentSniffingEnabled</key>
 				<false/>
+				<key>InternalDebugMediaCaptureRequiresSecureConnection</key>
+				<true/>
 				<key>InternalDebugPreferSandboxedMediaParsing</key>
 				<true/>
 				<key>InternalDebugSecureContextChecksEnabled</key>
@@ -428,6 +430,8 @@
 				<true/>
 				<key>InternalDebugLocalFileContentSniffingEnabled</key>
 				<false/>
+				<key>InternalDebugMediaCaptureRequiresSecureConnection</key>
+				<true/>
 				<key>InternalDebugPreferSandboxedMediaParsing</key>
 				<true/>
 				<key>InternalDebugSecureContextChecksEnabled</key>
@@ -712,7 +716,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(09January2025v1) Hardened Safari configuration (Extended).</string>
+		<string>(12January2025v1) Hardened Safari configuration (Extended).</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Extended (User)</string>
 		<key>PayloadIdentifier</key>
