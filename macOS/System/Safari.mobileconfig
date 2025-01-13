@@ -151,6 +151,8 @@
 				<true/>
 				<key>WebKitExperimentalBroadcastChannelOriginPartitioningEnabled</key>
 				<true/>
+				<key>WebKitExperimentalDeprecationReportingEnabled</key>
+				<false/>
 				<key>WebKitExperimentalFTPEnabled</key>
 				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
@@ -443,6 +445,8 @@
 				<true/>
 				<key>WebKitExperimentalBroadcastChannelOriginPartitioningEnabled</key>
 				<true/>
+				<key>WebKitExperimentalDeprecationReportingEnabled</key>
+				<false/>
 				<key>WebKitExperimentalFTPEnabled</key>
 				<false/>
 				<key>WebKitExperimentalHTTPSByDefaultEnabled</key>
@@ -618,7 +622,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(12January2025v1) Hardened Safari configuration.</string>
+		<string>(13January2025v1) Hardened Safari configuration.</string>
 		<key>PayloadDisplayName</key>
 		<string>Safari Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>
