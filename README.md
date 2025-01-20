@@ -12,6 +12,8 @@ While Apple products are arguably solid from a privacy & security perspective, t
 
 As you will see below, there will be more to configure for macOS than for iOS, as configuration profiles on macOS are far more powerful than what is available to us on iOS. **This however does NOT mean that our iOS Hardening is ineffective.**
 
+**MACOS USERS:** It's highly recommended you see [here](https://codeberg.org/celenity/Safari-Hardening) for configuration profiles to harden Safari & the system's WebKit.
+
 ## Instructions
 
 ### Preinstall
@@ -66,11 +68,7 @@ ___
 
 6. If you chose **Extended** or **Extended-Siri**, additionally install [`macOS-Extended-Shared.mobileconfig`](macOS/System/macOS-Extended-Shared.mobileconfig).
 
-7. Depending on your personal preference, install either [`Safari.mobileconfig`](macOS/System/Safari.mobileconfig) **or** [`Safari-Extended.mobileconfig`](macOS/System/Safari-Extended.mobileconfig). **Only install one of them.**  This is important to install **regardless** of if you use Safari or not, as this also impacts your system WebKit, which is used by various apps on your device.
-
-**Extended** is more private & secure, but it disables certain functionality you may desire, such as Autofill.
-
-8. Depending on your personal preference, install either [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig) **or** [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig). **Only install one of them.**
+7. Depending on your personal preference, install either [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig) **or** [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig). **Only install one of them.**
 
 **Extended** is more private & secure, but it may cause issues with certain functionality, such as iOS Device Back-up & Sync, iCloud, Home, & Find My.
 
@@ -82,9 +80,9 @@ Feel free to mix and match these configs as much as you'd like! For example, you
 
 #### macOS TL;DR
 
-It's recommended that most users install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Base.mobileconfig`](macOS/System/macOS-Base.mobileconfig), [`Safari.mobileconfig`](macOS/System/Safari.mobileconfig), [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
+It's recommended that most users install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Base.mobileconfig`](macOS/System/macOS-Base.mobileconfig), [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
 
-If you would like additional hardening at the cost of occasional breakage or inconvenience as explained above, you should **instead** install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig), [`macOS-Extended-Shared.mobileconfig`](macOS/System/macOS-Extended-Shared.mobileconfig), [`Safari-Extended.mobileconfig`](macOS/System/Safari-Extended.mobileconfig), [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
+If you would like additional hardening at the cost of occasional breakage or inconvenience as explained above, you should **instead** install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig), [`macOS-Extended-Shared.mobileconfig`](macOS/System/macOS-Extended-Shared.mobileconfig), [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
 
 If you wish to use the Extended configs but still want Siri/Apple Intelligence functionality, you should install [`macOS-Extended-Siri.mobileconfig`](macOS/System/macOS-Extended-Siri.mobileconfig) **instead** of [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig).
 
