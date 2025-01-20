@@ -353,6 +353,8 @@
 				<true/>
 				<key>InstallExtensionUpdatesAutomatically</key>
 				<true/>
+				<key>InternalDebugCookieConsentAPIEnabled</key>
+				<true/>
 				<key>InternalDebugEnumeratingAllNetworkInterfacesEnabled</key>
 				<false/>
 				<key>InternalDebugEnumeratingVisibleNetworkInterfacesEnabled</key>
