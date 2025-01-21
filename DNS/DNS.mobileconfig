@@ -147,12 +147,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -342,6 +344,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -557,16 +560,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -1395,6 +1402,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -1884,12 +1892,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -2079,6 +2089,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -2294,16 +2305,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -3132,6 +3147,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -3621,12 +3637,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -3816,6 +3834,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -4031,16 +4050,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -4869,6 +4892,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -5358,12 +5382,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -5553,6 +5579,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -5768,16 +5795,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -6606,6 +6637,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -7095,12 +7127,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -7290,6 +7324,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -7505,16 +7540,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -8343,6 +8382,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -8832,12 +8872,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -9027,6 +9069,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -9242,16 +9285,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -10080,6 +10127,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -10569,12 +10617,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -10764,6 +10814,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -10979,16 +11030,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -11817,6 +11872,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -12306,12 +12362,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -12501,6 +12559,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -12716,16 +12775,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -13554,6 +13617,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -14043,12 +14107,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -14238,6 +14304,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -14453,16 +14520,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -15291,6 +15362,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -15780,12 +15852,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -15975,6 +16049,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -16190,16 +16265,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -17028,6 +17107,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -17517,12 +17597,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -17712,6 +17794,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -17927,16 +18010,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -18765,6 +18852,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -19254,12 +19342,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -19449,6 +19539,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -19664,16 +19755,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -20502,6 +20597,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -20991,12 +21087,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -21186,6 +21284,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -21401,16 +21500,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -22239,6 +22342,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -22728,12 +22832,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -22923,6 +23029,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -23138,16 +23245,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -23976,6 +24087,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -24465,12 +24577,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -24660,6 +24774,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -24875,16 +24990,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -25713,6 +25832,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -26202,12 +26322,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -26397,6 +26519,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -26612,16 +26735,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -27450,6 +27577,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -27939,12 +28067,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -28134,6 +28264,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -28349,16 +28480,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -29187,6 +29322,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -29676,12 +29812,14 @@
 								<string>carnivalwifi.com</string>
 								<string>carrefourdata.be</string>
 								<string>carrefourmms.be</string>
+								<string>cbp-guest.cbp.dhs.gov</string>
 								<string>cccomm.csky.us</string>
 								<string>cdnhotspot.azureedge.net</string>
 								<string>cdnhotspot.afd.azureedge.net</string>
 								<string>cfr-mprtuam-01.cops.us1.pr.anuvu.cloud</string>
 								<string>chatrisp.apn</string>
 								<string>chatrweb.apn</string>
+								<string>checkout.aa.com</string>
 								<string>cinet.spcs</string>
 								<string>client-abc.adamuser.app</string>
 								<string>cloudmesh.net</string>
@@ -29871,6 +30009,7 @@
 								<string>home.beeline.ru</string>
 								<string>homerouter.cpe</string>
 								<string>hotspotportals.com</string>
+								<string>hs.imedia.ie</string>
 								<string>http.globe.com.ph</string>
 								<string>httpforever.com</string>
 								<string>huaweimobilewifi.com</string>
@@ -30086,16 +30225,20 @@
 								<string>location.nexteldata.com.mx</string>
 								<string>loggedin.wifigem.it</string>
 								<string>login.amtrakwifi.com</string>
+								<string>login.attwifi.com</string>
 								<string>login.cloud5.com</string>
 								<string>login.cloudi-fi.net</string>
 								<string>login.innflux.com</string>
 								<string>login.wifigem.com</string>
 								<string>login.wifionice.de</string>
 								<string>login.windstream.com</string>
+								<string>login-awe-cluster.attwifi.com</string>
 								<string>login-federated.windstream.com</string>
 								<string>loopmobile.in</string>
+								<string>lounge.aa.com</string>
 								<string>lowi.omv.es</string>
 								<string>lowi.private.omv.es</string>
+								<string>lpv.attwifi.com</string>
 								<string>lsmmsc.xtra.co.nz</string>
 								<string>lsxtra.co.nz</string>
 								<string>lte.claropr.com</string>
@@ -30924,6 +31067,7 @@
 								<string>secure.11os.com</string>
 								<string>secure.datavalet.io</string>
 								<string>secure.wayport.net</string>
+								<string>secure-login.attwifi.com</string>
 								<string>securelogin.arubanetworks.com</string>
 								<string>service.thecloud.net</string>
 								<string>services.glocalnet.se</string>
@@ -31272,7 +31416,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>(09January2025v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
+	<string>(21January2025v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
 	<key>PayloadDisplayName</key>
 	<string>DNS</string>
 	<key>PayloadIdentifier</key>
