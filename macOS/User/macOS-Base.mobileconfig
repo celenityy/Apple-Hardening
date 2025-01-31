@@ -241,14 +241,6 @@
 				<false/>
 				<key>cloudBackupPasswordRequired</key>
 				<true/>
-				<key>enforcedSoftwareUpdateDelay</key>
-				<integer>0</integer>
-				<key>enforcedSoftwareUpdateMajorOSDeferredInstallDelay</key>
-				<integer>0</integer>
-				<key>enforcedSoftwareUpdateMinorOSDeferredInstallDelay</key>
-				<integer>0</integer>
-				<key>enforcedSoftwareUpdateNonOSDeferredInstallDelay</key>
-				<integer>0</integer>
 				<key>forceAirPlayIncomingRequestsPairingPassword</key>
 				<true/>
 				<key>forceAirPlayOutgoingRequestsPairingPassword</key>
@@ -276,11 +268,11 @@
 				<key>forceCloudBackupPassword</key>
 				<true/>
 				<key>forceDelayedAppSoftwareUpdates</key>
-				<true/>
+				<false/>
 				<key>forceDelayedMajorSoftwareUpdates</key>
-				<true/>
+				<false/>
 				<key>forceDelayedSoftwareUpdates</key>
-				<true/>
+				<false/>
 				<key>forceEncryptedBackup</key>
 				<true/>
 				<key>forceGrantSupervisorAccessInAppLock</key>
@@ -307,8 +299,6 @@
 				<integer>1000</integer>
 				<key>ratingMovies</key>
 				<integer>1000</integer>
-				<key>ratingRegion</key>
-				<string>us</string>
 				<key>ratingTVShows</key>
 				<integer>1000</integer>
 				<key>requireBlockLevelEncryption</key>
@@ -571,7 +561,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(28December2024v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(30January2025v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base (User)</string>
 		<key>PayloadIdentifier</key>
