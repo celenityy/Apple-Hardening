@@ -306,7 +306,7 @@
 		<key>PayloadDescription</key>
 		<string>(25February2025v1) Configuration of iOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
-		<string>iOS Hardening - Base (System)</string>
+		<string>iOS Hardening - Base</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.ios.base</string>
 		<key>PayloadOrganization</key>

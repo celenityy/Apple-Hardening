@@ -465,9 +465,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(30January2025v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
+		<string>(25February2025v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
-		<string>iOS Hardening - Extended w/ AI/Siri Support (System)</string>
+		<string>iOS Hardening - Extended w/ AI/Siri Support</string>
 		<key>PayloadIdentifier</key>
 		<string>dev.celenity.ios.extended.siri</string>
 		<key>PayloadOrganization</key>
