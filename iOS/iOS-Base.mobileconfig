@@ -245,6 +245,8 @@
 				<false/>
 				<key>forceEncryptedBackup</key>
 				<true/>
+				<key>forceFIPSVerification</key>
+				<true/>
 				<key>forceGrantSupervisorAccessInAppLock</key>
 				<false/>
 				<key>forceLimitAdTracking</key>
