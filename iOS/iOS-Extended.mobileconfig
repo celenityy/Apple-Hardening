@@ -8,11 +8,11 @@
 				<key>PayloadDisplayName</key>
 				<string>Restrictions</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.applicationaccess.9E37D7F9-7DE8-4858-837A-C61F59AC8361</string>
+				<string>com.apple.applicationaccess.8BF5E33F-B4DA-4C61-BB96-064CDDA4D84C</string>
 				<key>PayloadType</key>
 				<string>com.apple.applicationaccess</string>
 				<key>PayloadUUID</key>
-				<string>9E37D7F9-7DE8-4858-837A-C61F59AC8361</string>
+				<string>7F0A1386-A2E8-4FD1-9CB1-FA6A0DC103F8</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>allowARDRemoteManagementModification</key>
@@ -45,6 +45,8 @@
 				<true/>
 				<key>allowAppsToBeLocked</key>
 				<true/>
+				<key>allowAssistant</key>
+				<false/>
 				<key>allowAssistantUserGeneratedContent</key>
 				<false/>
 				<key>allowAssistantWhileLocked</key>
@@ -60,8 +62,6 @@
 				<key>allowAutomaticScreenSaver</key>
 				<true/>
 				<key>allowBluetoothSharingModification</key>
-				<false/>
-				<key>allowBookstore</key>
 				<false/>
 				<key>allowBookstoreErotica</key>
 				<true/>
@@ -137,8 +137,6 @@
 				<true/>
 				<key>allowEnablingRestrictions</key>
 				<true/>
-				<key>allowEnterpriseAppTrust</key>
-				<false/>
 				<key>allowEnterpriseBookBackup</key>
 				<false/>
 				<key>allowEnterpriseBookMetadataSync</key>
@@ -147,10 +145,6 @@
 				<true/>
 				<key>allowExplicitContent</key>
 				<true/>
-				<key>allowExternalIntelligenceIntegrationsSignIn</key>
-				<false/>
-				<key>allowFileSharingModification</key>
-				<false/>
 				<key>allowFilesNetworkDriveAccess</key>
 				<true/>
 				<key>allowFilesUSBDriveAccess</key>
@@ -160,8 +154,6 @@
 				<key>allowFindMyDevice</key>
 				<false/>
 				<key>allowFindMyFriends</key>
-				<false/>
-				<key>allowFindMyFriendsModification</key>
 				<false/>
 				<key>allowFingerprintModification</key>
 				<true/>
@@ -185,8 +177,6 @@
 				<false/>
 				<key>allowInstalledAppNearMeSuggestions</key>
 				<false/>
-				<key>allowInternetSharingModification</key>
-				<false/>
 				<key>allowLocalUserCreation</key>
 				<true/>
 				<key>allowLockScreenControlCenter</key>
@@ -208,8 +198,6 @@
 				<key>allowMDMEnrollment</key>
 				<false/>
 				<key>allowMediaSharing</key>
-				<false/>
-				<key>allowMediaSharingModification</key>
 				<false/>
 				<key>allowMultitasking</key>
 				<true/>
@@ -245,21 +233,13 @@
 				<false/>
 				<key>allowPredictiveKeyboard</key>
 				<false/>
-				<key>allowPrinterSharingModification</key>
-				<false/>
 				<key>allowProximitySetupToNewDevice</key>
-				<false/>
-				<key>allowQuickNote</key>
 				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
 				<key>allowRapidSecurityResponseInstallation</key>
 				<true/>
-				<key>allowRapidSecurityResponseRemoval</key>
-				<false/>
 				<key>allowRemoteAppPairing</key>
-				<false/>
-				<key>allowRemoteAppleEventsModification</key>
 				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
@@ -291,10 +271,6 @@
 				<true/>
 				<key>allowTranslationLookup</key>
 				<false/>
-				<key>allowTV</key>
-				<false/>
-				<key>allowTVProviderModification</key>
-				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
@@ -316,8 +292,6 @@
 				<key>allowWallpaper</key>
 				<true/>
 				<key>allowWallpaperModification</key>
-				<true/>
-				<key>allowWebDistributionAppInstallation</key>
 				<true/>
 				<key>allowWheelchairDataSubmission</key>
 				<false/>
@@ -428,8 +402,6 @@
 				<false/>
 				<key>forceAuthenticationBeforeAutoFill</key>
 				<true/>
-				<key>forceAutomaticDateAndTime</key>
-				<true/>
 				<key>forceBypassScreenCaptureAlert</key>
 				<false/>
 				<key>forceClassroomAutomaticallyJoinClasses</key>
@@ -492,24 +464,22 @@
 				<real>1.5</real>
 				<key>safariAllowAutoFill</key>
 				<false/>
-				<key>safariForceFraudWarning</key>
-				<true/>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(30January2025v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud &amp; Find My are completely disabled where possible.</string>
+		<string>(30January2025v1) Extended hardening for iOS, may cause breakage or issues depending on your use case. Services such as iCloud, Find My, &amp; Siri are completely disabled where possible.</string>
 		<key>PayloadDisplayName</key>
-		<string>iOS Hardening - Extended w/ AI/Siri Support (User)</string>
+		<string>iOS Hardening - Extended (System)</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.celenity.ios.extended.siri.user</string>
+		<string>dev.celenity.ios.extended</string>
 		<key>PayloadOrganization</key>
 		<string>💘</string>
 		<key>PayloadScope</key>
-		<string>User</string>
+		<string>System</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>6CA53A8F-3AAA-491A-BA87-A69E306C3252</string>
+		<string>D162E34E-8173-42C8-A333-B72B4470F4AD</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>
