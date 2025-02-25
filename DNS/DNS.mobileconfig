@@ -172,6 +172,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -1917,6 +1918,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -3662,6 +3664,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -5407,6 +5410,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -7152,6 +7156,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -8897,6 +8902,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -10642,6 +10648,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -12387,6 +12394,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -14132,6 +14140,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -15877,6 +15886,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -17622,6 +17632,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -19367,6 +19378,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -21112,6 +21124,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -22857,6 +22870,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -24602,6 +24616,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -26347,6 +26362,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -28092,6 +28108,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -29837,6 +29854,7 @@
 								<string>connect.vivacell.am</string>
 								<string>connect-edge.ihg.com</string>
 								<string>console.gl-inet.com</string>
+								<string>controller.access.network</string>
 								<string>cp-app.wifi.connected.xfinity.com</string>
 								<string>cp-app.wifi-dev.connected.xfinity.com</string>
 								<string>cp-app.wifi-stage.connected.xfinity.com</string>
@@ -31416,7 +31434,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>(21January2025v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
+	<string>(05February2025v1) This profile enables several high quality &amp; reputable DNS resolvers over HTTPS &amp; TLS on all networks using Apple's native Encrypted DNS feature. Domains required for captive portals, connectivity checks, public Wi-Fis, routers, MMS, VVM, Wi-FI Calling, push notifications, etc. are excluded for compatibility. INFO FOR DNS SERVERS: Quad9 and DNS0 provide real-time malware protection. DNS0 (ZERO) provides hardened real-time malware protection. Mullvad (Base) provides Ad/Tracking/Limited Malware Protection. AdGuard (Public) provides Ad/Tracking Protection. Mullvad (Extended) provides Ad/Tracking/Limited Malware/Social Media Protection. Other servers are self-explanatory.</string>
 	<key>PayloadDisplayName</key>
 	<string>DNS</string>
 	<key>PayloadIdentifier</key>
