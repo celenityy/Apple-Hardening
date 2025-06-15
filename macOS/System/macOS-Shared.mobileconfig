@@ -329,20 +329,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>AllowManagedFileProvidersToRequestAttribution</key>
-				<false/>
-				<key>PayloadDisplayName</key>
-				<string>File Provider</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.fileproviderd.994382BB-A393-467D-8EEC-4D389BE54C78</string>
-				<key>PayloadType</key>
-				<string>com.apple.fileproviderd</string>
-				<key>PayloadUUID</key>
-				<string>994382BB-A393-467D-8EEC-4D389BE54C78</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
 				<key>PayloadDisplayName</key>
 				<string>File Server</string>
 				<key>PayloadIdentifier</key>
