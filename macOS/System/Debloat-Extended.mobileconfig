@@ -19,23 +19,7 @@
 				<true/>
 				<key>pathBlackList</key>
 				<array>
-					<string>/System/Applications/Books.app</string>
-					<string>/System/Applications/FaceTime.app</string>
 					<string>/System/Applications/FindMy.app</string>
-					<string>/System/Applications/Freeform.app</string>
-					<string>/System/Applications/iPhone Mirroring.app</string>
-					<string>/System/Applications/Messages.app</string>
-					<string>/System/Applications/Passwords.app</string>
-					<string>/System/Applications/Podcasts.app</string>
-					<string>/System/Applications/TV.app</string>
-					<string>/System/Library/CoreServices/Coverage Details.app</string>
-					<string>/System/Library/CoreServices/Family.app</string>
-					<string>/System/Library/CoreServices/Finder.app/Contents/Applications/iCloud Drive.app</string>
-					<string>/System/Library/CoreServices/iCloud.app</string>
-					<string>/System/Library/CoreServices/iCloud+.app</string>
-					<string>/System/Library/CoreServices/Pass Viewer.app</string>
-					<string>/System/Library/CoreServices/PeopleMessageService.app</string>
-					<string>/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Resources/iCloud Drive.app</string>
 					<string>/System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/Resources/FindMyMacMessenger.app</string>
 					<string>/Applications/Adobe Media Encoder 2024/Adobe Media Encoder 2024.app/Contents/AdobeCrashReport.app</string>
 					<string>/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/AdobeCrashReport.app</string>
@@ -104,7 +88,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Disables various apps from running on macOS, such as Tips, Feedback Assistant, Crash Reporter, etc. After installation, you will see  a pop-up on first boot after logging in with the message: "You don't have permission to use the application "seedusaged." Simply select 'OK' &amp; ignore this. seedusaged is part of Apple's Feedback Assistant (https://macosbin.com/bin/seedusaged) used for collecting &amp; reporting data.</string>
+		<string>(15June2025v1) Disables various apps from running on macOS, such as Tips, Feedback Assistant, Crash Reporter, etc. After installation, you will see  a pop-up on first boot after logging in with the message: "You don't have permission to use the application "seedusaged." Simply select 'OK' &amp; ignore this. seedusaged is part of Apple's Feedback Assistant (https://macosbin.com/bin/seedusaged) used for collecting &amp; reporting data.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Extended: Debloat (System)</string>
 		<key>PayloadIdentifier</key>

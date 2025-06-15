@@ -20,11 +20,11 @@
 				<key>PayloadDisplayName</key>
 				<string>Software Update</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.SoftwareUpdate.1BD8B9BE-D210-4B3B-AB47-98536B637FC1</string>
+				<string>com.apple.SoftwareUpdate.E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
 				<key>PayloadType</key>
 				<string>com.apple.SoftwareUpdate</string>
 				<key>PayloadUUID</key>
-				<string>1BD8B9BE-D210-4B3B-AB47-98536B637FC1</string>
+				<string>E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>SUDisableEVCheck</key>
@@ -44,11 +44,11 @@
 				<key>PayloadDisplayName</key>
 				<string>com.apple.commerce</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.commerce.99E17350-04D3-4144-A7A7-DC29AAB2BC03</string>
+				<string>com.apple.commerce.7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
 				<key>PayloadType</key>
 				<string>com.apple.commerce</string>
 				<key>PayloadUUID</key>
-				<string>99E17350-04D3-4144-A7A7-DC29AAB2BC03</string>
+				<string>7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -56,17 +56,17 @@
 		<key>PayloadDescription</key>
 		<string>(24December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening - Updates w/ Apple Beta Support (User)</string>
+		<string>macOS Hardening - Updates w/ Apple Beta Support (System)</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.celenity.osx.beta.user</string>
+		<string>dev.celenity.osx.beta</string>
 		<key>PayloadOrganization</key>
 		<string>💘</string>
 		<key>PayloadScope</key>
-		<string>User</string>
+		<string>System</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>196DF625-09B5-4F79-9DF6-CD13D9B39EB7</string>
+		<string>256BE9BB-FED0-4B63-B40C-0CBE24BA9969</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>

@@ -5,30 +5,16 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
-				<key>AutomaticCheckEnabled</key>
-				<true/>
-				<key>AutomaticDownload</key>
-				<true/>
-				<key>AutomaticallyInstallAppUpdates</key>
-				<true/>
-				<key>AutomaticallyInstallMacOSUpdates</key>
-				<true/>
-				<key>ConfigDataInstall</key>
-				<true/>
-				<key>CriticalUpdateInstall</key>
-				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Software Update</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.SoftwareUpdate.E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
+				<string>com.apple.SoftwareUpdate.D8144170-0D38-4A8A-AF06-CCDDD9F0C44F</string>
 				<key>PayloadType</key>
 				<string>com.apple.SoftwareUpdate</string>
 				<key>PayloadUUID</key>
-				<string>E40202F7-8FC7-4C88-B44C-8B14E8EE52E2</string>
+				<string>D8144170-0D38-4A8A-AF06-CCDDD9F0C44F</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUDisableEVCheck</key>
-				<false/>
 				<key>ScheduleFrequency</key>
 				<integer>1</integer>
 				<key>forceDelayedSoftwareUpdates</key>
@@ -36,25 +22,9 @@
 				<key>restrict-software-update-require-admin-to-install</key>
 				<true/>
 			</dict>
-			<dict>
-				<key>AutoUpdate</key>
-				<true/>
-				<key>AutoUpdateRestartRequired</key>
-				<true/>
-				<key>PayloadDisplayName</key>
-				<string>com.apple.commerce</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.commerce.7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
-				<key>PayloadType</key>
-				<string>com.apple.commerce</string>
-				<key>PayloadUUID</key>
-				<string>7AAFE801-0D7D-49FB-898C-FCE8BF3AA6E9</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
+		<string>(15June2025v1) Hardened Software Update settings for macOS. Allows installation of beta system updates.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates w/ Apple Beta Support (System)</string>
 		<key>PayloadIdentifier</key>
@@ -66,7 +36,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>256BE9BB-FED0-4B63-B40C-0CBE24BA9969</string>
+		<string>8C03622C-2A96-464E-A059-7F668BD925B6</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>

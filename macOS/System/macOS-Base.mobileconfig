@@ -21,8 +21,6 @@
 				<false/>
 				<key>allowAccountModification</key>
 				<true/>
-				<key>allowAddingGameCenterFriends</key>
-				<false/>
 				<key>allowAirPrintiBeaconDiscovery</key>
 				<false/>
 				<key>allowAppAnalytics</key>
@@ -46,14 +44,6 @@
 				<key>allowAttentionAwareAutoLock</key>
 				<true/>
 				<key>allowAutoUnlock</key>
-				<false/>
-				<key>allowAutomaticAppDownloads</key>
-				<false/>
-				<key>allowAutomaticAppUpdates</key>
-				<true/>
-				<key>allowAutomaticScreenSaver</key>
-				<true/>
-				<key>allowBluetoothSharingModification</key>
 				<false/>
 				<key>allowBookstoreErotica</key>
 				<true/>
@@ -79,8 +69,6 @@
 				<false/>
 				<key>allowClassroomScreenObservation</key>
 				<false/>
-				<key>allowCloudPrivateRelay</key>
-				<true/>
 				<key>allowContentCaching</key>
 				<false/>
 				<key>allowDefaultBrowserModification</key>
@@ -109,17 +97,9 @@
 				<true/>
 				<key>allowExternalIntelligenceIntegrationsSignIn</key>
 				<false/>
-				<key>allowFileSharingModification</key>
-				<false/>
-				<key>allowFilesNetworkDriveAccess</key>
-				<true/>
-				<key>allowFilesUSBDriveAccess</key>
-				<true/>
 				<key>allowFingerprintModification</key>
 				<true/>
 				<key>allowGameCenterNearbyMultiplayer</key>
-				<false/>
-				<key>allowGameCenterPrivateMessaging</key>
 				<false/>
 				<key>allowGeotagSharing</key>
 				<false/>
@@ -135,23 +115,11 @@
 				<false/>
 				<key>allowInstalledAppNearMeSuggestions</key>
 				<false/>
-				<key>allowInternetSharingModification</key>
-				<false/>
 				<key>allowLocalUserCreation</key>
 				<true/>
 				<key>allowLockdownMode</key>
 				<true/>
-				<key>allowMailPrivacyProtection</key>
-				<true/>
-				<key>allowMailSummary</key>
-				<true/>
-				<key>allowMarketplaceAppInstallation</key>
-				<true/>
 				<key>allowMDMEnrollment</key>
-				<false/>
-				<key>allowMediaSharing</key>
-				<false/>
-				<key>allowMediaSharingModification</key>
 				<false/>
 				<key>allowMultitasking</key>
 				<true/>
@@ -159,38 +127,20 @@
 				<false/>
 				<key>allowNotificationsModification</key>
 				<true/>
-				<key>allowOTAPKIUpdates</key>
-				<true/>
 				<key>allowOpenFromManagedToUnmanaged</key>
 				<true/>
 				<key>allowOpenFromUnmanagedToManaged</key>
 				<true/>
-				<key>allowPassbookWhileLocked</key>
-				<false/>
 				<key>allowPasscodeModification</key>
 				<true/>
 				<key>allowPersonalHotspotModification</key>
 				<true/>
-				<key>allowPersonalizedHandwritingResults</key>
-				<false/>
 				<key>allowPredictiveKeyboard</key>
-				<false/>
-				<key>allowPrinterSharingModification</key>
-				<false/>
-				<key>allowQuickNote</key>
 				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
-				<key>allowRapidSecurityResponseInstallation</key>
-				<true/>
-				<key>allowRapidSecurityResponseRemoval</key>
-				<false/>
-				<key>allowRemoteAppleEventsModification</key>
-				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
-				<key>allowSafariSummary</key>
-				<true/>
 				<key>allowSafetyDataSubmission</key>
 				<false/>
 				<key>allowScreenTimeModification</key>
@@ -209,13 +159,9 @@
 				<true/>
 				<key>allowSystemAppRemoval</key>
 				<true/>
-				<key>allowTimeMachineBackup</key>
-				<true/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
-				<true/>
-				<key>allowUSBDriveAccess</key>
 				<true/>
 				<key>allowUSBRestrictedMode</key>
 				<true/>
@@ -230,8 +176,6 @@
 				<key>allowWallpaper</key>
 				<true/>
 				<key>allowWallpaperModification</key>
-				<true/>
-				<key>allowWebDistributionAppInstallation</key>
 				<true/>
 				<key>allowWheelchairDataSubmission</key>
 				<false/>
@@ -250,8 +194,6 @@
 				<key>forceAssistantProfanityFilter</key>
 				<false/>
 				<key>forceAuthenticationBeforeAutoFill</key>
-				<true/>
-				<key>forceAutomaticDateAndTime</key>
 				<true/>
 				<key>forceBypassScreenCaptureAlert</key>
 				<false/>
@@ -309,8 +251,6 @@
 				<false/>
 				<key>safariAcceptCookies</key>
 				<real>1.5</real>
-				<key>safariForceFraudWarning</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>Allow Explicit Content</key>
@@ -421,8 +361,6 @@
 				<string>A53152B4-4876-4CED-9A38-D691FFB39CD1</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>disableCheckForUpdates</key>
-				<false/>
 				<key>disableMusicSocial</key>
 				<true/>
 				<key>disableShareLibraryInfo</key>
@@ -561,7 +499,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(30January2025v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
+		<string>(15June2025v1) Configuration of macOS for tweaking &amp; hardening the OS, as well as various Apple services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Base (System)</string>
 		<key>PayloadIdentifier</key>

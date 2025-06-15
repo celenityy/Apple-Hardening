@@ -79,8 +79,6 @@
 			<dict>
 				<key>AutoPlayVideoSetting</key>
 				<string>off</string>
-				<key>DisableSoftwareUpdateNotifications</key>
-				<false/>
 				<key>InAppReviewEnabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -111,8 +109,6 @@
 			<dict>
 				<key>AutoPlayVideoSetting</key>
 				<string>off</string>
-				<key>DisableSoftwareUpdateNotifications</key>
-				<false/>
 				<key>InAppReviewEnabled</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -139,20 +135,6 @@
 				<true/>
 				<key>restrict-store-softwareupdate-only</key>
 				<false/>
-			</dict>
-			<dict>
-				<key>BackgroundAssetDownloadsEnabled</key>
-				<true/>
-				<key>PayloadDisplayName</key>
-				<string>appstored</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.appstored.019456FF-0474-4D09-9A4C-031243644975</string>
-				<key>PayloadType</key>
-				<string>com.apple.appstored</string>
-				<key>PayloadUUID</key>
-				<string>019456FF-0474-4D09-9A4C-031243644975</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>AutoHotspotMode</key>
@@ -200,8 +182,6 @@
 			</dict>
 			<dict>
 				<key>ABShowDebugMenu</key>
-				<true/>
-				<key>LogHTTPActivity</key>
 				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Calendar</string>
@@ -269,23 +249,6 @@
 				<false/>
 				<key>forceUnpromptedRemoteScreenObservation-00000000-0000-0000-0000-000000000000:0-ask</key>
 				<false/>
-			</dict>
-			<dict>
-				<key>CKPerBootTasks</key>
-				<dict>
-					<key>Item 0</key>
-					<string></string>
-				</dict>
-				<key>PayloadDisplayName</key>
-				<string>com.apple.CloudTelemetryService.xpc</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.CloudTelemetryService.xpc.2D79455C-9C4F-4527-9F9B-7E971E899813</string>
-				<key>PayloadType</key>
-				<string>com.apple.CloudTelemetryService.xpc</string>
-				<key>PayloadUUID</key>
-				<string>2D79455C-9C4F-4527-9F9B-7E971E899813</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>DialogType</key>
@@ -1027,6 +990,7 @@
 					<string>com.roblox.RobloxPlayer</string>
 					<string>com.unicornsonlsd.finamp-ios</string>
 					<string>com.userscripts.macos</string>
+					<string>com.vivaldi.Vivaldi</string>
 					<string>com.vscodium</string>
 					<string>com.yubico.yubioath</string>
 					<string>cx.c3.theunarchiver</string>
@@ -1159,6 +1123,7 @@
 					<string>com.roblox.RobloxPlayer</string>
 					<string>com.unicornsonlsd.finamp-ios</string>
 					<string>com.userscripts.macos</string>
+					<string>com.vivaldi.Vivaldi</string>
 					<string>com.vscodium</string>
 					<string>com.yubico.yubioath</string>
 					<string>cx.c3.theunarchiver</string>
@@ -1243,20 +1208,6 @@
 				<string>8618F7EA-305A-4125-90C4-7CEDB7320B9D</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>macOS Time Synchronization Daemon</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.timed.E080C30F-A1D0-4C58-BE80-8E8C4B61BB0B</string>
-				<key>PayloadType</key>
-				<string>com.apple.timed</string>
-				<key>PayloadUUID</key>
-				<string>E080C30F-A1D0-4C58-BE80-8E8C4B61BB0B</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>TMAutomaticTimeOnlyEnabled</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>BurnSupport</key>
@@ -1399,20 +1350,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>GKFeatureAddingGameCenterFriendsAllowed</key>
-				<false/>
-				<key>PayloadDisplayName</key>
-				<string>Parental Controls: Game Center</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.gamed.96772ED5-44A9-452B-8A2E-EC3C86475401</string>
-				<key>PayloadType</key>
-				<string>com.apple.gamed</string>
-				<key>PayloadUUID</key>
-				<string>96772ED5-44A9-452B-8A2E-EC3C86475401</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
 				<key>hasCompletedAutoFillStrongPasswordIntroduction</key>
 				<true/>
 				<key>hasShownSafariAutoFillAppIntroductionView</key>
@@ -1469,20 +1406,6 @@
 				<false/>
 			</dict>
 			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Personal Audio</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.PersonalAudio.F6D96817-5B3A-4D22-87B9-1A0B892EDC75</string>
-				<key>PayloadType</key>
-				<string>com.apple.PersonalAudio</string>
-				<key>PayloadUUID</key>
-				<string>F6D96817-5B3A-4D22-87B9-1A0B892EDC75</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>shouldUpdateAccessory</key>
-				<true/>
-			</dict>
-			<dict>
 				<key>DisableLibraryValidation</key>
 				<false/>
 				<key>PayloadDisplayName</key>
@@ -1495,22 +1418,6 @@
 				<string>6575F5E3-E952-4038-996D-90272F24813D</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Screensaver</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.screensaver.242091BE-BC2F-47F3-9212-1BB6DFF9AF34</string>
-				<key>PayloadType</key>
-				<string>com.apple.screensaver</string>
-				<key>PayloadUUID</key>
-				<string>242091BE-BC2F-47F3-9212-1BB6DFF9AF34</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>askForPassword</key>
-				<true/>
-				<key>askForPasswordDelay</key>
-				<integer>15</integer>
 			</dict>
 			<dict>
 				<key>DeviceIdentifier</key>
@@ -1654,20 +1561,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>DisableOverride</key>
-				<false/>
-				<key>PayloadDisplayName</key>
-				<string>System Policy: Managed</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.systempolicy.managed.AD8081F5-F398-4298-A984-82E224846751</string>
-				<key>PayloadType</key>
-				<string>com.apple.systempolicy.managed</string>
-				<key>PayloadUUID</key>
-				<string>AD8081F5-F398-4298-A984-82E224846751</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
 				<key>PayloadDisplayName</key>
 				<string>ShareKit</string>
 				<key>PayloadIdentifier</key>
@@ -1779,8 +1672,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>DVTDownloadableAutomaticUpdate</key>
-				<true/>
 				<key>DVTTextPageGuideLocation</key>
 				<integer>10</integer>
 				<key>DVTTextShowPageGuide</key>
@@ -1814,20 +1705,6 @@
 				<key>ShowDVTDebugMenu</key>
 				<true/>
 				<key>XcodeCloudUpsellPromptEnabled</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Tips</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.tipsd.F66D8E3B-AD39-4CAC-AB50-3E830587AA38</string>
-				<key>PayloadType</key>
-				<string>com.apple.tipsd</string>
-				<key>PayloadUUID</key>
-				<string>F66D8E3B-AD39-4CAC-AB50-3E830587AA38</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>TPSTipsAppInstalled</key>
 				<false/>
 			</dict>
 			<dict>

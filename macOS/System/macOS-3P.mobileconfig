@@ -5,10 +5,6 @@
 		<key>PayloadContent</key>
 		<array>
 			<dict>
-				<key>AutoInstallSoftwareUpdatesEnabled</key>
-				<true/>
-				<key>CheckForSoftwareUpdatesEnabled</key>
-				<true/>
 				<key>OPPrefAppleWatchAllowed</key>
 				<false/>
 				<key>OPPreferencesNotifyOfTOTPCopy</key>
@@ -43,8 +39,6 @@
 				<true/>
 				<key>security.authenticatedUnlock.appleWatchUnlock</key>
 				<false/>
-				<key>updates.autoUpdate</key>
-				<true/>
 				<key>updates.updateChannel</key>
 				<string>PRODUCTION</string>
 			</dict>
@@ -89,12 +83,6 @@
 				<string>13FBE125-4F9B-46C0-BE51-9015A4914E16</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -127,10 +115,6 @@
 				<integer>1</integer>
 				<key>SSLCertificateRevocationCheckPolicy</key>
 				<string>FullAccessCheckAndCRLRequiredAll</string>
-				<key>SecurityAllowedTLSVersions</key>
-				<array>
-					<string>TLS12</string>
-				</array>
 				<key>SecurityComplianceMode</key>
 				<string>FIPS</string>
 				<key>TraceOn</key>
@@ -163,12 +147,6 @@
 				<string>8AD75714-1292-459F-8EDF-F4F99C52D6E7</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -273,10 +251,6 @@
 				<string>8A43A889-006A-4773-A1F5-BDDE227BADE0</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>allowAutomaticUpdates</key>
-				<true/>
-				<key>checkForUpdates</key>
-				<true/>
 				<key>warnAboutMissingComponents</key>
 				<true/>
 				<key>warnAboutUnsupportedHost</key>
@@ -320,48 +294,6 @@
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
-				<string>Google Software Update Preferences</string>
-				<key>PayloadIdentifier</key>
-				<string>com.google.Keystone.735B782E-97D5-47EC-8DDD-91447488AEBA</string>
-				<key>PayloadType</key>
-				<string>com.google.Keystone</string>
-				<key>PayloadUUID</key>
-				<string>735B782E-97D5-47EC-8DDD-91447488AEBA</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>updatePolicies</key>
-				<dict>
-					<key>com.google.Chrome</key>
-					<dict>
-						<key>UpdateDefault</key>
-						<integer>0</integer>
-					</dict>
-					<key>com.google.GoogleDrive</key>
-					<dict>
-						<key>UpdateDefault</key>
-						<integer>0</integer>
-					</dict>
-					<key>com.google.chat</key>
-					<dict>
-						<key>UpdateDefault</key>
-						<integer>0</integer>
-					</dict>
-					<key>com.google.drivefs</key>
-					<dict>
-						<key>UpdateDefault</key>
-						<integer>0</integer>
-					</dict>
-					<key>global</key>
-					<dict>
-						<key>ComponentUpdatesEnabled</key>
-						<true/>
-						<key>UpdateDefault</key>
-						<integer>0</integer>
-					</dict>
-				</dict>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
 				<string>Handbrake</string>
 				<key>PayloadIdentifier</key>
 				<string>fr.handbrake.HandBrake.3297ACE9-CC30-4942-AD47-D7DBF56066FE</string>
@@ -371,12 +303,6 @@
 				<string>3297ACE9-CC30-4942-AD47-D7DBF56066FE</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -401,12 +327,6 @@
 				<string>A0397423-6641-4C44-8BD9-A1EB694FABF3</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -441,25 +361,9 @@
 				<integer>1</integer>
 				<key>disableVTQueries</key>
 				<true/>
-				<key>noUpdateCheck</key>
-				<false/>
 				<key>notFirstTime</key>
 				<true/>
 				<key>showTrustedItems</key>
-				<true/>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Little Snitch Software Update</string>
-				<key>PayloadIdentifier</key>
-				<string>at.obdev.littlesnitch.softwareupdate.73BCB0D5-EAA7-4888-A904-2C2363DF472A</string>
-				<key>PayloadType</key>
-				<string>at.obdev.littlesnitch.softwareupdate</string>
-				<key>PayloadUUID</key>
-				<string>73BCB0D5-EAA7-4888-A904-2C2363DF472A</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>SoftwareUpdateCheckAutomatically</key>
 				<true/>
 			</dict>
 			<dict>
@@ -655,8 +559,6 @@
 				<key>DisableVisualBasicToBindToPopen</key>
 				<true/>
 				<key>HasUserSeenEnterpriseFREDialog</key>
-				<true/>
-				<key>InstallAutoUpdate</key>
 				<true/>
 				<key>InstallDefender</key>
 				<false/>
@@ -890,8 +792,6 @@
 				<true/>
 				<key>IgnoreSystemProxies</key>
 				<false/>
-				<key>InstallAppleSoftwareUpdates</key>
-				<true/>
 				<key>PackageVerificationMode</key>
 				<string>hash_strict</string>
 				<key>PayloadDisplayName</key>
@@ -944,12 +844,6 @@
 				<string>5BD72944-C89A-4340-B043-A5760DCDD5BD</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -965,8 +859,6 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>canChangeAutostart</key>
-				<true/>
-				<key>enableAutoUpdater</key>
 				<true/>
 				<key>managedNetworkShares</key>
 				<array/>
@@ -1036,8 +928,6 @@
 				<integer>1</integer>
 				<key>allNetworkInterfaces</key>
 				<true/>
-				<key>appStoreVersionCheck</key>
-				<true/>
 				<key>coreCount</key>
 				<true/>
 				<key>detailLevel</key>
@@ -1076,8 +966,6 @@
 				<false/>
 				<key>USE_GEOCODE</key>
 				<false/>
-				<key>YOUR_API_KEY</key>
-				<string></string>
 			</dict>
 			<dict>
 				<key>PayloadDisplayName</key>
@@ -1091,12 +979,6 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>RevealApplicationWhenCreated</key>
-				<true/>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
 				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
@@ -1114,12 +996,6 @@
 				<string>EF613B31-2F69-4F3F-8AEA-4227898F91BC</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -1138,12 +1014,6 @@
 				<string>A283B0A6-20DF-46C4-977E-CAAC44AA985E</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -1174,12 +1044,6 @@
 				<string>2362D21F-45C8-4ADA-BC72-5C5E1D42BCF5</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -1248,8 +1112,6 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
-				<key>AutoUpdate</key>
-				<true/>
 				<key>Defaults</key>
 				<dict>
 					<key>ReleaseChannel</key>
@@ -1267,8 +1129,6 @@
 				<integer>1</integer>
 				<key>ReleaseChannel</key>
 				<string>prod</string>
-				<key>SlackNoAutoUpdates</key>
-				<false/>
 			</dict>
 			<dict>
 				<key>DisablePrivilegedHelperTool</key>
@@ -1339,12 +1199,6 @@
 				<string>never</string>
 				<key>ResetToDefaults</key>
 				<string>show</string>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -1389,12 +1243,6 @@
 				<string>7D6585F8-2221-40B5-A37B-2C1ECA57E121</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
@@ -1429,20 +1277,12 @@
 				<string>172F0472-224D-4FC3-9358-69FFCF0C03D2</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
-				<key>SUAllowsAutomaticUpdates</key>
-				<true/>
-				<key>SUAutomaticallyUpdate</key>
-				<true/>
-				<key>SUEnableAutomaticChecks</key>
-				<true/>
 				<key>SUHasLaunchedBefore</key>
 				<true/>
 				<key>SUSendProfileInfo</key>
 				<false/>
 			</dict>
 			<dict>
-				<key>AU2_EnableAutoUpdate</key>
-				<true/>
 				<key>AU2_EnableManualUpdate</key>
 				<true/>
 				<key>AU2_EnablePromptUpdateForAU2</key>
@@ -1454,8 +1294,6 @@
 				<key>AU2_EnableUpdateSuccessNotification</key>
 				<true/>
 				<key>AU2_SetUpdateChannel</key>
-				<true/>
-				<key>AlwaysCheckLatestVersion</key>
 				<true/>
 				<key>AlwaysShowVideoPreviewDialog</key>
 				<true/>
@@ -1586,7 +1424,7 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Hardening &amp; tweaks for 3rd party apps and services.</string>
+		<string>(15June2025v1) Hardening &amp; tweaks for 3rd party apps and services.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - 3P (System)</string>
 		<key>PayloadIdentifier</key>

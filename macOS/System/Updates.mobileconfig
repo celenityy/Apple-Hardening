@@ -7,56 +7,26 @@
 			<dict>
 				<key>AllowPreReleaseInstallation</key>
 				<false/>
-				<key>AutomaticCheckEnabled</key>
-				<true/>
-				<key>AutomaticDownload</key>
-				<true/>
-				<key>AutomaticallyInstallAppUpdates</key>
-				<true/>
-				<key>AutomaticallyInstallMacOSUpdates</key>
-				<true/>
-				<key>ConfigDataInstall</key>
-				<true/>
-				<key>CriticalUpdateInstall</key>
-				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Software Update</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.SoftwareUpdate.DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
+				<string>com.apple.SoftwareUpdate.BD65CD17-01A4-4299-9277-C63DD0CA6C4C</string>
 				<key>PayloadType</key>
 				<string>com.apple.SoftwareUpdate</string>
 				<key>PayloadUUID</key>
-				<string>DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
+				<string>BD65CD17-01A4-4299-9277-C63DD0CA6C4C</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ScheduleFrequency</key>
 				<integer>1</integer>
-				<key>SUDisableEVCheck</key>
-				<false/>
 				<key>forceDelayedSoftwareUpdates</key>
 				<false/>
 				<key>restrict-software-update-require-admin-to-install</key>
 				<true/>
 			</dict>
-			<dict>
-				<key>AutoUpdate</key>
-				<true/>
-				<key>AutoUpdateRestartRequired</key>
-				<true/>
-				<key>PayloadDisplayName</key>
-				<string>com.apple.commerce</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.commerce.A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
-				<key>PayloadType</key>
-				<string>com.apple.commerce</string>
-				<key>PayloadUUID</key>
-				<string>A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>(24December2024v1) Hardened Software Update settings for macOS.</string>
+		<string>(15June2025v1) Hardened Software Update settings for macOS.</string>
 		<key>PayloadDisplayName</key>
 		<string>macOS Hardening - Updates (System)</string>
 		<key>PayloadIdentifier</key>
@@ -68,7 +38,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>F2B53A42-E269-41AA-8194-6E87F737A84E</string>
+		<string>CCE2EC73-2C0D-472F-8CCC-A6FDB29A3E62</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>

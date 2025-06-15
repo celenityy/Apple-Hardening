@@ -22,11 +22,11 @@
 				<key>PayloadDisplayName</key>
 				<string>Software Update</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.SoftwareUpdate.5D11C280-4BD5-4B0F-AFA5-EF492A8C4348</string>
+				<string>com.apple.SoftwareUpdate.DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
 				<key>PayloadType</key>
 				<string>com.apple.SoftwareUpdate</string>
 				<key>PayloadUUID</key>
-				<string>5D11C280-4BD5-4B0F-AFA5-EF492A8C4348</string>
+				<string>DDC3888B-82F2-4B38-A503-6EC55146DD21</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ScheduleFrequency</key>
@@ -46,11 +46,11 @@
 				<key>PayloadDisplayName</key>
 				<string>com.apple.commerce</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.commerce.F60F1D99-3ED7-488E-9201-CEEBE82892D1</string>
+				<string>com.apple.commerce.A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
 				<key>PayloadType</key>
 				<string>com.apple.commerce</string>
 				<key>PayloadUUID</key>
-				<string>F60F1D99-3ED7-488E-9201-CEEBE82892D1</string>
+				<string>A5B0B934-404B-4E7D-930B-501AC2058FC1</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -58,17 +58,17 @@
 		<key>PayloadDescription</key>
 		<string>(24December2024v1) Hardened Software Update settings for macOS.</string>
 		<key>PayloadDisplayName</key>
-		<string>macOS Hardening - Updates (User)</string>
+		<string>macOS Hardening - Updates (System)</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.celenity.osx.updates.user</string>
+		<string>dev.celenity.osx.updates</string>
 		<key>PayloadOrganization</key>
 		<string>💘</string>
 		<key>PayloadScope</key>
-		<string>User</string>
+		<string>System</string>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>67A389FF-CF4D-4250-98D1-65D63F342140</string>
+		<string>F2B53A42-E269-41AA-8194-6E87F737A84E</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>

@@ -23,8 +23,6 @@
 				<true/>
 				<key>allowActivityContinuation</key>
 				<false/>
-				<key>allowAddingGameCenterFriends</key>
-				<false/>
 				<key>allowAirPlayIncomingRequests</key>
 				<false/>
 				<key>allowAirPrintiBeaconDiscovery</key>
@@ -53,16 +51,6 @@
 				<true/>
 				<key>allowAutoUnlock</key>
 				<false/>
-				<key>allowAutomaticAppDownloads</key>
-				<false/>
-				<key>allowAutomaticAppUpdates</key>
-				<true/>
-				<key>allowAutomaticScreenSaver</key>
-				<true/>
-				<key>allowBluetoothSharingModification</key>
-				<false/>
-				<key>allowBookstore</key>
-				<false/>
 				<key>allowBookstoreErotica</key>
 				<true/>
 				<key>allowCallRecording</key>
@@ -71,8 +59,6 @@
 				<true/>
 				<key>allowCellularPlanModification</key>
 				<true/>
-				<key>allowChat</key>
-				<false/>
 				<key>allowClassroomAirPlay</key>
 				<false/>
 				<key>allowClassroomAppLock</key>
@@ -89,33 +75,7 @@
 				<false/>
 				<key>allowClassroomScreenObservation</key>
 				<false/>
-				<key>allowCloudAddressBook</key>
-				<false/>
-				<key>allowCloudBTMM</key>
-				<false/>
-				<key>allowCloudBackup</key>
-				<false/>
-				<key>allowCloudBookmarks</key>
-				<false/>
-				<key>allowCloudCalendar</key>
-				<false/>
-				<key>allowCloudDesktopAndDocuments</key>
-				<false/>
-				<key>allowCloudDocumentSync</key>
-				<false/>
 				<key>allowCloudFMM</key>
-				<false/>
-				<key>allowCloudFreeform</key>
-				<false/>
-				<key>allowCloudKeychainSync</key>
-				<false/>
-				<key>allowCloudNotes</key>
-				<false/>
-				<key>allowCloudPhotoLibrary</key>
-				<false/>
-				<key>allowCloudPrivateRelay</key>
-				<true/>
-				<key>allowCloudReminders</key>
 				<false/>
 				<key>allowContentCaching</key>
 				<false/>
@@ -137,24 +97,12 @@
 				<true/>
 				<key>allowEnablingRestrictions</key>
 				<true/>
-				<key>allowEnterpriseAppTrust</key>
-				<false/>
-				<key>allowEnterpriseBookBackup</key>
-				<false/>
-				<key>allowEnterpriseBookMetadataSync</key>
-				<false/>
 				<key>allowEraseContentAndSettings</key>
 				<true/>
 				<key>allowExplicitContent</key>
 				<true/>
 				<key>allowExternalIntelligenceIntegrationsSignIn</key>
 				<false/>
-				<key>allowFileSharingModification</key>
-				<false/>
-				<key>allowFilesNetworkDriveAccess</key>
-				<true/>
-				<key>allowFilesUSBDriveAccess</key>
-				<true/>
 				<key>allowFindMyCar</key>
 				<false/>
 				<key>allowFindMyDevice</key>
@@ -166,8 +114,6 @@
 				<key>allowFingerprintModification</key>
 				<true/>
 				<key>allowGameCenterNearbyMultiplayer</key>
-				<false/>
-				<key>allowGameCenterPrivateMessaging</key>
 				<false/>
 				<key>allowGeotagSharing</key>
 				<false/>
@@ -185,54 +131,24 @@
 				<false/>
 				<key>allowInstalledAppNearMeSuggestions</key>
 				<false/>
-				<key>allowInternetSharingModification</key>
-				<false/>
-				<key>allowLiveVoicemail</key>
-				<false/>
 				<key>allowLocalUserCreation</key>
 				<true/>
-				<key>allowLockScreenControlCenter</key>
-				<false/>
-				<key>allowLockScreenNotificationsView</key>
-				<false/>
-				<key>allowLockScreenTodayView</key>
-				<false/>
 				<key>allowLockdownMode</key>
 				<true/>
-				<key>allowMailPrivacyProtection</key>
-				<true/>
-				<key>allowMailSummary</key>
-				<true/>
-				<key>allowManagedAppsCloudSync</key>
-				<false/>
 				<key>allowMarketplaceAppInstallation</key>
 				<true/>
 				<key>allowMDMEnrollment</key>
-				<false/>
-				<key>allowMediaSharing</key>
-				<false/>
-				<key>allowMediaSharingModification</key>
 				<false/>
 				<key>allowMultitasking</key>
 				<true/>
 				<key>allowMusicArtistActivity</key>
 				<false/>
-				<key>allowMusicService</key>
-				<false/>
-				<key>allowNFC</key>
-				<false/>
 				<key>allowNotificationsModification</key>
-				<true/>
-				<key>allowOTAPKIUpdates</key>
 				<true/>
 				<key>allowOpenFromManagedToUnmanaged</key>
 				<true/>
 				<key>allowOpenFromUnmanagedToManaged</key>
 				<true/>
-				<key>allowPairedWatch</key>
-				<false/>
-				<key>allowPassbookWhileLocked</key>
-				<false/>
 				<key>allowPasscodeModification</key>
 				<true/>
 				<key>allowPasswordProximityRequests</key>
@@ -241,42 +157,20 @@
 				<false/>
 				<key>allowPersonalHotspotModification</key>
 				<true/>
-				<key>allowPersonalizedHandwritingResults</key>
-				<false/>
-				<key>allowPhotoStream</key>
-				<false/>
-				<key>allowPodcasts</key>
-				<false/>
 				<key>allowPredictiveKeyboard</key>
 				<false/>
 				<key>allowPrinterSharingModification</key>
 				<false/>
 				<key>allowProximitySetupToNewDevice</key>
 				<false/>
-				<key>allowQuickNote</key>
-				<false/>
 				<key>allowRCSMessaging</key>
 				<true/>
-				<key>allowRapidSecurityResponseInstallation</key>
-				<true/>
-				<key>allowRapidSecurityResponseRemoval</key>
-				<false/>
-				<key>allowRemoteAppPairing</key>
-				<false/>
-				<key>allowRemoteAppleEventsModification</key>
-				<false/>
 				<key>allowRemoteScreenObservation</key>
 				<false/>
-				<key>allowSafariSummary</key>
-				<true/>
 				<key>allowSafetyDataSubmission</key>
 				<false/>
 				<key>allowScreenTimeModification</key>
 				<true/>
-				<key>allowSharedDeviceTemporarySession</key>
-				<true/>
-				<key>allowSharedStream</key>
-				<false/>
 				<key>allowShowingUndownloadedTV</key>
 				<true/>
 				<key>allowShowingUndownloadedMovies</key>
@@ -295,21 +189,13 @@
 				<true/>
 				<key>allowTranslationLookup</key>
 				<false/>
-				<key>allowTV</key>
-				<false/>
-				<key>allowTVProviderModification</key>
-				<false/>
 				<key>allowUIAppInstallation</key>
 				<true/>
 				<key>allowUIConfigurationProfileInstallation</key>
 				<true/>
-				<key>allowUSBDriveAccess</key>
-				<true/>
 				<key>allowUSBRestrictedMode</key>
 				<true/>
 				<key>allowUninstalledAppNearMeSuggestions</key>
-				<false/>
-				<key>allowUniversalControl</key>
 				<false/>
 				<key>allowUnpairedExternalBootToRecovery</key>
 				<false/>
@@ -317,27 +203,15 @@
 				<false/>
 				<key>allowVPNCreation</key>
 				<true/>
-				<key>allowVideoConferencing</key>
-				<false/>
 				<key>allowVoiceDialing</key>
 				<false/>
 				<key>allowWallpaper</key>
 				<true/>
 				<key>allowWallpaperModification</key>
 				<true/>
-				<key>allowWebDistributionAppInstallation</key>
-				<true/>
 				<key>allowWheelchairDataSubmission</key>
 				<false/>
 				<key>allowWiFiToCellularFallback</key>
-				<false/>
-				<key>allowYouTube</key>
-				<false/>
-				<key>allowiPhoneMirroring</key>
-				<false/>
-				<key>allowiPhoneWidgetsOnMac</key>
-				<false/>
-				<key>allowiTunesFileSharing</key>
 				<false/>
 				<key>allowiTunesSocialPages</key>
 				<false/>
@@ -352,8 +226,6 @@
 				<key>forceAssistantProfanityFilter</key>
 				<false/>
 				<key>forceAuthenticationBeforeAutoFill</key>
-				<true/>
-				<key>forceAutomaticDateAndTime</key>
 				<true/>
 				<key>forceBypassScreenCaptureAlert</key>
 				<false/>
