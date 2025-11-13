@@ -26,23 +26,9 @@ As you will see below, there will be more to configure for macOS than for iOS, a
 
 1. Install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig).
 
-2. Depending on your personal preference, install either [`iOS-Base.mobileconfig`](iOS/System/iOS-Base.mobileconfig), [`iOS-Extended.mobileconfig`](iOS/System/iOS-Extended.mobileconfig) **or** [`iOS-Extended-Siri.mobileconfig`](iOS/System/iOS-Extended-Siri.mobileconfig) . **Only install one of them.** 
+2. Install [`iOS.mobileconfig`](iOS.mobileconfig).
 
-**Extended** is the most private & secure, but it may cause breakage & issues depending on your use case. Services such as Siri, iCloud, Find My, Books, Apple TV, & News are completely disabled where possible. If you still wish to use functionality related to Siri & Apple Intelligence, you should use **Extended-Siri** instead of **Extended**.
-
-3. If you chose **Extended** or **Extended-Siri**, additionally install [`iOS-Extended-Shared.mobileconfig`](iOS/System/iOS-Extended-Shared.mobileconfig).
-
-4. Regardless of what you chose above, install [`DNS.mobileconfig`](DNS/DNS.mobileconfig) & select a DNS provider of your choice. **Quad9** is generally recommended for most users, as it is ran by a Switzerland-based non-profit with a very strong privacy policy & track record, and offers real-time protection against malicious domains.
-
-5. You can also optionally install [`DNS-Family.mobileconfig`](DNS/DNS-Family.mobileconfig) if you wish to restrict access to objectionable content on your device, such as NSFW & gambling.
-
-#### iOS TL;DR
-
-It's recommended that most users simply install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`iOS-Base.mobileconfig`](iOS/System/iOS-Base.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
-
-If you would like additional hardening at the cost of occasional breakage or inconvenience as explained above, you should **instead** install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`iOS-Extended.mobileconfig`](iOS/System/iOS-Extended.mobileconfig), [`iOS-Extended-Shared.mobileconfig`](iOS/System/iOS-Extended-Shared.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
-
-If you wish to use the Extended configs but still want Siri/Apple Intelligence functionality, you should install [`iOS-Extended-Siri.mobileconfig`](iOS/System/iOS-Extended-Siri.mobileconfig) **instead** of [`iOS-Extended.mobileconfig`](iOS/System/iOS-Extended.mobileconfig).
+3. Install [`DNS.mobileconfig`](DNS/DNS.mobileconfig), and select a DNS provider of your choice. **Quad9** is generally recommended for most users, as it is ran by a Switzerland-based non-profit with a very strong privacy policy & track record, and offers real-time protection against malicious domains.
 
 ### macOS
 
@@ -56,37 +42,35 @@ ___
 
 1. Install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig).
 
-2. Install [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig).
+2. Install [`macOS-Shared.mobileconfig`](macOS/macOS-Shared.mobileconfig).
 
-3. Install [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig).
+3. Install [`macOS-3P.mobileconfig`](macOS/macOS-3P.mobileconfig).
 
-4. Install [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig). *If you would like the ability to participate in Beta updates, you should **instead** install [`Updates-Beta.mobileconfig`](macOS/System/Updates-Beta.mobileconfig). Do **NOT** install both!!*
+4. Install [`Updates.mobileconfig`](macOS/Updates.mobileconfig). *If you would like the ability to participate in Beta updates, you should **instead** install [`Updates-Beta.mobileconfig`](macOS/Updates-Beta.mobileconfig). Do **NOT** install both!!*
 
-5. Depending on your personal preference, install either [`macOS-Base.mobileconfig`](macOS/System/macOS-Base.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig) **or** [`macOS-Extended-Siri.mobileconfig`](macOS/System/macOS-Extended-Siri.mobileconfig) . **Only install one of them.** 
+5. Depending on your personal preference, install either [`macOS-Base.mobileconfig`](macOS/macOS-Base.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/macOS-Extended.mobileconfig) **or** [`macOS-Extended-Siri.mobileconfig`](macOS/macOS-Extended-Siri.mobileconfig) . **Only install one of them.** 
 
 **Extended** is the most private & secure, but it may cause breakage & issues depending on your use case. Services such as Siri, iCloud, Find My, Books, Apple TV, & News are completely disabled where possible. If you still wish to use functionality related to Siri & Apple Intelligence, you should use **Extended-Siri** instead of **Extended**.
 
-6. If you chose **Extended** or **Extended-Siri**, additionally install [`macOS-Extended-Shared.mobileconfig`](macOS/System/macOS-Extended-Shared.mobileconfig).
+6. If you chose **Extended** or **Extended-Siri**, additionally install [`macOS-Extended-Shared.mobileconfig`](macOS/macOS-Extended-Shared.mobileconfig).
 
-7. Depending on your personal preference, install either [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig) **or** [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig). **Only install one of them.**
+7. Depending on your personal preference, install either [`Firewall.mobileconfig`](macOS/Firewall.mobileconfig) **or** [`Firewall-Extended.mobileconfig`](macOS/Firewall-Extended.mobileconfig). **Only install one of them.**
 
 **Extended** is more private & secure, but it may cause issues with certain functionality, such as iOS Device Back-up & Sync, iCloud, Home, & Find My.
 
-9. Regardless of what you chose above, install [`DNS.mobileconfig`](DNS/DNS.mobileconfig) & select a DNS provider of your choice. **Quad9** is generally recommended for most users, as it is ran by a Switzerland-based non-profit with a very strong privacy policy & track record, and offers real-time protection against malicious domains.
-
-10.  You can also optionally install [`DNS-Family.mobileconfig`](DNS/DNS-Family.mobileconfig) if you wish to restrict access to objectionable content on your device, such as NSFW & gambling.
+9. Regardless of what you chose above, install [`DNS.mobileconfig`](DNS/DNS.mobileconfig), and select a DNS provider of your choice. **Quad9** is generally recommended for most users, as it is ran by a Switzerland-based non-profit with a very strong privacy policy & track record, and offers real-time protection against malicious domains.
 
 Feel free to mix and match these configs as much as you'd like! For example, you could use the `Base` config for your system, but the `Extended` configs for Safari & the Firewall, or vice versa. It's up to you how you choose to use them.
 
 #### macOS TL;DR
 
-It's recommended that most users install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Base.mobileconfig`](macOS/System/macOS-Base.mobileconfig), [`Firewall.mobileconfig`](macOS/System/Firewall.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
+It's recommended that most users install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/Updates.mobileconfig), [`macOS-Base.mobileconfig`](macOS/macOS-Base.mobileconfig), [`Firewall.mobileconfig`](macOS/Firewall.mobileconfig), and [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
 
-If you would like additional hardening at the cost of occasional breakage or inconvenience as explained above, you should **instead** install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/System/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/System/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig), [`macOS-Extended-Shared.mobileconfig`](macOS/System/macOS-Extended-Shared.mobileconfig), [`Firewall-Extended.mobileconfig`](macOS/System/Firewall-Extended.mobileconfig), & [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
+If you would like additional hardening at the cost of occasional breakage or inconvenience as explained above, you should **instead** install [`Hardening-Shared.mobileconfig`](Hardening-Shared.mobileconfig), [`macOS-Shared.mobileconfig`](macOS/macOS-Shared.mobileconfig), [`macOS-3P.mobileconfig`](macOS/macOS-3P.mobileconfig), [`Updates.mobileconfig`](macOS/Updates.mobileconfig), [`macOS-Extended.mobileconfig`](macOS/macOS-Extended.mobileconfig), [`macOS-Extended-Shared.mobileconfig`](macOS/macOS-Extended-Shared.mobileconfig), [`Firewall-Extended.mobileconfig`](macOS/Firewall-Extended.mobileconfig), and [`DNS.mobileconfig`](DNS/DNS.mobileconfig).
 
-If you wish to use the Extended configs but still want Siri/Apple Intelligence functionality, you should install [`macOS-Extended-Siri.mobileconfig`](macOS/System/macOS-Extended-Siri.mobileconfig) **instead** of [`macOS-Extended.mobileconfig`](macOS/System/macOS-Extended.mobileconfig).
+If you wish to use the Extended configs but still want Siri/Apple Intelligence functionality, you should install [`macOS-Extended-Siri.mobileconfig`](macOS/macOS-Extended-Siri.mobileconfig) **instead** of [`macOS-Extended.mobileconfig`](macOS/macOS-Extended.mobileconfig).
 
-If you would like to participate in Beta software updates from Apple, install [`Updates-Beta.mobileconfig`](macOS/System/Updates-Beta.mobileconfig) **instead** of [`Updates.mobileconfig`](macOS/System/Updates.mobileconfig).
+If you would like to participate in Beta software updates from Apple, install [`Updates-Beta.mobileconfig`](macOS/Updates-Beta.mobileconfig) **instead** of [`Updates.mobileconfig`](macOS/Updates.mobileconfig).
 
 ## Features
 
@@ -106,8 +90,6 @@ If you would like to participate in Beta software updates from Apple, install [`
 
 * Blocks apps from requesting to track your activity via ATT (https://support.apple.com/102420 https://developer.apple.com/documentation/apptrackingtransparency)
 
-* Blocks untrusted HTTPS certificates
-
 * Enforces OTA Public-key-infrastructure Updates
 
 * Disables submission of diagnostic data to Apple
@@ -121,8 +103,6 @@ If you would like to participate in Beta software updates from Apple, install [`
 * Disables Apple's "Personalized Advertising" (https://support.apple.com/105131)
 
 * Requires a device pairing password for outgoing AirPlay requests
-
-* Enforces Fraudulent Website Warning (Safe Browsing) in Safari
 
 * Blocks websites using insecure TLS 1.0 & 1.1 in Safari
 
@@ -144,23 +124,15 @@ If you would like to participate in Beta software updates from Apple, install [`
 
 * Disables Online Siri Suggestions
 
-* Enforces automatic date & time
-
 * Requires authentication via Face or Touch ID for Autofill
 
 * Disables Predictive Keyboard
 
 * Enforces Mail Privacy Protection
 
-* Disables "Personalized Handwriting Results"
-
-* Disallows discovery of AirPrint Printers using iBeacons
-
 * Requires trusted certificates for AirPrint
 
 * Disables Automatic App Downloads (**Not including updates**)
-
-* Disables adding Game Center Friends
 
 * Disables "Remote Screen Observation"
 
@@ -176,75 +148,11 @@ If you would like to participate in Beta software updates from Apple, install [`
 
 * Disables Siri's Profanity Filter
 
-* Disables Web Content in Siri
-
 * Blocks defering Software Updates
 
 * Enforces Installation of Rapid Security Responses
 
 * Blocks removing Rapid Security Security Responses
-
-#### Extended
-
-**In addition to everything above in Base:**
-
-* Disables Handoff (Activity Continuation)
-
-* Disables notification history on lock screen
-
-* Disables iCloud Backup
-
-* Disables iCloud Keychain Sync
-
-* Disables iCloud Sync for Managed Apps
-
-* Disables iCloud Enterprise Books Backup
-
-* Disables iCloud Enterprise Books, Notes, and Highlights Sync
-
-* Disables iCloud Photo Sharing
-
-* Disables iCloud Photo Library
-
-* Disables iCloud Photo Stream
-
-* Disables Siri
-
-* Prevents use of basic passcodes to unlock device
-
-* Requires alphabetic values in device passcode
-
-*For Supervised Devices:*
-
-* Disables Find My Friends
-
-* Disables Find My Devices
-
-* Prevents pairing with Apple Watch
-
-* Blocks setting up nearby iOS Devices
-
-* Disables Dictation
-
-* Disables iPhone Mirroring
-
-* Disables iPhone Widgets on Mac
-
-* Disables Apple Music
-
-* Disables Apple Bookstore
-
-* Disables Apple News
-
-* Disables Podcasts
-
-* Disables Safari Autofill
-
-* Disables iCloud Document Sync
-
-* Disables requesting passwords from nearby devices
-
-* Disables sharing passwords via AirDrop
 
 ### macOS
 
